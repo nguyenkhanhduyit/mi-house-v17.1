@@ -1,0 +1,40 @@
+/* Only hosts the exact source UI in an isolated document. Never overrides source layout rules. */
+html:has(.source-admin-host),body:has(.source-admin-host),#root:has(.source-admin-host){padding:0!important;margin:0!important;width:100%!important;height:100%!important;max-width:none!important;overflow:hidden!important;background:#f8f7fa!important}
+.source-admin-host{position:fixed;inset:0;width:100vw;height:100dvh;background:#f8f7fa;z-index:1}
+.source-admin-iframe{display:block;border:0;width:100%;height:100%;background:#f8f7fa}
+.source-admin-notice{position:fixed;bottom:24px;right:24px;z-index:10000;background:#fff;border:1px solid #e7e7ed;box-shadow:0 8px 24px #0002;border-radius:8px;padding:15px;display:flex;align-items:center;gap:18px;font:14px/1.5 'Public Sans',system-ui;color:#32303c;max-width:min(550px,calc(100vw - 32px))}
+.source-admin-notice button{border:0;background:transparent;cursor:pointer;font:22px/1 system-ui}
+.source-admin-loading{min-height:100vh;display:grid;place-content:center;font:16px system-ui;color:#655e6d}
+
+/* ------------------------------------------------------------------
+ CMS additions. Every rule below only styles the blocks the React layer
+ creates inside the archived admin markup - it never fights the source
+ stylesheet (Bootstrap / Tabler) shipped under /admin-source/assets/admin.
+ ------------------------------------------------------------------ */
+
+/* "Nội dung seo" -> tab "Nâng cao": keyword chính + checklist.
+   The markup reuses the original RankMath class names
+   (seo-checklist / seo-check-* / test-pass / test-fail) so the archived
+   theme keeps its look; only the pass/warn state colours are added. */
+#cms-seo-card .seo-checklist{list-style:none;margin:10px 0 0;padding:0}
+#cms-seo-card .seo-checklist li{display:flex;align-items:flex-start;gap:8px;padding:6px 0;font-size:13px;line-height:1.45;color:#5c5666;border-bottom:1px dashed #eee9f2}
+#cms-seo-card .seo-checklist li:last-child{border-bottom:0}
+#cms-seo-card .seo-checklist li .icon{flex:0 0 18px;display:inline-flex;align-items:center;justify-content:center;width:18px;height:18px;border-radius:50%;font-size:12px;line-height:1}
+#cms-seo-card .seo-checklist li .txt{flex:1 1 auto}
+#cms-seo-card .seo-checklist li.test-pass .icon{background:#e6f7ed;color:#0b7a3e}
+#cms-seo-card .seo-checklist li.test-warn .icon{background:#fff4e0;color:#b26b00}
+#cms-seo-card .seo-checklist li.test-fail .icon{background:#fdeaea;color:#c62828}
+#cms-seo-card .seo-checklist li.test-fail .txt{color:#a3a0ab}
+/* Đếm ký tự SEO vượt giới hạn -> viền đỏ (giống hành vi form gốc). */
+#cms-seo-card .is-over-limit{border-color:#dc3545 !important}
+#cms-seo-card .count-seo span{color:inherit}
+
+/* Thanh tab của khu vực Album (Danh mục cấp 1 / Hình ảnh album). */
+#cms-album-tabs{border-bottom:1px solid #e9e6f0}
+#cms-album-tabs .nav-link{color:#655e6d;border:0;border-bottom:2px solid transparent;background:transparent;padding:8px 14px;font-weight:500}
+#cms-album-tabs .nav-link.active{color:#8f624a;border-bottom-color:#8f624a;background:transparent}
+
+/* Trường bổ sung sinh thêm (Alt photo, link liên hệ, ...) giữ cùng
+   nhịp không gian với form gốc. */
+.source-business-field label{display:block;margin-bottom:4px;font-size:13px;font-weight:500;color:#3d3a47}
+.source-business-extra .card-header h5{font-size:15px;font-weight:600;color:#3d3a47}

@@ -1,0 +1,116 @@
+/* Marquee */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+/* FloatingY */
+@keyframes floatingY {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+}
+/* Arrow Bounce Right */
+@keyframes arrowBounceRight {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  50% {
+    transform: translateX(5px);
+  }
+}
+/* Spin */
+@keyframes spin {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}
+/* Floating Arrrow */
+@keyframes floatingArrow {
+  25% {
+    opacity: 1;
+  }
+  33.3% {
+    opacity: 0.7;
+    transform: translateY(-3px);
+  }
+  66.6% {
+    opacity: 0.4;
+    transform: translateY(-7px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-11px) scale(0.7);
+  }
+}
+/* Blink */
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.blink {
+  animation: blink 1s infinite linear;
+}
+
+/* Shake Anim */
+@keyframes shake-anim {
+  0%, 100%, 50% {
+    transform: rotate(0) scale(1) skew(1deg);
+  }
+  10%, 30% {
+    transform: rotate(-25deg) scale(1) skew(1deg);
+  }
+  20%, 40% {
+    transform: rotate(25deg) scale(1) skew(1deg);
+  }
+}
+.shake-anim {
+  transform-origin: 50% 50%;
+  animation: shake-anim 1s infinite ease-in-out;
+}
+
+/* Button Frame */
+@keyframes pulse-animation {
+  0% {
+    opacity: 0;
+    transform: scale3d(1, 1, 1);
+  }
+  10% {
+    opacity: 1;
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale3d(1.6, 1.6, 1.6);
+  }
+}
+@keyframes border-animation {
+  0% {
+    opacity: 0;
+    transform: scale3d(0.6, 0.6, 0.6);
+  }
+  20% {
+    opacity: 1;
+    transform: scale3d(1.2, 1.2, 1.2);
+  }
+  100% {
+    opacity: 0;
+    transform: scale3d(1.4, 1.4, 1.4);
+  }
+}

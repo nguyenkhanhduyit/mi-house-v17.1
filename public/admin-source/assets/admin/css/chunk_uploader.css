@@ -1,0 +1,106 @@
+/**
+ * NASANI VIỆT NAM - Chunk Uploader Styles
+ */
+
+.nasani-chunk-uploader {
+    position: relative;
+    background: #fafbfe;
+    border: 1px solid #e7e7e8;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+    transition: all 0.2s ease;
+}
+
+.dark-style .nasani-chunk-uploader,
+[data-theme="dark"] .nasani-chunk-uploader {
+    background: #2b2c40;
+    border-color: #444564;
+}
+
+.chunk-dropzone {
+    border: 2px dashed #b4b7bd;
+    border-radius: 6px;
+    padding: 20px 16px;
+    text-align: center;
+    background: #fff;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.dark-style .chunk-dropzone,
+[data-theme="dark"] .chunk-dropzone {
+    background: #232333;
+    border-color: #5d5f79;
+}
+
+.chunk-dropzone:hover,
+.chunk-dropzone.dragover {
+    border-color: var(--bs-main);
+    background: rgba(115, 103, 240, 0.05);
+}
+
+.chunk-dropzone-icon {
+    font-size: 32px;
+    color: var(--bs-main);
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.chunk-progress-wrapper {
+    background: #fff;
+    border-radius: 6px;
+    padding: 14px;
+    border: 1px solid #e7e7e8;
+}
+
+.dark-style .chunk-progress-wrapper,
+[data-theme="dark"] .chunk-progress-wrapper {
+    background: #232333;
+    border-color: #444564;
+}
+
+.chunk-progress-bar {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 16px;
+    transition: width 0.2s linear;
+}
+
+.chunk-telemetry {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 6px;
+    color: #6e6b7b;
+}
+
+.dark-style .chunk-telemetry,
+[data-theme="dark"] .chunk-telemetry {
+    color: #b6bee3;
+}
+
+.chunk-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.chunk-preview-wrapper {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px dashed #e0e0e0;
+}
+
+.dark-style .chunk-preview-wrapper,
+[data-theme="dark"] .chunk-preview-wrapper {
+    border-top-color: #444564;
+}
+
+.chunk-preview-wrapper video {
+    max-width: 100%;
+    width: 625px;
+    max-height: 340px;
+    border-radius: 6px;
+    background: #000;
+}

@@ -1,0 +1,36 @@
+{
+  "name": "mi-house-spa-react",
+  "version": "2.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "check": "node scripts/verify.mjs",
+    "assets:download": "node scripts/download-assets.mjs",
+    "assets:sync": "node scripts/sync-local-assets.mjs",
+    "check:react": "node scripts/verify-jsx-imports.mjs",
+    "dev:frontend": "vite --host 0.0.0.0 --port 555 --strictPort",
+    "dev:api": "node server/index.mjs",
+    "start": "node server/production.mjs",
+    "test:api": "node scripts/test-api.mjs",
+    "test:serverless": "node scripts/test-vercel-serverless.mjs",
+    "test:fidelity": "node scripts/test-regression-fixes.mjs",
+    "media:migrate": "node scripts/migrate-media-cloudinary.mjs --execute",
+    "media:dry-run": "node scripts/migrate-media-cloudinary.mjs --dry-run",
+    "test:business": "node scripts/test-business-v14.mjs",
+    "test:frontend": "node scripts/test-frontend-cms-mapping.mjs",
+    "check:frontend": "node scripts/check-frontend-build.mjs",
+    "media:audit": "node scripts/audit-media-coverage.mjs",
+    "test:regression": "node scripts/test-regression-fixes.mjs",
+    "test:critical": "node scripts/test-critical-v15.mjs"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.0"
+  }
+}

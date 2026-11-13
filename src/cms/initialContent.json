@@ -1,0 +1,687 @@
+{
+  "collections": {
+    "nail": [
+      {
+        "id": "original-nail-1",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123958-1789018809.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-2",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123934-1789018781.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-3",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123854-1789018745.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-4",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123824-1789018713.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-5",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123746-1789018676.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-6",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123715-1789018645.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-7",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123646-1789018614.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-nail-8",
+        "title": "Nail hottrend",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-123445-1789018495.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      }
+    ],
+    "space": [
+      {
+        "id": "original-space-1",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-120004-1789019284.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-2",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115953-1789019267.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-3",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115842-1789018414.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-4",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115830-1789018400.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-5",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115809-1789018385.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-6",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115758-1789018371.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-7",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115749-1789018345.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-8",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115737-1789018326.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-9",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115725-1789018304.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-10",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115714-1789018292.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-11",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115704-1789018276.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-space-12",
+        "title": "Không gian",
+        "image": "/thumbs/360x360x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115652-1789018252.webp",
+        "video": "",
+        "href": "",
+        "status": "published"
+      }
+    ],
+    "menu": [
+      {
+        "id": "original-menu-1",
+        "title": "Menu Nail Bổ sung 0",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/23/menu-nail-bo-sung-1790155910.webp",
+        "full": "/upload/news/2026/09/23/menu-nail-bo-sung-1790155910.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-2",
+        "title": "Menu Mi House Spa 1",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/17898816489442758971624048143724387382050875048701cc973b66801fcd11d4932d9fd147ef2-1789882786.webp",
+        "full": "/upload/news/2026/09/20/17898816489442758971624048143724387382050875048701cc973b66801fcd11d4932d9fd147ef2-1789882786.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-3",
+        "title": "Menu Mi House Spa 2",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648949275897162404814372438738205087504870194b9c8ef6a27c6e97f8baa1abfaaaad-1789882799.webp",
+        "full": "/upload/news/2026/09/20/1789881648949275897162404814372438738205087504870194b9c8ef6a27c6e97f8baa1abfaaaad-1789882799.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-4",
+        "title": "Menu Mi House Spa 3",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/178988164895327589716240481437243873820508750487041d70bc844ee1e00e1534990ac36f4d8-1789882814.webp",
+        "full": "/upload/news/2026/09/20/178988164895327589716240481437243873820508750487041d70bc844ee1e00e1534990ac36f4d8-1789882814.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-5",
+        "title": "Menu Mi House Spa 4",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648957275897162404814372438738205087504870e0c60a3802cef6741c051922791b025a-1789882828.webp",
+        "full": "/upload/news/2026/09/20/1789881648957275897162404814372438738205087504870e0c60a3802cef6741c051922791b025a-1789882828.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-6",
+        "title": "Menu Mi House Spa 5",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/178988164896027589716240481437243873820508750487065726799551eaa4cf95af57102a66bed-1789882843.webp",
+        "full": "/upload/news/2026/09/20/178988164896027589716240481437243873820508750487065726799551eaa4cf95af57102a66bed-1789882843.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-7",
+        "title": "Menu Mi House Spa 6",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648963275897162404814372438738205087504870cf9b38085c3bb92fe1672217309c8500-1789882860.webp",
+        "full": "/upload/news/2026/09/20/1789881648963275897162404814372438738205087504870cf9b38085c3bb92fe1672217309c8500-1789882860.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-8",
+        "title": "Menu Mi House Spa 7",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648966275897162404814372438738205087504870bc4ed451578307486d494266516f5a55-1789882876.webp",
+        "full": "/upload/news/2026/09/20/1789881648966275897162404814372438738205087504870bc4ed451578307486d494266516f5a55-1789882876.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-9",
+        "title": "Menu Mi House Spa 8",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648968275897162404814372438738205087504870a634f286fdbbb1adc223cebb938f3c9f-1789882893.webp",
+        "full": "/upload/news/2026/09/20/1789881648968275897162404814372438738205087504870a634f286fdbbb1adc223cebb938f3c9f-1789882893.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-10",
+        "title": "Menu Mi House Spa 9",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648971275897162404814372438738205087504870ef9ef090b498dadf865f89f36b58d464-1789883012.webp",
+        "full": "/upload/news/2026/09/20/1789881648971275897162404814372438738205087504870ef9ef090b498dadf865f89f36b58d464-1789883012.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-11",
+        "title": "Menu Mi House Spa 10",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/1789881648974275897162404814372438738205087504870d8d14d6ab4221854ea8a3ef9c2986680-1789882931.webp",
+        "full": "/upload/news/2026/09/20/1789881648974275897162404814372438738205087504870d8d14d6ab4221854ea8a3ef9c2986680-1789882931.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-menu-12",
+        "title": "Menu Mi House Spa 11",
+        "image": "/thumbs/480x710x1/upload/news/2026/09/20/17898816489762758971624048143724387382050875048707c30ed86e6ebe29ceea4a6ef241a121c-1789882948.webp",
+        "full": "/upload/news/2026/09/20/17898816489762758971624048143724387382050875048707c30ed86e6ebe29ceea4a6ef241a121c-1789882948.jpg",
+        "video": "",
+        "href": "",
+        "status": "published"
+      }
+    ],
+    "videos": [
+      {
+        "id": "original-videos-1",
+        "title": "Video TikTok",
+        "image": "/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165825-1789034316.webp",
+        "video": "/upload/file/missaa3137663155697017785620-1789034316.mp4",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-videos-2",
+        "title": "Video TikTok",
+        "image": "/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165738-1789034266.webp",
+        "video": "/upload/file/meilnail77649745681149627669-1789034265.mp4",
+        "href": "",
+        "status": "published"
+      },
+      {
+        "id": "original-videos-3",
+        "title": "Video TikTok",
+        "image": "/thumbs/420x670x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-165651-1789034224.webp",
+        "video": "/upload/file/darkbabenails7666390344141409556-1789034160.mp4",
+        "href": "",
+        "status": "published"
+      }
+    ],
+    "slides": [
+      {
+        "id": "original-slides-1",
+        "title": "",
+        "image": "/thumbs/1920x1000x1/upload/photo/2026/09/20/d00e3664-67f6-4cc2-ab5b-b2fb8286b821-1789883238.webp",
+        "video": "",
+        "href": "/lien-he",
+        "status": "published"
+      },
+      {
+        "id": "original-slides-2",
+        "title": "Mi House",
+        "image": "/thumbs/1920x1000x1/upload/photo/2026/09/04/slide-raw-1788513430.webp",
+        "video": "",
+        "href": "/lien-he",
+        "status": "published"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": "original-article-1",
+      "sourceRoute": "/mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap",
+      "slug": "mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap",
+      "title": "Mi House Spa – Không Gian Gội Đầu Dưỡng Sinh & Massage Ấm Cúng Tại Quang Trung, Gò Vấp",
+      "description": "Giữa nhịp sống bận rộn, việc dành thời gian chăm sóc bản thân và thư giãn tinh thần ngày càng được nhiều người quan tâm. Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian ấm cúng, nhẹ nhàng và trải nghiệm chăm sóc cơ thể theo phong cách dưỡng sinh.",
+      "body": "<h1><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a> | </em>Mi House Spa – Không Gian Gội Đầu Dưỡng Sinh &amp; Massage Ấm Cúng Tại Quang Trung, Gò Vấp</h1>\n<p>Giữa nhịp sống bận rộn, việc dành thời gian chăm sóc bản thân và thư giãn tinh thần ngày càng được nhiều người quan tâm. Nếu bạn đang tìm kiếm địa chỉ <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian ấm cúng, nhẹ nhàng và trải nghiệm chăm sóc cơ thể theo phong cách dưỡng sinh.</p>\n<p>Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa cung cấp các dịch vụ gội đầu dưỡng sinh, massage và nail, đáp ứng nhu cầu thư giãn và làm đẹp của khách hàng ngay tại khu vực địa phương.</p>\n<h2 id=\"mh-toc-1\"><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp – Trải Nghiệm Thư Giãn Nhẹ Nhàng</h2>\n<p>Gội đầu dưỡng sinh không chỉ hướng đến việc làm sạch tóc mà còn mang lại trải nghiệm chăm sóc kết hợp thư giãn. Những thao tác massage nhẹ nhàng trong quá trình chăm sóc giúp khách hàng có khoảng thời gian nghỉ ngơi, tạm gác lại công việc và những bộn bề thường nhật.</p>\n<p>Tại Mi House Spa, dịch vụ gội đầu dưỡng sinh phù hợp với những người muốn tìm một không gian chăm sóc bản thân sau giờ làm việc, sau những ngày học tập bận rộn hoặc đơn giản là muốn tận hưởng khoảng thời gian riêng tư. Đây cũng là lựa chọn đáng cân nhắc cho khách hàng sinh sống, làm việc tại đường Quang Trung và các khu vực lân cận Gò Vấp.</p>\n<h2 id=\"mh-toc-2\">Không Gian Dưỡng Sinh Ấm Cúng Tại Mi House Spa</h2>\n<p>Mi House Spa lựa chọn gam màu nâu và be làm tông màu chủ đạo, tạo cảm giác gần gũi, ấm áp và nhẹ nhàng. Phong cách dưỡng sinh spa hướng đến sự thoải mái, giúp khách hàng có thể tạm rời xa nhịp sống bên ngoài để dành thời gian nghỉ ngơi.</p>\n<p>Không cần đi xa để tìm kiếm một khoảng lặng, bạn có thể ghé Mi House Spa ngay trên đường Quang Trung, Gò Vấp để trải nghiệm dịch vụ chăm sóc phù hợp với nhu cầu cá nhân. Không gian ấm cúng cùng các dịch vụ đa dạng mang đến thêm lựa chọn cho những ai yêu thích việc chăm sóc sức khỏe tinh thần và sắc đẹp.</p>\n<h2 id=\"mh-toc-3\">Massage Và Nail – Chăm Sóc Bản Thân Trong Cùng Một Không Gian</h2>\n<p>Bên cạnh gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa còn cung cấp dịch vụ massage dành cho khách hàng muốn dành thời gian thư giãn cơ thể. Đây là lựa chọn phù hợp sau một ngày làm việc hoặc khi bạn muốn bổ sung thời gian nghỉ ngơi vào lịch trình chăm sóc bản thân.</p>\n<p>Dịch vụ nail cũng là một phần trong các lựa chọn làm đẹp tại Mi House Spa. Khách hàng có thể lựa chọn dịch vụ phù hợp với sở thích và nhu cầu của mình, thuận tiện kết hợp chăm sóc móng với các trải nghiệm thư giãn khác tại spa.</p>\n<h2 id=\"mh-toc-4\">Vì Sao Nên Trải Nghiệm Mi House Spa Tại Gò Vấp?</h2>\n<p>Với phong cách dưỡng sinh, không gian nâu be ấm cúng và các dịch vụ gội đầu dưỡng sinh, massage, nail, Mi House Spa hướng đến trải nghiệm chăm sóc gần gũi và thuận tiện. Vị trí tại đường Quang Trung giúp khách hàng trong khu vực dễ dàng tìm đến khi có nhu cầu thư giãn hoặc làm đẹp.</p>\n<p>Nếu bạn đang tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, hãy tham khảo Mi House Spa để lựa chọn dịch vụ phù hợp với nhu cầu của mình. Spa mở cửa từ 9:00 đến 22:00 mỗi ngày, từ thứ Hai đến Chủ Nhật, thuận tiện cho khách hàng sắp xếp thời gian ghé thăm.</p>\n<h2 id=\"mh-toc-5\">Thông Tin Liên Hệ Mi House Spa | <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></h2>\n<p>Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh.</p>\n<p>Điện thoại: 0905 665 116.</p>\n<p>Giờ mở cửa: 9:00 – 22:00, thứ Hai đến Chủ Nhật.</p>\n<p>Website: https://mihousespa.com</p>\n<p>Mi House Spa chào đón bạn đến trải nghiệm dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian ấm cúng tại Quang Trung, Gò Vấp. Hãy dành một khoảng thời gian cho bản thân và lựa chọn cách thư giãn phù hợp với nhịp sống của bạn.</p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08597-1792082506.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 1,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Mi House Spa – Không Gian Gội Đầu Dưỡng Sinh & Massage Ấm Cúng Tại Quang Trung, Gò Vấp",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-2",
+      "sourceRoute": "/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa",
+      "slug": "massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa",
+      "title": "Massage Kết Hợp Gội Đầu Dưỡng Sinh – Chăm Sóc Cơ Thể Trọn Vẹn Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách giúp bạn tận hưởng những phút giây nghỉ ngơi và thư giãn. Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian ấm cúng, phong cách dưỡng sinh nhẹ nhàng và các dịch vụ chăm sóc sắc đẹp.",
+      "body": "<h1><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a> | </em>Massage Kết Hợp Gội Đầu Dưỡng Sinh – Chăm Sóc Cơ Thể Trọn Vẹn Tại Mi House Spa</h1>\n<p>Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách giúp bạn tận hưởng những phút giây nghỉ ngơi và thư giãn. Nếu bạn đang tìm kiếm địa chỉ <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian ấm cúng, phong cách dưỡng sinh nhẹ nhàng và các dịch vụ chăm sóc sắc đẹp.</p>\n<p>Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa cung cấp các dịch vụ gội đầu dưỡng sinh, massage và nail. Sự kết hợp giữa chăm sóc tóc và massage giúp khách hàng có thêm lựa chọn để thư giãn sau những giờ làm việc, học tập hoặc khi muốn dành thời gian riêng cho bản thân.</p>\n<h2 id=\"mh-toc-1\"><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp – Trải Nghiệm Thư Giãn Nhẹ Nhàng</h2>\n<p>Gội đầu dưỡng sinh không chỉ hướng đến việc làm sạch tóc mà còn chú trọng trải nghiệm thư giãn trong quá trình chăm sóc. Những thao tác chăm sóc tóc kết hợp massage nhẹ nhàng mang đến khoảng thời gian nghỉ ngơi thoải mái, phù hợp với người muốn tạm rời xa nhịp sống bận rộn.</p>\n<p>Tại Mi House Spa, khách hàng có thể tận hưởng không gian mang phong cách dưỡng sinh với tông màu nâu và be chủ đạo. Cách phối màu ấm áp tạo cảm giác gần gũi, nhẹ nhàng, phù hợp cho những buổi chăm sóc bản thân vào buổi sáng, chiều hoặc tối.</p>\n<h2 id=\"mh-toc-2\">Massage Kết Hợp Gội Đầu Dưỡng Sinh Tại Mi House Spa</h2>\n<p>Kết hợp massage với gội đầu dưỡng sinh là lựa chọn dành cho những ai muốn trải nghiệm nhiều hình thức chăm sóc trong cùng một buổi. Trong khi gội đầu dưỡng sinh tập trung vào việc chăm sóc tóc và thư giãn vùng đầu, massage mang đến trải nghiệm chăm sóc cơ thể theo nhu cầu của khách hàng.</p>\n<p>Sau một ngày làm việc dài, bạn có thể lựa chọn dịch vụ phù hợp để tận hưởng khoảng thời gian nghỉ ngơi. Tùy theo nhu cầu, khách hàng có thể sử dụng từng dịch vụ riêng hoặc tìm hiểu phương án kết hợp tại Mi House Spa.</p>\n<p>Nếu đang tìm kiếm dịch vụ massage và gội đầu dưỡng sinh Gò Vấp, bạn có thể liên hệ trực tiếp với spa để được tư vấn về các dịch vụ hiện có, thời lượng trải nghiệm và chi phí trước khi đặt lịch.</p>\n<h2 id=\"mh-toc-3\">Không Gian Dưỡng Sinh Ấm Cúng, Gần Gũi</h2>\n<p>Mi House Spa theo đuổi phong cách dưỡng sinh với gam màu nâu – be làm chủ đạo, hướng đến cảm giác ấm áp và thư thái. Đây là không gian phù hợp cho những ai muốn dành thời gian chăm sóc bản thân, tạm ngưng những công việc thường ngày và tận hưởng trải nghiệm làm đẹp nhẹ nhàng.</p>\n<p>Bên cạnh gội đầu dưỡng sinh và massage, Mi House Spa còn có dịch vụ nail, đáp ứng nhu cầu chăm sóc móng và làm đẹp. Khách hàng có thể tìm hiểu các dịch vụ để lựa chọn hình thức chăm sóc phù hợp với lịch trình cá nhân.</p>\n<h2 id=\"mh-toc-4\">Địa Chỉ Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp</h2>\n<p>Nếu bạn đang tìm địa chỉ <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp, Mi House Spa tọa lạc tại số 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh. Vị trí này thuận tiện cho khách hàng sinh sống, làm việc hoặc di chuyển trong khu vực đến trải nghiệm dịch vụ.</p>\n<p>Mi House Spa mở cửa từ 9:00 đến 22:00 tất cả các ngày trong tuần. Để chủ động sắp xếp thời gian, khách hàng có thể liên hệ trước để được tư vấn dịch vụ và kiểm tra lịch hẹn.</p>\n<p>Hãy dành cho bản thân một khoảng thời gian thư giãn tại Mi House Spa với các dịch vụ gội đầu dưỡng sinh, massage và nail. Mi House Spa mong muốn mang đến trải nghiệm chăm sóc gần gũi, nhẹ nhàng, giúp mỗi khách hàng có thêm thời gian quan tâm đến bản thân giữa cuộc sống bận rộn.</p>\n<h2 id=\"mh-toc-5\">Thông Tin Liên Hệ Mi House Spa</h2>\n<p>Tên cơ sở: Mi House Spa</p>\n<p>Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh</p>\n<p>Điện thoại: 0905 665 116</p>\n<p>Giờ hoạt động: 9:00 – 22:00, Thứ 2 đến Chủ Nhật</p>\n<p>Website: https://mihousespa.com</p>\n<p>Google Maps: https://maps.app.goo.gl/FGYh7DnPTGSz6qNc8</p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08595-1792082426.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 2,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Massage Kết Hợp Gội Đầu Dưỡng Sinh – Chăm Sóc Cơ Thể Trọn Vẹn Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-3",
+      "sourceRoute": "/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa",
+      "slug": "goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa",
+      "title": "Gội Đầu Dưỡng Sinh & Massage Thư Giãn – Tận Hưởng Khoảng Lặng Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách để bạn tận hưởng những phút giây nghỉ ngơi và cân bằng cuộc sống. Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian ấm cúng, phong cách dưỡng sinh nhẹ nhàng và các dịch vụ chăm sóc cơ thể.",
+      "body": "<h1><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a> | </em>Gội Đầu Dưỡng Sinh &amp; Massage Thư Giãn – Tận Hưởng Khoảng Lặng Tại Mi House Spa</h1>\n<p>Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách để bạn tận hưởng những phút giây nghỉ ngơi và cân bằng cuộc sống. Nếu bạn đang tìm kiếm địa chỉ <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian ấm cúng, phong cách dưỡng sinh nhẹ nhàng và các dịch vụ chăm sóc cơ thể.</p>\n<p>Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa cung cấp các dịch vụ gội đầu dưỡng sinh, massage và nail, đáp ứng nhu cầu thư giãn và chăm sóc sắc đẹp của khách hàng trong cùng một không gian.</p>\n<h2 id=\"mh-toc-1\"><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp – Trải nghiệm thư giãn nhẹ nhàng</h2>\n<p>Gội đầu dưỡng sinh là lựa chọn được nhiều người yêu thích khi muốn kết hợp chăm sóc tóc với những phút giây thư giãn. Không chỉ hướng đến việc làm sạch tóc, trải nghiệm này còn có thể kết hợp các thao tác massage nhẹ nhàng ở vùng đầu, cổ và vai gáy tùy theo liệu trình.</p>\n<p>Tại Mi House Spa, khách hàng có thể dành thời gian tạm gác lại công việc, nghỉ ngơi trong không gian mang phong cách dưỡng sinh và tận hưởng khoảng thời gian riêng cho bản thân. Đây là lựa chọn phù hợp sau một ngày làm việc bận rộn hoặc khi bạn muốn tìm một hoạt động thư giãn trong lịch trình hằng ngày.</p>\n<h2 id=\"mh-toc-2\">Massage thư giãn tại Mi House Spa</h2>\n<p>Bên cạnh dịch vụ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa còn có dịch vụ massage dành cho khách hàng muốn chăm sóc và thư giãn cơ thể. Những phút giây nghỉ ngơi trong không gian yên tĩnh giúp bạn tạm rời xa nhịp sống vội vã và dành thêm thời gian quan tâm đến sức khỏe bản thân.</p>\n<p>Khách hàng có thể tìm hiểu và lựa chọn dịch vụ phù hợp với nhu cầu cá nhân. Nếu có tình trạng đau nhức kéo dài hoặc vấn đề sức khỏe đặc biệt, bạn nên trao đổi trước với nhân viên để được tư vấn phạm vi dịch vụ phù hợp.</p>\n<h2 id=\"mh-toc-3\">Không gian dưỡng sinh nâu – be ấm cúng</h2>\n<p>Mi House Spa lựa chọn gam màu nâu và be làm tông màu chủ đạo, tạo cảm giác gần gũi, nhẹ nhàng và ấm áp. Phong cách không gian hướng đến sự thư thái, phù hợp với những khách hàng muốn tìm một nơi nghỉ ngơi và chăm sóc bản thân tại khu vực Gò Vấp.</p>\n<p>Sự kết hợp giữa gội đầu dưỡng sinh, massage và dịch vụ nail mang đến nhiều lựa chọn chăm sóc trong cùng một địa điểm. Bạn có thể chủ động sắp xếp thời gian để trải nghiệm dịch vụ theo sở thích và nhu cầu của mình.</p>\n<h2 id=\"mh-toc-4\">Vì sao nên trải nghiệm gội đầu dưỡng sinh tại Mi House Spa?</h2>\n<p>Mi House Spa hướng đến phong cách chăm sóc gần gũi, không gian ấm cúng và dịch vụ đa dạng. Vị trí trên đường Quang Trung giúp khách hàng trong khu vực Gò Vấp thuận tiện tìm hiểu và ghé trải nghiệm.</p>\n<p>Nếu bạn đang tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, hoặc muốn kết hợp gội đầu với massage thư giãn, Mi House Spa là một địa chỉ bạn có thể tham khảo. Hãy liên hệ trước để tìm hiểu liệu trình, thời lượng và giá dịch vụ phù hợp.</p>\n<h2 id=\"mh-toc-5\">Thông tin liên hệ Mi House Spa | <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></h2>\n<p>Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh</p>\n<p>Điện thoại: 0905 665 116</p>\n<p>Giờ mở cửa: 9:00 – 22:00, từ thứ Hai đến Chủ Nhật</p>\n<p>Website: https://mihousespa.com</p>\n<p>Google Maps: https://maps.app.goo.gl/FGYh7DnPTGSz6qNc8</p>\n<p>Mi House Spa chào đón bạn đến trải nghiệm gội đầu dưỡng sinh, massage và chăm sóc sắc đẹp trong không gian nâu – be ấm cúng tại Gò Vấp. Hãy dành cho mình một khoảng lặng để thư giãn và chăm sóc bản thân sau những ngày bận rộn.</p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08592-1792082345.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 3,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Gội Đầu Dưỡng Sinh & Massage Thư Giãn – Tận Hưởng Khoảng Lặng Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-4",
+      "sourceRoute": "/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa",
+      "slug": "goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa",
+      "title": "Gội Đầu Dưỡng Sinh Kết Hợp Massage Có Gì Đặc Biệt? Trải Nghiệm Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách giúp bạn tận hưởng những phút giây nghỉ ngơi sau ngày dài làm việc. Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian thư giãn nhẹ nhàng, ấm cúng và dịch vụ chăm sóc cơ thể.",
+      "body": "<h1>Gội Đầu Dưỡng Sinh Kết Hợp Massage Có Gì Đặc Biệt? Trải Nghiệm Tại Mi House Spa</h1>\n<p>Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách giúp bạn tận hưởng những phút giây nghỉ ngơi sau ngày dài làm việc. Nếu bạn đang tìm kiếm địa chỉ <em><a href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian thư giãn nhẹ nhàng, ấm cúng và dịch vụ chăm sóc cơ thể.</p>\n<p>Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa cung cấp các dịch vụ gội đầu dưỡng sinh, massage và nail. Sự kết hợp giữa chăm sóc tóc và massage mang đến trải nghiệm thư giãn đa dạng, phù hợp với những người muốn dành thời gian nghỉ ngơi và làm đẹp trong cùng một không gian.</p>\n<h2 id=\"mh-toc-1\">Gội Đầu Dưỡng Sinh Kết Hợp Massage Có Gì Đặc Biệt?</h2>\n<p>Gội đầu dưỡng sinh không chỉ hướng đến việc làm sạch tóc mà còn chú trọng trải nghiệm thư giãn trong suốt quá trình chăm sóc. Các thao tác chăm sóc tóc kết hợp massage nhẹ nhàng vùng đầu và những khu vực phù hợp giúp khách hàng có khoảng thời gian nghỉ ngơi thoải mái.</p>\n<p>Khi kết hợp với dịch vụ massage, trải nghiệm chăm sóc bản thân trở nên đa dạng hơn. Khách hàng có thể lựa chọn dịch vụ theo nhu cầu, dành thời gian thư giãn sau giờ làm việc hoặc đơn giản là tự thưởng cho mình một buổi chăm sóc nhẹ nhàng giữa tuần.</p>\n<h2 id=\"mh-toc-2\"><em><a href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp Tại Mi House Spa</h2>\n<p>Mi House Spa hướng đến phong cách dưỡng sinh với gam màu nâu và be chủ đạo, tạo cảm giác ấm áp, gần gũi. Không gian được định hướng theo sự nhẹ nhàng, phù hợp với những khách hàng muốn tạm rời xa nhịp sống vội vã để tận hưởng thời gian dành riêng cho bản thân.</p>\n<p>Nếu bạn đang tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa là một địa chỉ thuận tiện để tham khảo. Tại đây, khách hàng có thể tìm hiểu và lựa chọn dịch vụ gội đầu dưỡng sinh, massage hoặc nail tùy theo nhu cầu cá nhân.</p>\n<h2 id=\"mh-toc-3\">Trải Nghiệm Massage Và Chăm Sóc Cơ Thể</h2>\n<p>Bên cạnh gội đầu dưỡng sinh, Mi House Spa còn có dịch vụ massage dành cho khách hàng muốn thư giãn sau một ngày làm việc bận rộn. Việc lựa chọn dịch vụ phù hợp giúp bạn có thêm thời gian nghỉ ngơi, chăm sóc cơ thể và cân bằng nhịp sinh hoạt thường ngày.</p>\n<p>Khách hàng có thể liên hệ Mi House Spa để được tư vấn về các dịch vụ hiện có và lựa chọn trải nghiệm phù hợp. Spa hướng đến phong cách phục vụ gần gũi, hỗ trợ khách hàng tìm được dịch vụ đáp ứng nhu cầu của mình.</p>\n<h2 id=\"mh-toc-4\">Vì Sao Nên Trải Nghiệm Mi House Spa Tại Gò Vấp?</h2>\n<p>Với phong cách dưỡng sinh, không gian nâu be ấm cúng và các dịch vụ gội đầu dưỡng sinh, massage, nail, Mi House Spa mang đến lựa chọn chăm sóc cá nhân ngay tại khu vực Quang Trung, Gò Vấp. Vị trí thuận tiện giúp khách hàng chủ động sắp xếp thời gian ghé spa trong ngày.</p>\n<p>Mi House Spa mở cửa từ 9:00 đến 22:00, từ thứ Hai đến Chủ Nhật. Bạn có thể liên hệ trước để tìm hiểu dịch vụ, thời gian phục vụ và sắp xếp lịch trải nghiệm phù hợp.</p>\n<h2 id=\"mh-toc-5\">Địa Chỉ Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp</h2>\n<p>Nếu bạn muốn tìm một không gian chăm sóc tóc và thư giãn, <em><a href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a>,</em> Gò Vấp, hãy tham khảo dịch vụ tại Mi House Spa.</p>\n<p>Mi House Spa | <em><a href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh<br/>\nĐiện thoại: 0905665116<br/>\nGiờ mở cửa: 9:00 – 22:00, thứ Hai đến Chủ Nhật<br/>\nWebsite: https://mihousespa.com/<br/>\nGoogle Maps: https://maps.app.goo.gl/FGYh7DnPTGSz6qNc8</p>\n<p>Mi House Spa chào đón bạn đến tìm hiểu và trải nghiệm các dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian ấm cúng tại đường Quang Trung, Gò Vấp.</p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08586-1792082225.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 4,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Gội Đầu Dưỡng Sinh Kết Hợp Massage Có Gì Đặc Biệt? Trải Nghiệm Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-5",
+      "sourceRoute": "/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa",
+      "slug": "top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa",
+      "title": "Top Địa Chỉ Gội Đầu Dưỡng Sinh & Massage Quang Trung Gò Vấp – Mi House Spa",
+      "description": "Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp để thư giãn và chăm sóc bản thân sau những giờ làm việc bận rộn, Mi House Spa là một địa điểm bạn có thể tham khảo. Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa cung cấp các dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian mang phong cách dưỡng sinh nhẹ nhàng, ấm cúng.",
+      "body": "<h1>Top Địa Chỉ Gội Đầu Dưỡng Sinh &amp; Massage Quang Trung Gò Vấp – Mi House Spa</h1>\n<p>Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp để thư giãn và chăm sóc bản thân sau những giờ làm việc bận rộn, Mi House Spa là một địa điểm bạn có thể tham khảo. Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa cung cấp các dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian mang phong cách dưỡng sinh nhẹ nhàng, ấm cúng. <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></p>\n<h2 id=\"mh-toc-1\"><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp tại Mi House Spa</h2>\n<p>Gội đầu dưỡng sinh là lựa chọn phù hợp dành cho những ai muốn kết hợp chăm sóc tóc với trải nghiệm thư giãn. Không chỉ hướng đến việc làm sạch tóc, dịch vụ còn mang lại khoảng thời gian nghỉ ngơi thông qua các thao tác chăm sóc và massage nhẹ nhàng vùng đầu.</p>\n<p>Tại Mi House Spa, khách hàng có thể dành thời gian thư giãn trong không gian mang gam màu nâu và be chủ đạo. Phong cách thiết kế gần gũi, ấm áp góp phần tạo nên cảm giác dễ chịu, phù hợp cho những ai muốn tạm rời xa nhịp sống bận rộn và dành thời gian chăm sóc bản thân.</p>\n<p>Với vị trí trên đường Quang Trung, Mi House Spa là gợi ý dành cho khách hàng đang tìm kiếm dịch vụ gội đầu dưỡng sinh tại Gò Vấp. Bạn có thể liên hệ trực tiếp để tìm hiểu các liệu trình, thời lượng dịch vụ và mức giá phù hợp trước khi ghé thăm.</p>\n<h2 id=\"mh-toc-2\">Trải nghiệm massage thư giãn tại Gò Vấp</h2>\n<p>Bên cạnh dịch vụ gội đầu dưỡng sinh, Mi House Spa còn cung cấp dịch vụ massage dành cho khách hàng có nhu cầu thư giãn cơ thể. Đây là lựa chọn để bạn dành thời gian nghỉ ngơi sau một ngày làm việc, học tập hoặc khi muốn tận hưởng khoảng thời gian chăm sóc bản thân.</p>\n<p>Nếu đang tìm kiếm địa chỉ massage đường Quang Trung, Gò Vấp, bạn có thể tham khảo các dịch vụ tại Mi House Spa và trao đổi với nhân viên để lựa chọn hình thức phù hợp với nhu cầu cá nhân.</p>\n<h2 id=\"mh-toc-3\">Kết hợp chăm sóc sắc đẹp với dịch vụ nail</h2>\n<p>Mi House Spa còn có dịch vụ nail, giúp khách hàng thuận tiện kết hợp chăm sóc móng cùng các dịch vụ thư giãn khác. Việc tích hợp nhiều dịch vụ trong cùng một địa điểm mang đến thêm lựa chọn cho những ai muốn dành thời gian chăm sóc diện mạo và thư giãn trong một buổi ghé spa.</p>\n<h2 id=\"mh-toc-4\">Vì sao nên tham khảo Mi House Spa tại Quang Trung, Gò Vấp?</h2>\n<p>Mi House Spa hướng đến phong cách dưỡng sinh spa với không gian nâu – be ấm cúng và các dịch vụ gồm gội đầu dưỡng sinh, massage và nail. Vị trí tại đường Quang Trung giúp khách hàng thuận tiện tìm hiểu và sắp xếp thời gian trải nghiệm.</p>\n<p>Đối với những người đang tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, việc lựa chọn địa điểm phù hợp nên dựa trên nhu cầu cá nhân, loại dịch vụ, thời lượng thực hiện và bảng giá được spa cung cấp.</p>\n<h2 id=\"mh-toc-5\">Thông tin liên hệ Mi House Spa</h2>\n<p>Tên cơ sở: Mi House Spa | <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></p>\n<p>Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh</p>\n<p>Điện thoại: 0905 665 116</p>\n<p>Giờ hoạt động: 9:00 – 22:00, từ thứ Hai đến Chủ Nhật</p>\n<p>Website: https://mihousespa.com</p>\n<p>Nếu bạn đang cần tìm dịch vụ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, hãy liên hệ Mi House Spa để được tư vấn thông tin dịch vụ và lựa chọn thời gian ghé thăm phù hợp. Mi House Spa chào đón bạn đến trải nghiệm các dịch vụ chăm sóc và thư giãn trong không gian ấm cúng tại Gò Vấp. <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08585-1792082109.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 5,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Top Địa Chỉ Gội Đầu Dưỡng Sinh & Massage Quang Trung Gò Vấp – Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-6",
+      "sourceRoute": "/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa",
+      "slug": "goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa",
+      "title": "Gội Đầu Dưỡng Sinh & Massage Gò Vấp – Thư Giãn Cơ Thể Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách để bạn tìm lại sự cân bằng và tận hưởng những phút giây nghỉ ngơi. Nếu bạn đang tìm kiếm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian thư giãn, ấm cúng và các dịch vụ chăm sóc sắc đẹp.",
+      "body": "<h1>Gội Đầu Dưỡng Sinh &amp; Massage Gò Vấp – Thư Giãn Cơ Thể Tại Mi House Spa</h1>\n<p>Giữa nhịp sống bận rộn, dành thời gian chăm sóc bản thân là cách để bạn tìm lại sự cân bằng và tận hưởng những phút giây nghỉ ngơi. Nếu bạn đang tìm kiếm địa chỉ <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp, Mi House Spa là điểm đến dành cho những ai yêu thích không gian thư giãn, ấm cúng và các dịch vụ chăm sóc sắc đẹp.</p>\n<p>Tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh, Mi House Spa mang phong cách dưỡng sinh với gam màu nâu và be nhẹ nhàng. Không gian được định hướng theo sự gần gũi, tạo cảm giác thoải mái để khách hàng tạm gác lại những bận rộn thường ngày và dành thời gian cho chính mình.</p>\n<h2 id=\"mh-toc-1\"><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em>, Gò Vấp tại Mi House Spa</h2>\n<p>Gội đầu dưỡng sinh là lựa chọn được nhiều người yêu thích khi muốn kết hợp chăm sóc tóc với trải nghiệm thư giãn. Khác với việc gội đầu thông thường, dịch vụ hướng đến cảm giác thoải mái thông qua các thao tác chăm sóc tóc và massage nhẹ nhàng theo quy trình của spa.</p>\n<p>Tại Mi House Spa, khách hàng có thể dành thời gian nghỉ ngơi trong không gian mang phong cách dưỡng sinh. Đây là lựa chọn phù hợp sau những giờ làm việc căng thẳng, một ngày di chuyển nhiều hoặc khi bạn đơn giản muốn dành cho mình khoảng thời gian chăm sóc cá nhân.</p>\n<p>Nếu đang tìm kiếm dịch vụ gội đầu dưỡng sinh Gò Vấp, đặc biệt tại khu vực đường Quang Trung, bạn có thể tham khảo Mi House Spa để lựa chọn trải nghiệm phù hợp với nhu cầu của mình.</p>\n<h2 id=\"mh-toc-2\">Massage Gò Vấp – Tận hưởng thời gian thư giãn</h2>\n<p>Bên cạnh gội đầu dưỡng sinh, Mi House Spa còn cung cấp dịch vụ massage dành cho khách hàng có nhu cầu thư giãn cơ thể. Trong không gian ấm cúng, bạn có thể dành thời gian nghỉ ngơi và tận hưởng trải nghiệm chăm sóc phù hợp sau một ngày học tập hoặc làm việc.</p>\n<p>Sự kết hợp giữa gội đầu dưỡng sinh và massage giúp khách hàng có thêm lựa chọn khi đến spa. Tùy theo nhu cầu cá nhân, bạn có thể tìm hiểu từng dịch vụ để sắp xếp thời gian chăm sóc bản thân thuận tiện hơn.</p>\n<h2 id=\"mh-toc-3\">Không gian dưỡng sinh nâu – be ấm cúng</h2>\n<p>Một trong những nét đặc trưng trong phong cách của Mi House Spa là bảng màu nâu – be nhẹ nhàng. Phong cách này tạo cảm giác gần gũi, phù hợp với định hướng không gian dưỡng sinh và chăm sóc sắc đẹp.</p>\n<p>Không chỉ có gội đầu dưỡng sinh và massage, Mi House Spa còn cung cấp dịch vụ nail, giúp khách hàng thuận tiện lựa chọn các dịch vụ chăm sóc sắc đẹp tại cùng một địa điểm. Sự đa dạng này phù hợp với những ai muốn kết hợp thư giãn và làm đẹp trong lịch trình cá nhân.</p>\n<h2 id=\"mh-toc-4\">Vì sao nên lựa chọn Mi House Spa tại Gò Vấp?</h2>\n<p>Mi House Spa hướng đến trải nghiệm chăm sóc gần gũi với không gian ấm áp, các dịch vụ đa dạng và thời gian hoạt động thuận tiện. Vị trí trên đường Quang Trung giúp khách hàng tại Gò Vấp có thêm lựa chọn khi tìm kiếm dịch vụ gội đầu dưỡng sinh, massage và nail trong khu vực.</p>\n<p>Nếu bạn đang tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, hãy liên hệ Mi House Spa để tìm hiểu thêm về dịch vụ và lựa chọn thời gian ghé thăm phù hợp.</p>\n<h2 id=\"mh-toc-5\">Thông tin liên hệ Mi House Spa</h2>\n<p>Tên cơ sở: Mi House Spa | <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></p>\n<p>Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh</p>\n<p>Điện thoại: 0905 665 116</p>\n<p>Giờ hoạt động: 9:00 – 22:00, từ thứ Hai đến Chủ Nhật</p>\n<p>Website: https://mihousespa.com</p>\n<p>Mi House Spa chào đón bạn đến trải nghiệm các dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian mang phong cách dưỡng sinh ấm cúng tại Gò Vấp. <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/10/15/ahs08587-1792082257.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 6,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Gội Đầu Dưỡng Sinh & Massage Gò Vấp – Thư Giãn Cơ Thể Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-7",
+      "sourceRoute": "/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa",
+      "slug": "goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa",
+      "title": "Gội Đầu Dưỡng Sinh Gò Vấp: Tận Hưởng Khoảng Lặng Bình Yên Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, đôi khi cơ thể và tinh thần cũng cần một khoảng lặng để được nghỉ ngơi. Nếu bạn đang tìm kiếm một địa chỉ GỘI ĐẦU DƯỠNG SINH GÒ VẤP với không gian ấm áp, nhẹ nhàng và dịch vụ chăm sóc tận tâm, Mi House Spa là điểm đến phù hợp để bạn dành thời gian thư giãn và chăm sóc bản thân.",
+      "body": "<h1><span style=\"font-size:24px;\"><em><strong>Gội Đầu Dưỡng Sinh Gò Vấp: Tận Hưởng Khoảng Lặng Bình Yên Tại Mi House Spa</strong></em></span></h1>\n<p><span style=\"font-size:20px;\">Giữa nhịp sống bận rộn, đôi khi cơ thể và tinh thần cũng cần một khoảng lặng để được nghỉ ngơi. Nếu bạn đang tìm kiếm một địa chỉ <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em> với không gian ấm áp, nhẹ nhàng và dịch vụ chăm sóc tận tâm, <strong>Mi House Spa</strong> là điểm đến phù hợp để bạn dành thời gian thư giãn và chăm sóc bản thân.</span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"962\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-120004.png\" width=\"1110\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">Gội Đầu Dưỡng Sinh Gò Vấp – Khoảng Thời Gian Dành Cho Chính Bạn</span></h2>\n<p><span style=\"font-size:20px;\">Khác với việc gội đầu thông thường, <strong>gội đầu dưỡng sinh</strong> hướng đến trải nghiệm thư giãn toàn diện hơn. Tại Mi House Spa, khách hàng có thể tận hưởng những phút giây nhẹ nhàng trong không gian mang phong cách dưỡng sinh, kết hợp chăm sóc tóc với các thao tác massage thư giãn.</span></p>\n<p><span style=\"font-size:20px;\">Một buổi gội đầu dưỡng sinh là cơ hội để bạn tạm rời xa công việc, những áp lực thường ngày và dành thời gian lắng nghe cơ thể. Cảm giác được chăm sóc nhẹ nhàng, thư giãn trong không gian yên tĩnh giúp mỗi khách hàng có thêm một khoảng thời gian riêng cho mình.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">Không Gian Nâu – Be Ấm Cúng Tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Mi House Spa lựa chọn gam màu <strong>nâu – be</strong> làm chủ đạo, tạo nên cảm giác gần gũi, ấm áp và dễ chịu. Phong cách thiết kế dưỡng sinh giúp không gian spa trở thành nơi thích hợp để nghỉ ngơi sau một ngày làm việc hoặc học tập bận rộn.</span></p>\n<p><span style=\"font-size:20px;\">Không cần một chuyến đi xa, bạn vẫn có thể tìm cho mình một khoảng thời gian thư giãn ngay tại <strong>Gò Vấp</strong>. Chỉ cần dành một chút thời gian ghé Mi House Spa, bạn có thể tận hưởng trải nghiệm chăm sóc nhẹ nhàng và nạp lại năng lượng cho những ngày tiếp theo.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">Trải Nghiệm Dưỡng Sinh Kết Hợp Chăm Sóc Sắc Đẹp</span></h2>\n<p><span style=\"font-size:20px;\">Bên cạnh <strong>gội đầu dưỡng sinh</strong>, Mi House Spa còn cung cấp các dịch vụ <strong>massage và nail</strong>. Sự kết hợp đa dạng giúp khách hàng thuận tiện lựa chọn dịch vụ theo nhu cầu, từ thư giãn cơ thể đến chăm sóc vẻ ngoài.</span></p>\n<p><span style=\"font-size:20px;\">Với định hướng phát triển theo phong cách dưỡng sinh spa, Mi House Spa chú trọng tạo nên trải nghiệm thoải mái và gần gũi. Mỗi dịch vụ đều hướng đến mục tiêu giúp khách hàng có thêm thời gian nghỉ ngơi, chăm sóc bản thân và tận hưởng những điều nhỏ bé trong cuộc sống.</span></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">Vì Sao Nên Chọn Mi House Spa?</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> phù hợp với những ai yêu thích không gian nhẹ nhàng và mong muốn tìm một địa chỉ chăm sóc bản thân tại Gò Vấp. Từ không gian nâu – be ấm cúng đến các dịch vụ <strong>gội đầu dưỡng sinh, massage và nail</strong>, spa mang đến trải nghiệm thư giãn đa dạng trong một địa điểm thuận tiện.</span></p>\n<p><span style=\"font-size:20px;\">Đặc biệt, với thời gian hoạt động từ <strong>9:00 – 22:00 tất cả các ngày trong tuần</strong>, khách hàng có thể chủ động sắp xếp thời gian ghé spa vào buổi sáng, chiều hoặc tối.</span></p>\n<p><span style=\"font-size:20px;\"><img alt=\"\" height=\"972\" src=\"/thumbs/1136x972x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp\" width=\"1136\"/></span></p>\n<h2 id=\"mh-toc-5\"><span style=\"font-size:20px;\">Địa Chỉ <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em> Tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm <em><a href=\"http://mihousespa.com/goi-dau-duong-sinh\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em> để thư giãn và chăm sóc bản thân, hãy ghé <strong>Mi House Spa</strong> tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>.</span></p>\n<p><span style=\"font-size:20px;\">Mi House Spa luôn sẵn sàng chào đón bạn đến tận hưởng một khoảng lặng bình yên, thư giãn cơ thể và dành thêm thời gian yêu thương chính mình.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a href=\"http://mihousespa.com/goi-dau-duong-sinh\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP. Hồ Chí Minh<br/>\nHotline: 0767882407<br/>\nGiờ mở cửa: 9:00 – 22:00 (Thứ 2 – Chủ Nhật)<br/>\nWebsite: mihousespa.com</span></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 7,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Gội Đầu Dưỡng Sinh Gò Vấp: Tận Hưởng Khoảng Lặng Bình Yên Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-8",
+      "sourceRoute": "/mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian",
+      "slug": "mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian",
+      "title": "Mi House Spa – Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Cho Những Ngày Cần Thư Giãn",
+      "description": "Giữa nhịp sống bận rộn, đôi khi cơ thể và tinh thần cũng cần một khoảng thời gian để được nghỉ ngơi. Nếu bạn đang tìm kiếm một địa chỉ GỘI ĐẦU DƯỠNG SINH GÒ VẤP có không gian ấm áp, nhẹ nhàng và dịch vụ chăm sóc thư giãn, Mi House Spa là điểm đến phù hợp để bạn dành thời gian yêu thương bản thân.",
+      "body": "<h1><em><strong><span style=\"font-size:22px;\">Mi House Spa – Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Cho Những Ngày Cần Thư Giãn</span></strong></em></h1>\n<p><span style=\"font-size:20px;\">Giữa nhịp sống bận rộn, đôi khi cơ thể và tinh thần cũng cần một khoảng thời gian để được nghỉ ngơi. Nếu bạn đang tìm kiếm một địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH</strong> có không gian ấm áp, nhẹ nhàng và dịch vụ chăm sóc thư giãn, <strong>Mi House Spa</strong> là điểm đến phù hợp để bạn dành thời gian yêu thương bản thân. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"964\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115853.png\" width=\"1136\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">Gội Đầu Dưỡng Sinh Gò Vấp – Khoảng Lặng Cho Những Ngày Mệt Mỏi. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></h2>\n<p><span style=\"font-size:20px;\"><strong>Gội đầu dưỡng sinh</strong> ngày càng được nhiều người lựa chọn như một cách chăm sóc tóc kết hợp thư giãn cơ thể và tinh thần. Không chỉ giúp làm sạch tóc và da đầu, trải nghiệm gội đầu dưỡng sinh còn tạo cảm giác dễ chịu nhờ sự kết hợp của các bước chăm sóc và massage nhẹ nhàng.</span></p>\n<p><span style=\"font-size:20px;\">Tại <strong>Mi House Spa</strong>, khách hàng có thể tận hưởng những phút giây thư giãn trong không gian mang phong cách dưỡng sinh. Gam màu <strong>nâu – be</strong> chủ đạo tạo cảm giác ấm cúng, gần gũi nhưng vẫn tinh tế. Đây là nơi thích hợp để bạn tạm rời xa những bộn bề thường ngày, thả lỏng cơ thể và dành cho mình một khoảng thời gian thật riêng.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">Trải Nghiệm Gội Đầu Dưỡng Sinh Tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Điểm đặc biệt của <strong>Mi House Spa</strong> nằm ở sự kết hợp giữa chăm sóc và thư giãn. Trong quá trình trải nghiệm, khách hàng được chăm sóc tóc và da đầu, kết hợp những động tác massage nhẹ nhàng giúp cơ thể có cảm giác thoải mái hơn.</span></p>\n<p><span style=\"font-size:20px;\">Với những người thường xuyên làm việc, học tập trong thời gian dài hoặc phải đối mặt với nhiều áp lực trong cuộc sống, một buổi <strong>gội đầu dưỡng sinh</strong> có thể trở thành khoảng thời gian lý tưởng để nghỉ ngơi. Bạn không cần phải chờ đến những ngày đặc biệt mới chăm sóc bản thân – đôi khi chỉ một khoảng thời gian ngắn dành cho chính mình cũng đủ để tinh thần trở nên nhẹ nhàng hơn.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">Không Gian Dưỡng Sinh Ấm Cúng, Gần Gũi</span></h2>\n<p><span style=\"font-size:20px;\">Mi House Spa được định hướng theo phong cách <strong>dưỡng sinh spa</strong>, chú trọng cảm giác thoải mái và thư giãn của khách hàng. Không gian nâu – be tạo nên vẻ nhẹ nhàng, ấm áp, phù hợp với những ai yêu thích sự yên tĩnh và muốn tìm một nơi để tạm gác lại nhịp sống vội vàng.</span></p>\n<p><span style=\"font-size:20px;\">Bên cạnh <strong>gội đầu dưỡng sinh</strong>, Mi House Spa còn cung cấp <strong>dịch vụ massage và nail</strong>, giúp khách hàng thuận tiện chăm sóc sức khỏe, thư giãn và làm đẹp trong cùng một địa điểm. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"964\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115842.png\" width=\"1136\"/></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">Vì Sao Nên Chọn Mi House Spa?</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> hướng đến trải nghiệm chăm sóc gần gũi, tận tâm và phù hợp với nhu cầu thư giãn của từng khách hàng. Từ không gian, phong cách phục vụ đến các dịch vụ như gội đầu dưỡng sinh, massage và nail đều được xây dựng với mong muốn mang lại cảm giác dễ chịu mỗi khi khách ghé thăm. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm <strong>GỘI ĐẦU DƯỠNG SINH</strong> để thư giãn sau một ngày làm việc, hãy dành cho bản thân một khoảng thời gian tại Mi House Spa. Một buổi chăm sóc nhẹ nhàng không chỉ là làm đẹp mà còn là cách bạn quan tâm hơn đến cơ thể và tinh thần của chính mình.</span></p>\n<h2 id=\"mh-toc-5\"><span style=\"font-size:20px;\">Thông Tin Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> tọa lạc tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>. Spa mở cửa từ <strong>9:00 – 22:00, Thứ 2 đến Chủ Nhật</strong>, thuận tiện để khách hàng ghé trải nghiệm vào nhiều khung giờ trong ngày.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP.HCM<br/>\nHotline: 0905 665 116<br/>\nGiờ mở cửa: 9:00 – 22:00 (T2 – CN)<br/>\nWebsite: mihousespa.com</span></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 8,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Mi House Spa – Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Cho Những Ngày Cần Thư Giãn",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-9",
+      "sourceRoute": "/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa",
+      "slug": "goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa",
+      "title": "Gội Đầu Dưỡng Sinh Có Gì Đặc Biệt? Trải Nghiệm Thư Giãn Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, một khoảng thời gian dành riêng để chăm sóc bản thân luôn là điều cần thiết. Gội đầu dưỡng sinh Gò Vấp đang trở thành lựa chọn được nhiều người yêu thích bởi không chỉ giúp làm sạch tóc và da đầu mà còn mang đến cảm giác thư giãn, dễ chịu. Tại Mi House Spa, trải nghiệm gội đầu dưỡng sinh được kết hợp cùng không gian dưỡng sinh ấm cúng, nhẹ nhàng, giúp khách hàng tận hưởng những phút giây nghỉ ngơi trọn vẹn.",
+      "body": "<h1><span style=\"font-size:24px;\"><em><strong>Gội Đầu Dưỡng Sinh Có Gì Đặc Biệt? Trải Nghiệm Thư Giãn Tại Mi House Spa</strong></em></span></h1>\n<p><span style=\"font-size:20px;\">Giữa nhịp sống bận rộn, một khoảng thời gian dành riêng để chăm sóc bản thân luôn là điều cần thiết. <strong>Gội đầu dưỡng sinh</strong> đang trở thành lựa chọn được nhiều người yêu thích bởi không chỉ giúp làm sạch tóc và da đầu mà còn mang đến cảm giác thư giãn, dễ chịu. Tại <strong>Mi House Spa</strong>, trải nghiệm gội đầu dưỡng sinh được kết hợp cùng không gian dưỡng sinh ấm cúng, nhẹ nhàng, giúp khách hàng tận hưởng những phút giây nghỉ ngơi trọn vẹn. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"908\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115830.png\" width=\"1232\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">Gội đầu dưỡng sinh có gì đặc biệt?</span></h2>\n<p><span style=\"font-size:20px;\">Khác với hình thức gội đầu thông thường, <strong>gội đầu dưỡng sinh</strong> chú trọng nhiều hơn đến trải nghiệm thư giãn. Trong quá trình chăm sóc, các thao tác massage nhẹ nhàng được kết hợp để tạo cảm giác thoải mái cho vùng đầu, cổ và vai gáy. Đây là lựa chọn phù hợp với những người thường xuyên làm việc, học tập trong thời gian dài hoặc đơn giản muốn tìm một không gian để nghỉ ngơi sau một ngày bận rộn. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Điểm đặc biệt của gội đầu dưỡng sinh còn nằm ở sự kết hợp giữa chăm sóc tóc, da đầu và thư giãn tinh thần. Thay vì chỉ dành vài phút để làm sạch tóc, khách hàng có thể tận hưởng một khoảng thời gian chậm lại, thả lỏng cơ thể và tạm quên đi những áp lực thường ngày.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">Trải nghiệm gội đầu dưỡng sinh Gò Vấp tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Nếu đang tìm kiếm địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP</strong>, <strong>Mi House Spa</strong> là một điểm đến dành cho những ai yêu thích phong cách chăm sóc nhẹ nhàng và gần gũi. Spa được thiết kế theo phong cách <strong>dưỡng sinh</strong> với gam màu nâu – be chủ đạo, tạo cảm giác ấm áp và thư thái ngay khi bước vào.</span></p>\n<p><span style=\"font-size:20px;\">Tại Mi House Spa, khách hàng có thể dành thời gian tận hưởng quy trình gội đầu trong không gian yên tĩnh, kết hợp những thao tác chăm sóc và massage nhẹ nhàng. Sự chỉn chu trong từng trải nghiệm giúp buổi gội đầu không chỉ đơn thuần là chăm sóc tóc mà còn trở thành khoảng thời gian thư giãn dành riêng cho bạn.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">Không gian dưỡng sinh ấm áp, gần gũi</span></h2>\n<p><span style=\"font-size:20px;\">Một trong những yếu tố tạo nên sự khác biệt của <strong>Mi House Spa</strong> là phong cách không gian hướng đến sự thoải mái và gần gũi. Tông màu nâu – be mang lại cảm giác nhẹ nhàng, phù hợp với tinh thần dưỡng sinh và thư giãn. Đây là nơi bạn có thể tạm rời xa sự ồn ào bên ngoài để dành thời gian chăm sóc bản thân.</span></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">Không chỉ gội đầu – còn có massage và nail</span></h2>\n<p><span style=\"font-size:20px;\">Bên cạnh <strong>gội đầu dưỡng sinh</strong>, Mi House Spa còn cung cấp các dịch vụ <strong>massage và nail</strong>. Sự đa dạng này giúp khách hàng thuận tiện kết hợp chăm sóc cơ thể và làm đẹp trong cùng một địa điểm.</span></p>\n<p><span style=\"font-size:20px;\">Massage là lựa chọn phù hợp khi cơ thể cần được thư giãn sau những giờ làm việc căng thẳng. Trong khi đó, dịch vụ nail giúp bạn chăm chút thêm cho vẻ ngoài. Từ đó, Mi House Spa hướng đến một trải nghiệm chăm sóc toàn diện, nơi khách hàng có thể dành thời gian cho cả sức khỏe, tinh thần và diện mạo. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"902\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115809.png\" width=\"956\"/></p>\n<h2 id=\"mh-toc-5\"><span style=\"font-size:20px;\">Vì sao nên trải nghiệm gội đầu dưỡng sinh tại Mi House Spa?</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> lựa chọn phong cách dưỡng sinh nhẹ nhàng, tập trung vào sự thoải mái của khách hàng. Không gian nâu – be ấm cúng, dịch vụ đa dạng cùng phong cách phục vụ tận tâm là những yếu tố giúp mỗi lần ghé spa trở thành một khoảng thời gian thư giãn đáng nhớ.<em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm một địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH</strong> để thư giãn, chăm sóc tóc và dành cho bản thân một khoảng lặng giữa ngày bận rộn, hãy ghé <strong>Mi House Spa</strong> tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\n📍 Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP.HCM<br/>\n☎ Hotline: 0905 665 116<br/>\n🕘 Giờ mở cửa: 9:00 – 22:00 (Thứ 2 – Chủ Nhật)<br/>\n🌐 Website: mihousespa.com</span></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 9,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Gội Đầu Dưỡng Sinh Có Gì Đặc Biệt? Trải Nghiệm Thư Giãn Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-10",
+      "sourceRoute": "/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa",
+      "slug": "top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa",
+      "title": "Top Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Được Yêu Thích – Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, một khoảng thời gian dành riêng cho việc thư giãn và chăm sóc bản thân ngày càng trở nên cần thiết. Nếu bạn đang tìm kiếm GỘI ĐẦU DƯỠNG SINH GÒ VẤP với không gian ấm cúng, phong cách nhẹ nhàng và dịch vụ đa dạng, Mi House Spa là địa chỉ đáng để bạn trải nghiệm.\n\nTọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh, Mi House Spa mang phong cách dưỡng sinh spa với gam màu nâu – be chủ đạo. Không gian được định hướng theo sự gần gũi, thư giãn, tạo cảm giác dễ chịu để khách hàng có thể tạm rời xa những áp lực thường ngày và dành thời gian chăm sóc cơ thể.",
+      "body": "<h1><em><strong><span style=\"font-size:24px;\">Top Địa Chỉ Gội Đầu Dưỡng Sinh Ở Gò Vấp Được Yêu Thích – Mi House Spa</span></strong></em></h1>\n<p><span style=\"font-size:20px;\">Giữa nhịp sống bận rộn, một khoảng thời gian dành riêng cho việc thư giãn và chăm sóc bản thân ngày càng trở nên cần thiết. Nếu bạn đang tìm kiếm <strong>GỘI ĐẦU DƯỠNG SINH</strong> với không gian ấm cúng, phong cách nhẹ nhàng và dịch vụ đa dạng, <strong>Mi House Spa</strong> là địa chỉ đáng để bạn trải nghiệm.</span></p>\n<p><span style=\"font-size:20px;\">Tọa lạc tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>, Mi House Spa mang phong cách <strong>dưỡng sinh spa</strong> với gam màu nâu – be chủ đạo. Không gian được định hướng theo sự gần gũi, thư giãn, tạo cảm giác dễ chịu để khách hàng có thể tạm rời xa những áp lực thường ngày và dành thời gian chăm sóc cơ thể. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<div contenteditable=\"false\" tabindex=\"-1\">\n<p data-widget=\"image\" style=\"text-align:center\"><img alt=\"\" height=\"916\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115749.png\" width=\"1232\"/></p>\n</div>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">THƯ GIÃN SAU NHỮNG NGÀY BẬN RỘN</span></h2>\n<p><span style=\"font-size:20px;\">Gội đầu dưỡng sinh không chỉ là một bước chăm sóc tóc thông thường mà còn là trải nghiệm thư giãn dành cho cơ thể và tinh thần. Tại <strong>Mi House Spa</strong>, khách hàng có thể tận hưởng những phút giây nhẹ nhàng trong không gian yên tĩnh, kết hợp chăm sóc tóc và các thao tác massage thư giãn. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Đây là lựa chọn phù hợp cho những người thường xuyên làm việc, học tập với cường độ cao, phải ngồi lâu hoặc đơn giản muốn tìm một nơi để nghỉ ngơi sau một ngày bận rộn. Một buổi <strong>gội đầu dưỡng sinh</strong> có thể trở thành khoảng thời gian riêng để bạn thả lỏng cơ thể, thư giãn tinh thần và chăm sóc bản thân tốt hơn.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">KHÔNG GIAN DƯỠNG SINH ẤM ÁP, NHẸ NHÀNG</span></h2>\n<p><span style=\"font-size:20px;\">Một trong những điểm tạo nên dấu ấn của Mi House Spa là phong cách không gian <strong>nâu – be</strong> ấm áp. Cách phối màu nhẹ nhàng mang đến cảm giác gần gũi và dễ chịu, phù hợp với tinh thần dưỡng sinh mà spa hướng đến.</span></p>\n<p><span style=\"font-size:20px;\">Thay vì sự cầu kỳ, Mi House Spa tập trung xây dựng trải nghiệm thư giãn tự nhiên và thoải mái. Đây là nơi bạn có thể dành một khoảng thời gian cho chính mình, tận hưởng dịch vụ trong không gian riêng tư và tạm quên đi sự tất bật của cuộc sống hàng ngày. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">KHÔNG CHỈ CÓ GỘI ĐẦU DƯỠNG SINH</span></h2>\n<p><span style=\"font-size:20px;\">Bên cạnh dịch vụ <strong>gội đầu dưỡng sinh</strong>, Mi House Spa còn cung cấp <strong>massage và nail</strong>, đáp ứng đa dạng nhu cầu chăm sóc sức khỏe và sắc đẹp. Bạn có thể lựa chọn massage khi muốn thư giãn cơ thể hoặc trải nghiệm dịch vụ nail để chăm chút cho vẻ ngoài.</span></p>\n<p><span style=\"font-size:20px;\">Việc kết hợp nhiều dịch vụ trong cùng một không gian giúp khách hàng thuận tiện hơn khi muốn dành trọn một buổi để chăm sóc bản thân. Từ thư giãn đến làm đẹp, Mi House Spa hướng đến trải nghiệm chỉn chu, nhẹ nhàng và phù hợp với nhiều nhu cầu khác nhau.</span></p>\n<div contenteditable=\"false\" tabindex=\"-1\">\n<p data-widget=\"image\" style=\"text-align:center\"><img alt=\"\" height=\"908\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115737.png\" width=\"1226\"/></p>\n</div>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">VÌ SAO MI HOUSE SPA ĐƯỢC YÊU THÍCH?</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> ghi dấu với phong cách dưỡng sinh gần gũi, không gian nâu – be ấm áp và hệ thống dịch vụ gồm <strong>gội đầu dưỡng sinh, massage, nail</strong>. Đặc biệt, vị trí tại đường Quang Trung giúp khách hàng khu vực Gò Vấp dễ dàng tìm đến khi có nhu cầu thư giãn và chăm sóc bản thân.</span></p>\n<p><span style=\"font-size:20px;\">Với định hướng mang đến những trải nghiệm thoải mái và tận tâm, Mi House Spa mong muốn trở thành điểm đến quen thuộc cho những ai đang tìm kiếm một <strong>địa chỉ gội đầu dưỡng sinh ở Gò Vấp</strong> để nghỉ ngơi, thư giãn và tái tạo năng lượng. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<h2 id=\"mh-toc-5\"><span style=\"font-size:20px;\">THÔNG TIN MI HOUSE SPA</span></h2>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm <strong>GỘI ĐẦU DƯỠNG SINH</strong>, hãy ghé Mi House Spa để trải nghiệm không gian dưỡng sinh ấm áp cùng các dịch vụ chăm sóc đa dạng.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh<br/>\nHotline: <strong>0905 665 116</strong><br/>\nGiờ mở cửa: <strong>9:00 – 22:00 (Thứ 2 – Chủ Nhật)</strong><br/>\nWebsite: <strong>mihousespa.com</strong></span></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 10,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Top Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Được Yêu Thích – Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "id": "original-article-11",
+      "sourceRoute": "/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa",
+      "slug": "goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa",
+      "title": "Gội Đầu Dưỡng Sinh – Thư Giãn Cơ Thể, Chăm Sóc Tinh Thần Tại Mi House Spa",
+      "description": "Giữa nhịp sống bận rộn, đôi khi cơ thể và tinh thần cũng cần một khoảng thời gian để nghỉ ngơi. Mi House Spa mang đến không gian dưỡng sinh nhẹ nhàng, ấm cúng dành cho những ai đang tìm kiếm một nơi thư giãn sau những giờ làm việc, học tập căng thẳng. Đặc biệt, dịch vụ GỘI ĐẦU DƯỠNG SINH GÒ VẤP tại Mi House Spa là lựa chọn phù hợp để bạn chăm sóc mái tóc, thư giãn cơ thể và tận hưởng những phút giây riêng tư cho chính mình.",
+      "body": "<h1><em><strong><span style=\"font-size:24px;\">Gội Đầu Dưỡng Sinh – Thư Giãn Cơ Thể, Chăm Sóc Tinh Thần Tại Mi House Spa</span></strong></em></h1>\n<p><span style=\"font-size:20px;\">Giữa nhịp sống bận rộn, đôi khi cơ thể và tinh thần cũng cần một khoảng thời gian để nghỉ ngơi. <strong>Mi House Spa</strong> mang đến không gian dưỡng sinh nhẹ nhàng, ấm cúng dành cho những ai đang tìm kiếm một nơi thư giãn sau những giờ làm việc, học tập căng thẳng. Đặc biệt, dịch vụ <strong>GỘI ĐẦU DƯỠNG SINH</strong> tại Mi House Spa là lựa chọn phù hợp để bạn chăm sóc mái tóc, thư giãn cơ thể và tận hưởng những phút giây riêng tư cho chính mình.</span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"904\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115725.png\" width=\"1228\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">KHOẢNG LẶNG DÀNH CHO BẠN</span></h2>\n<p><span style=\"font-size:20px;\">Khác với việc gội đầu thông thường, <strong>gội đầu dưỡng sinh</strong> hướng đến trải nghiệm chăm sóc và thư giãn toàn diện hơn. Những thao tác chăm sóc nhẹ nhàng kết hợp cùng massage giúp mang lại cảm giác dễ chịu, hỗ trợ bạn thả lỏng sau một ngày dài. Đây cũng là lựa chọn được nhiều người yêu thích khi muốn dành thời gian chăm sóc bản thân mà không cần mất quá nhiều thời gian.</span></p>\n<p><span style=\"font-size:20px;\">Tại <strong>Mi House Spa</strong>, không gian được định hướng theo phong cách dưỡng sinh với gam màu <strong>nâu – be</strong> chủ đạo, tạo cảm giác ấm áp và gần gũi. Mỗi trải nghiệm được chú trọng từ không gian đến cách phục vụ, giúp khách hàng có thể tạm rời xa những bộn bề thường ngày và tận hưởng khoảng thời gian thư giãn của riêng mình.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">THƯ GIÃN CƠ THỂ, CHĂM SÓC TINH THẦN</span></h2>\n<p><span style=\"font-size:20px;\">Một buổi <strong>gội đầu dưỡng sinh tại MI HOUSE SPA</strong> không chỉ là thời gian chăm sóc tóc mà còn là cơ hội để bạn nghỉ ngơi và tái tạo năng lượng. Sau những giờ làm việc trước máy tính, học tập hoặc di chuyển liên tục, một khoảng thời gian yên tĩnh với các bước chăm sóc nhẹ nhàng có thể giúp bạn cảm thấy thoải mái hơn.</span></p>\n<p><span style=\"font-size:20px;\">Mi House Spa hướng đến sự thư giãn tự nhiên, không cầu kỳ. Từ lúc bước vào không gian spa cho đến khi hoàn thành liệu trình, khách hàng được trải nghiệm phong cách phục vụ thân thiện và chu đáo. Đây là nơi phù hợp để bạn tự thưởng cho mình một khoảng nghỉ, hoặc lựa chọn làm đẹp cùng người thân, bạn bè.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">MI HOUSE SPA – ĐA DẠNG DỊCH VỤ CHĂM SÓC VÀ LÀM ĐẸP</span></h2>\n<p><span style=\"font-size:20px;\">Bên cạnh <strong>GỘI ĐẦU DƯỠNG SINH</strong>, Mi House Spa còn cung cấp các dịch vụ <strong>massage và nail</strong>, đáp ứng nhu cầu thư giãn và chăm sóc sắc đẹp trong cùng một không gian. Bạn có thể lựa chọn dịch vụ phù hợp với nhu cầu của mình hoặc kết hợp nhiều trải nghiệm để có thêm thời gian nghỉ ngơi và chăm sóc bản thân.</span></p>\n<p><span style=\"font-size:20px;\">Với định hướng xây dựng một không gian dưỡng sinh gần gũi, Mi House Spa mong muốn mỗi khách hàng khi ghé thăm đều cảm nhận được sự thoải mái và thư thái. Không chỉ chăm sóc vẻ ngoài, spa còn hướng đến việc tạo nên những khoảng thời gian nhẹ nhàng để bạn cân bằng lại tinh thần.</span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"906\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115652.png\" width=\"1230\"/></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">ĐỊA CHỈ <em><a href=\"http://mihousespa.com/tin-tuc\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em> TẠI MI HOUSE SPA</span></h2>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm một địa chỉ <strong>gội đầu dưỡng sinh</strong> có không gian ấm cúng, phong cách dưỡng sinh và dịch vụ chăm sóc đa dạng, Mi House Spa là một địa điểm đáng để trải nghiệm. Spa tọa lạc tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>, thuận tiện để khách hàng ghé thư giãn và chăm sóc bản thân.</span></p>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> mở cửa từ <strong>9:00 – 22:00, Thứ 2 đến Chủ Nhật</strong>. Hãy dành cho bản thân một khoảng thời gian thật nhẹ nhàng với gội đầu dưỡng sinh, massage hoặc chăm sóc nail tại Mi House Spa – nơi mỗi lần ghé thăm là một dịp để bạn chậm lại, thư giãn và nạp thêm năng lượng.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a href=\"http://mihousespa.com/tin-tuc\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\n📍 Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP.HCM<br/>\n☎️ Hotline: 0905 665 116<br/>\n🕘 Giờ mở cửa: 9:00 – 22:00 (Thứ 2 – Chủ Nhật)<br/>\n🌐 Website: mihousespa.com<br/>\n<em><a href=\"http://mihousespa.com/tin-tuc\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>",
+      "image": "/thumbs/480x780x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.webp",
+      "status": "published",
+      "bodyEdited": false,
+      "featured": false,
+      "order": 11,
+      "publishedAt": "2026-10-15T09:00:00",
+      "alt": "Gội Đầu Dưỡng Sinh – Thư Giãn Cơ Thể, Chăm Sóc Tinh Thần Tại Mi House Spa",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "focusKeyword": "",
+      "schemaJson": ""
+    }
+  ],
+  "sections": {
+    "intro": {
+      "title": "MI HOUSE SPA",
+      "description": "Mi House Spa là địa chỉ chăm sóc sức khỏe và sắc đẹp theo phong cách dưỡng sinh tại Gò Vấp, TP.HCM. Với không gian mang gam màu nâu – be ấm áp, nhẹ nhàng cùng phong cách phục vụ tận tâm, Mi House Spa mang đến một nơi để bạn tạm gác lại những mệt mỏi, thư giãn cơ thể và chăm sóc bản thân sau những giờ làm việc, học tập bận rộn. GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG",
+      "body": "<h1><em><strong><span style=\"font-size:24px;\">MI HOUSE SPA – GỘI ĐẦU DƯỠNG SINH GÒ VẤP, MASSAGE &amp; NAIL THƯ GIÃN</span></strong></em></h1>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> là địa chỉ chăm sóc sức khỏe và sắc đẹp theo phong cách dưỡng sinh tại Gò Vấp, TP.HCM. Với không gian mang gam màu <strong>nâu – be</strong> ấm áp, nhẹ nhàng cùng phong cách phục vụ tận tâm, Mi House Spa mang đến một nơi để bạn tạm gác lại những mệt mỏi, thư giãn cơ thể và chăm sóc bản thân sau những giờ làm việc, học tập bận rộn. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm một địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH</strong> có không gian thư giãn, dịch vụ đa dạng và thuận tiện, Mi House Spa là một lựa chọn đáng để trải nghiệm. Spa tập trung vào các dịch vụ chăm sóc thư giãn như <strong>gội đầu dưỡng sinh, massage và nail</strong>, đáp ứng nhu cầu chăm sóc cơ thể và làm đẹp trong cùng một không gian. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"944\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-120015.png\" width=\"964\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">GỘI ĐẦU DƯỠNG SINH GÒ VẤP – THƯ GIÃN TỪ ĐẦU ĐẾN VAI GÁY</span></h2>\n<p><span style=\"font-size:20px;\">Gội đầu dưỡng sinh tại <strong>Mi House Spa</strong> không chỉ đơn thuần là làm sạch tóc mà còn hướng đến trải nghiệm thư giãn toàn diện. Quy trình chăm sóc được kết hợp với các động tác massage nhẹ nhàng, giúp bạn có những phút giây nghỉ ngơi thoải mái. Đây là lựa chọn phù hợp cho những ai thường xuyên làm việc trước máy tính, học tập căng thẳng hoặc đơn giản muốn dành thời gian chăm sóc bản thân. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Không gian spa được thiết kế theo phong cách <strong>dưỡng sinh</strong>, ưu tiên cảm giác nhẹ nhàng, gần gũi và dễ chịu. Từ màu sắc nâu – be chủ đạo đến cách bài trí, mọi yếu tố đều hướng đến một trải nghiệm thư giãn, giúp khách hàng cảm thấy thoải mái ngay từ khi bước vào.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">THƯ GIÃN CƠ THỂ, NẠP LẠI NĂNG LƯỢNG</span></h2>\n<p><span style=\"font-size:20px;\">Bên cạnh dịch vụ <strong>gội đầu dưỡng sinh </strong>, Mi House Spa còn cung cấp dịch vụ massage dành cho khách hàng muốn thư giãn và chăm sóc cơ thể. Massage là lựa chọn lý tưởng sau một ngày làm việc hoặc khi cơ thể cần được nghỉ ngơi. Với không gian yên tĩnh và phong cách phục vụ chu đáo, khách hàng có thể tận hưởng khoảng thời gian riêng tư, thoải mái tại spa.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">CHĂM SÓC VÀ LÀM ĐẸP ĐÔI TAY</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> còn kết hợp dịch vụ nail, giúp khách hàng thuận tiện chăm sóc sắc đẹp tại cùng một địa điểm. Từ chăm sóc móng đến lựa chọn kiểu dáng phù hợp, dịch vụ nail góp phần hoàn thiện trải nghiệm làm đẹp và thư giãn dành cho khách hàng.</span></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">MI HOUSE SPA – ĐỊA CHỈ CHĂM SÓC SỨC KHỎE VÀ SẮC ĐẸP TẠI GÒ VẤP</span></h2>\n<p><span style=\"font-size:20px;\">Với định hướng xây dựng không gian <strong>dưỡng sinh spa</strong> gần gũi, Mi House Spa mong muốn trở thành điểm đến quen thuộc dành cho những ai yêu thích việc chăm sóc bản thân. Sự kết hợp giữa <strong>gội đầu dưỡng sinh, massage và nail</strong> giúp khách hàng dễ dàng lựa chọn dịch vụ phù hợp với nhu cầu của mình.</span></p>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> tọa lạc tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>. Spa mở cửa từ <strong>9:00 – 22:00, Thứ 2 đến Chủ Nhật</strong>, thuận tiện cho khách hàng ghé trải nghiệm vào nhiều khung giờ trong ngày.</span></p>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm <strong>GỘI ĐẦU DƯỠNG SINH</strong>, massage hoặc nail trong một không gian ấm áp, nhẹ nhàng, hãy ghé <strong>Mi House Spa</strong> để dành cho bản thân những phút giây thư giãn và chăm sóc trọn vẹn hơn. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"950\" src=\"/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.png\" width=\"1118\"/></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\n📍 Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP.HCM<br/>\n☎️ Hotline: 0767882407<br/>\n🕘 Giờ mở cửa: 9:00 – 22:00 (Thứ 2 – Chủ Nhật)<br/>\n🌐 Website: mihousespa.com</span></p>",
+      "image": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-120015.png",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false,
+      "homeSubtitle": "Đôi nét về",
+      "homeTitle": "MI HOUSE SPA",
+      "homeBody": "<p><strong>Mi House Spa</strong> là địa chỉ chăm sóc sức khỏe và sắc đẹp theo phong cách dưỡng sinh tại Gò Vấp, TP.HCM. Với không gian mang gam màu <strong>nâu – be</strong> ấm áp, nhẹ nhàng cùng phong cách phục vụ tận tâm, Mi House Spa mang đến một nơi để bạn tạm gác lại những mệt mỏi, thư giãn cơ thể và chăm sóc bản thân sau những giờ làm việc, học tập bận rộn.</p>\n<p>Nếu bạn đang tìm kiếm một địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH </strong> có không gian thư giãn, dịch vụ đa dạng và thuận tiện, Mi House Spa là một lựa chọn đáng để trải nghiệm. Spa tập trung vào các dịch vụ chăm sóc thư giãn như <strong>gội đầu dưỡng sinh, massage và nail</strong>, đáp ứng nhu cầu chăm sóc cơ thể và làm đẹp trong cùng một không gian.</p>",
+      "homeImage": "http://mihousespa.com/thumbs/960x940x1/upload/news/2026/09/20/1wupukm89irozafcsrti31nwnjrvqtmdan2rgrkyqmrks5xaqqx5ys4mbt7cyoqazwh-1789886518.webp"
+    },
+    "contact": {
+      "title": "Liên hệ Mi House Spa",
+      "description": "43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh",
+      "body": "",
+      "image": "",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false
+    },
+    "footer": {
+      "title": "Mi House Spa",
+      "description": "Gội đầu dưỡng sinh - Massage body - Nail",
+      "body": "Địa chỉ: 43 đường Quang Trung, phường Gò Vấp, Thành phố Hồ Chí Minh\nHotline: 0767882407\nEmail: nguyenquynhdiem1988@gmail.com",
+      "image": "",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false
+    }
+  },
+  "albumCategories": [
+    {
+      "id": "nail",
+      "title": "Nail hottrend",
+      "slug": "nail-hottrend",
+      "order": 1,
+      "status": "published"
+    },
+    {
+      "id": "space",
+      "title": "Không gian",
+      "slug": "khong-gian",
+      "order": 2,
+      "status": "published"
+    }
+  ],
+  "albumItems": [],
+  "services": [
+    {
+      "title": "GỘI ĐẦU DƯỠNG SINH",
+      "description": "Nếu bạn đang tìm kiếm một địa chỉ GỘI ĐẦU DƯỠNG SINH có không gian ấm cúng, nhẹ nhàng và dịch vụ chăm sóc tận tâm, Mi House Spa là một lựa chọn đáng để trải nghiệm. Với phong cách dưỡng sinh spa cùng gam màu nâu – be chủ đạo, Mi House Spa mang đến không gian thư giãn gần gũi, nơi bạn có thể tạm gác lại những bộn bề và dành thời gian chăm sóc bản thân. GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG",
+      "body": "<h1><em><strong><span style=\"font-size:24px;\">Gội Đầu Dưỡng Sinh Gò Vấp Tại Mi House Spa – Thư Giãn, Chăm Sóc Tóc Và Tái Tạo Năng Lượng</span></strong></em></h1>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm một địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH</strong> có không gian ấm cúng, nhẹ nhàng và dịch vụ chăm sóc tận tâm, <strong>Mi House Spa</strong> là một lựa chọn đáng để trải nghiệm. Với phong cách dưỡng sinh spa cùng gam màu nâu – be chủ đạo, Mi House Spa mang đến không gian thư giãn gần gũi, nơi bạn có thể tạm gác lại những bộn bề và dành thời gian chăm sóc bản thân. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"904\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115714.png\" width=\"1230\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">Dịch Vụ Gội Đầu Dưỡng Sinh Tại Mi House Spa. </span></h2>\n<p><span style=\"font-size:20px;\"><strong>Gội đầu dưỡng sinh</strong> tại Mi House Spa được định hướng trở thành một trải nghiệm thư giãn kết hợp chăm sóc tóc và da đầu. Không chỉ làm sạch tóc, dịch vụ còn mang đến những phút giây thoải mái thông qua các thao tác chăm sóc nhẹ nhàng, giúp khách hàng thả lỏng sau những giờ làm việc, học tập hoặc sinh hoạt bận rộn. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\">Một buổi gội đầu dưỡng sinh là khoảng thời gian để bạn nghỉ ngơi và tận hưởng sự chăm sóc dành riêng cho mình. Không gian yên tĩnh, phong cách phục vụ chu đáo cùng quy trình chăm sóc nhẹ nhàng tạo nên trải nghiệm phù hợp cho những ai yêu thích sự thư giãn và chăm sóc cơ thể.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">Gội Đầu Dưỡng Sinh Gò Vấp – Thư Giãn Trong Không Gian Ấm Cúng</span></h2>\n<p><span style=\"font-size:20px;\">Mi House Spa lựa chọn <strong>nâu và be</strong> làm màu sắc chủ đạo, tạo cảm giác ấm áp và dễ chịu. Phong cách dưỡng sinh được thể hiện xuyên suốt không gian, giúp khách hàng có cảm giác thoải mái ngay từ khi bước vào.</span></p>\n<p><span style=\"font-size:20px;\">Thay vì dành thời gian cho những hoạt động vội vàng, bạn có thể chọn một buổi <strong>gội đầu dưỡng sinh</strong> để chậm lại, thư giãn và chăm sóc bản thân. Đây cũng là lựa chọn phù hợp khi bạn muốn tìm một không gian nghỉ ngơi sau một ngày dài hoặc đơn giản là muốn tự thưởng cho mình một khoảng thời gian riêng.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">Chăm Sóc Tóc Và Thư Giãn Tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Điểm đặc biệt của dịch vụ gội đầu dưỡng sinh nằm ở sự kết hợp giữa chăm sóc tóc và trải nghiệm thư giãn. Tại <strong>Mi House Spa</strong>, khách hàng có thể tận hưởng cảm giác nhẹ nhàng trong suốt quá trình chăm sóc, đồng thời dành thời gian để cơ thể và tinh thần được nghỉ ngơi.</span></p>\n<p><span style=\"font-size:20px;\">Bên cạnh gội đầu dưỡng sinh, Mi House Spa còn có <strong>dịch vụ massage và nail</strong>, đáp ứng đa dạng nhu cầu chăm sóc và làm đẹp. Bạn có thể lựa chọn một dịch vụ riêng hoặc kết hợp các dịch vụ phù hợp để có một khoảng thời gian chăm sóc bản thân trọn vẹn hơn.</span></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">Vì Sao Nên Chọn Mi House Spa?</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> hướng đến trải nghiệm dưỡng sinh gần gũi, nhẹ nhàng và chỉn chu. Không gian nâu – be ấm áp, dịch vụ đa dạng và phong cách phục vụ tận tâm là những yếu tố giúp khách hàng cảm thấy thoải mái khi ghé thăm.</span></p>\n<p><span style=\"font-size:20px;\">Với vị trí tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>, Mi House Spa thuận tiện cho khách hàng khu vực Gò Vấp tìm kiếm một địa chỉ <strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP</strong> để thư giãn. Spa mở cửa từ <strong>9:00 – 22:00, Thứ 2 đến Chủ Nhật</strong>, giúp bạn dễ dàng sắp xếp thời gian trải nghiệm. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"896\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115758.png\" width=\"1234\"/></p>\n<h2 id=\"mh-toc-5\"><span style=\"font-size:20px;\">Mi House Spa – Gội Đầu Dưỡng Sinh Gò Vấp.</span></h2>\n<p><span style=\"font-size:20px;\">Nếu bạn đang cần một khoảng thời gian để nghỉ ngơi, chăm sóc tóc và thư giãn tinh thần, hãy ghé <strong>Mi House Spa</strong>. Một buổi gội đầu dưỡng sinh không chỉ là chăm sóc mái tóc mà còn là cách bạn dành thêm thời gian yêu thương và chăm sóc chính mình. <em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em></span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA | </strong><em><a aria-label=\"Mi House Spa Beauty\" href=\"http://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"><strong>GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG</strong></a></em><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP. Hồ Chí Minh<br/>\nHotline: 0905 665 116<br/>\nGiờ mở cửa: 9:00 – 22:00 (T2 – CN)<br/>\nWebsite: mihousespa.com</span></p>",
+      "image": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115714.png",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false,
+      "id": "original-service-1",
+      "sourceRoute": "/goi-dau-duong-sinh",
+      "slug": "goi-dau-duong-sinh",
+      "displayImage": "/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.webp",
+      "status": "published",
+      "featured": true,
+      "order": 1,
+      "publishedAt": "2026-09-10T09:00:00",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "title": "MASSAGE",
+      "description": "Giữa nhịp sống bận rộn, cơ thể dễ tích tụ cảm giác mệt mỏi sau những giờ làm việc, học tập và di chuyển. Một buổi massage nhẹ nhàng là khoảng thời gian lý tưởng để bạn tạm gác lại những bộn bề và dành sự quan tâm cho chính mình. Nếu đang tìm kiếm MASSAGE , Mi House Spa là địa chỉ mang đến không gian dưỡng sinh ấm cúng cùng nhiều lựa chọn massage phù hợp với nhu cầu thư giãn của bạn.",
+      "body": "<h1><em><strong><span style=\"font-size:24px;\">Massage Thư Giãn Gò Vấp – Chăm Sóc Cơ Thể Tại Mi House Spa</span></strong></em></h1>\n<p><span style=\"font-size:20px;\">Giữa nhịp sống bận rộn, cơ thể dễ tích tụ cảm giác mệt mỏi sau những giờ làm việc, học tập và di chuyển. Một buổi massage nhẹ nhàng là khoảng thời gian lý tưởng để bạn tạm gác lại những bộn bề và dành sự quan tâm cho chính mình. Nếu đang tìm kiếm <strong>MASSAGE</strong>, <strong>Mi House Spa</strong> là địa chỉ mang đến không gian dưỡng sinh ấm cúng cùng nhiều lựa chọn massage phù hợp với nhu cầu thư giãn của bạn.</span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"962\" src=\"/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.png\" width=\"1132\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">Massage Thư Giãn Gò Vấp Tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Với phong cách <strong>dưỡng sinh spa</strong>, Mi House Spa hướng đến trải nghiệm nhẹ nhàng, thoải mái và gần gũi. Không gian sử dụng gam màu <strong>nâu – be</strong> ấm áp, tạo cảm giác dễ chịu ngay khi bạn bước vào. Các dịch vụ massage được thiết kế đa dạng, giúp khách hàng dễ dàng lựa chọn liệu trình phù hợp với tình trạng cơ thể và sở thích cá nhân.</span></p>\n<p><span style=\"font-size:20px;\">Tại Mi House Spa, bạn có thể lựa chọn các dịch vụ <strong>massage body, massage đá nóng, massage cổ – vai – gáy và massage dầu dừa</strong>. Mỗi lựa chọn mang đến một trải nghiệm thư giãn riêng, phù hợp cho những ngày bạn muốn nghỉ ngơi, thả lỏng cơ thể và tái tạo năng lượng.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">Massage Body – Thư Giãn Toàn Thân</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Massage body</strong> là lựa chọn phù hợp khi bạn muốn dành thời gian chăm sóc và thư giãn toàn thân. Các thao tác massage nhẹ nhàng giúp cơ thể được thả lỏng, mang lại cảm giác dễ chịu và thoải mái hơn. Đây cũng là một lựa chọn lý tưởng sau những ngày làm việc với cường độ cao hoặc khi bạn muốn tìm một khoảng thời gian nghỉ ngơi riêng tư.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">Massage Đá Nóng – Làm Ấm Và Thả Lỏng Cơ Thể</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Massage đá nóng</strong> kết hợp massage với hơi ấm từ đá nóng, tạo cảm giác thư giãn sâu và dễ chịu. Hơi ấm lan tỏa giúp cơ thể có cảm giác được thả lỏng, phù hợp với những ai yêu thích trải nghiệm massage ấm áp và nhẹ nhàng.</span></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">Massage Cổ – Vai – Gáy</span></h2>\n<p><span style=\"font-size:20px;\">Với những người thường xuyên ngồi làm việc, sử dụng máy tính hoặc điện thoại trong thời gian dài, vùng <strong>cổ – vai – gáy</strong> có thể trở nên căng cứng và khó chịu. Dịch vụ massage cổ – vai – gáy tại Mi House Spa tập trung vào khu vực này với các động tác massage phù hợp, mang đến cảm giác thư giãn và dễ chịu hơn cho cơ thể.</span></p>\n<h2 id=\"mh-toc-5\"><span style=\"font-size:20px;\">Massage Dầu Dừa – Dịu Nhẹ Và Thư Giãn</span></h2>\n<p><span style=\"font-size:20px;\"><strong>Massage dầu dừa</strong> mang đến trải nghiệm mềm mại và thư giãn với dầu dừa trong quá trình massage. Hương thơm nhẹ nhàng cùng cảm giác massage êm ái giúp bạn tận hưởng trọn vẹn khoảng thời gian nghỉ ngơi. Đây là lựa chọn thích hợp dành cho những ai yêu thích phong cách chăm sóc cơ thể nhẹ nhàng, gần gũi.</span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"896\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115758.png\" width=\"1234\"/></p>\n<h2 id=\"mh-toc-6\"><span style=\"font-size:20px;\">Vì Sao Nên Chọn Mi House Spa?</span></h2>\n<p><span style=\"font-size:20px;\">Không chỉ cung cấp <strong>MASSAGE</strong>, Mi House Spa còn có dịch vụ <strong>gội đầu dưỡng sinh và nail</strong>, đáp ứng đa dạng nhu cầu chăm sóc và làm đẹp. Không gian nâu – be ấm cúng, phong cách dưỡng sinh cùng sự phục vụ tận tâm tạo nên một điểm đến phù hợp để bạn thư giãn sau những ngày bận rộn.</span></p>\n<p><span style=\"font-size:20px;\">Mi House Spa tọa lạc tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong> và mở cửa từ <strong>9:00 – 22:00, Thứ 2 đến Chủ Nhật</strong>. Nếu bạn đang tìm một địa chỉ <strong>massage Gò Vấp</strong> để thư giãn, chăm sóc cơ thể và tận hưởng những phút giây bình yên, Mi House Spa sẵn sàng chào đón bạn.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA</strong><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP. Hồ Chí Minh<br/>\nHotline: 0905 665 116<br/>\nGiờ mở cửa: 9:00 – 22:00 (T2 – CN)<br/>\nWebsite: mihousespa.com</span></p>",
+      "image": "/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.png",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false,
+      "id": "original-service-2",
+      "sourceRoute": "/massage",
+      "slug": "massage",
+      "displayImage": "/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124320-1789019006.webp",
+      "status": "published",
+      "featured": true,
+      "order": 2,
+      "publishedAt": "2026-09-10T09:00:00",
+      "focusKeyword": "",
+      "schemaJson": ""
+    },
+    {
+      "title": "NAIL",
+      "description": "Bên cạnh dịch vụ gội đầu dưỡng sinh và massage thư giãn, Mi House Spa còn mang đến dịch vụ nail dành cho những khách hàng yêu thích việc chăm sóc và làm đẹp đôi tay, đôi chân. Nếu bạn đang tìm kiếm một địa chỉ NAIL có không gian nhẹ nhàng, ấm cúng và phong cách phục vụ tận tâm, Mi House Spa là lựa chọn đáng để trải nghiệm.",
+      "body": "<h1><em><strong><span style=\"font-size:24px;\">NAIL GÒ VẤP – CHĂM SÓC VÀ LÀM ĐẸP MÓNG TẠI MI HOUSE SPA</span></strong></em></h1>\n<p><span style=\"font-size:20px;\">Bên cạnh dịch vụ gội đầu dưỡng sinh và massage thư giãn, <strong>Mi House Spa</strong> còn mang đến dịch vụ nail dành cho những khách hàng yêu thích việc chăm sóc và làm đẹp đôi tay, đôi chân. Nếu bạn đang tìm kiếm một địa chỉ <strong>NAIL</strong> có không gian nhẹ nhàng, ấm cúng và phong cách phục vụ tận tâm, Mi House Spa là lựa chọn đáng để trải nghiệm.</span></p>\n<p style=\"text-align:center\"><img alt=\"\" height=\"952\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115953.png\" width=\"1128\"/></p>\n<h2 id=\"mh-toc-1\"><span style=\"font-size:20px;\">Dịch Vụ Nail Tại Mi House Spa</span></h2>\n<p><span style=\"font-size:20px;\">Đôi tay là một phần tạo nên vẻ ngoài chỉn chu và sự tự tin trong giao tiếp hằng ngày. Một bộ móng được chăm sóc gọn gàng, sạch đẹp không chỉ giúp hoàn thiện diện mạo mà còn mang đến cảm giác yêu thích bản thân hơn. Hiểu được nhu cầu đó, <strong>Mi House Spa</strong> kết hợp dịch vụ nail trong không gian dưỡng sinh, giúp khách hàng vừa làm đẹp vừa tận hưởng những phút giây thư giãn.</span></p>\n<p><span style=\"font-size:20px;\">Đến với Mi House Spa, bạn có thể lựa chọn dịch vụ nail phù hợp với sở thích và phong cách cá nhân. Từ những kiểu móng đơn giản, thanh lịch đến các thiết kế có điểm nhấn, bộ móng được lựa chọn phù hợp sẽ giúp bạn thể hiện cá tính theo cách riêng.</span></p>\n<h2 id=\"mh-toc-2\"><span style=\"font-size:20px;\">Không Gian Nail Gò Vấp Ấm Cúng, Thư Giãn</span></h2>\n<p><span style=\"font-size:20px;\">Mi House Spa sở hữu phong cách <strong>dưỡng sinh spa</strong> với gam màu <strong>nâu – be</strong> chủ đạo. Không gian được định hướng theo sự nhẹ nhàng, gần gũi và ấm áp, tạo cảm giác thoải mái khi khách hàng đến chăm sóc sắc đẹp.</span></p>\n<p><span style=\"font-size:20px;\">Thay vì chỉ đơn thuần ghé tiệm để làm móng, bạn có thể dành thời gian chậm lại, thư giãn và tận hưởng một khoảng thời gian riêng cho bản thân. Đây cũng là điểm phù hợp với những khách hàng yêu thích trải nghiệm làm đẹp nhẹ nhàng, không quá cầu kỳ nhưng vẫn chỉn chu.</span></p>\n<h2 id=\"mh-toc-3\"><span style=\"font-size:20px;\">NAIL GÒ VẤP KẾT HỢP GỘI ĐẦU DƯỠNG SINH &amp; MASSAGE</span></h2>\n<p><span style=\"font-size:20px;\">Một trong những điểm thuận tiện tại <strong>Mi House Spa</strong> là khách hàng có thể trải nghiệm nhiều dịch vụ chăm sóc trong cùng một không gian. Sau khi chăm sóc móng, bạn có thể lựa chọn thêm <strong>gội đầu dưỡng sinh</strong> hoặc <strong>massage</strong> để thư giãn cơ thể và tinh thần.</span></p>\n<p><span style=\"font-size:20px;\">Sự kết hợp giữa làm đẹp và thư giãn giúp mỗi lần ghé spa trở thành một khoảng thời gian chăm sóc bản thân trọn vẹn hơn. Bạn có thể chủ động lựa chọn dịch vụ theo nhu cầu hoặc kết hợp nhiều trải nghiệm trong một buổi.</span></p>\n<h2 id=\"mh-toc-4\"><span style=\"font-size:20px;\">Vì Sao Nên Chọn Dịch Vụ Nail Tại Mi House Spa?</span></h2>\n<p style=\"text-align:center\"><img alt=\"\" height=\"960\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-115922.png\" width=\"1134\"/></p>\n<p><span style=\"font-size:20px;\"><strong>Mi House Spa</strong> hướng đến trải nghiệm làm đẹp gần gũi, nhẹ nhàng và thoải mái. Không gian nâu – be ấm áp, dịch vụ đa dạng cùng phong cách phục vụ tận tâm là những yếu tố giúp khách hàng có thêm lý do để lựa chọn Mi House Spa khi cần chăm sóc móng và thư giãn.</span></p>\n<p><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm <strong>NAIL</strong> kết hợp cùng các dịch vụ chăm sóc cơ thể như gội đầu dưỡng sinh và massage, hãy ghé Mi House Spa tại <strong>43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh</strong>.</span></p>\n<p><span style=\"font-size:20px;\"><strong>MI HOUSE SPA</strong><br/>\nĐịa chỉ: 43 đường Quang Trung, phường Gò Vấp, TP. Hồ Chí Minh<br/>\nHotline: 0905 665 116<br/>\nGiờ mở cửa: 9:00 – 22:00 (Thứ 2 – Chủ Nhật)<br/>\nWebsite: mihousespa.com</span></p>",
+      "image": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-115953.png",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false,
+      "id": "original-service-3",
+      "sourceRoute": "/nail",
+      "slug": "nail",
+      "displayImage": "/thumbs/500x800x1/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124213-1789018938.webp",
+      "status": "published",
+      "featured": true,
+      "order": 3,
+      "publishedAt": "2026-09-10T09:00:00",
+      "focusKeyword": "",
+      "schemaJson": ""
+    }
+  ],
+  "training": [
+    {
+      "title": "KHÓA ĐÀO TẠO NGHỀ DƯỠNG SINH CHUYÊN NGHIỆP TẠI MI HOUSE SPA",
+      "description": "Chăm sóc sức khỏe và làm đẹp theo hướng thư giãn đang trở thành xu hướng thịnh hành với tiềm năng phát triển mạnh mẽ. Không chỉ là địa chỉ GỘI ĐẦU DƯỠNG SINH uy tín được đông đảo khách hàng tin chọn, Mi House Spa còn tự hào là cơ sở đào tạo nghề chuyên sâu, cầm tay chỉ việc, mở ra lộ trình nghề nghiệp vững chắc cho các bạn trẻ và những ai có đam mê với nghề làm đẹp dưỡng sinh.",
+      "body": "<h1 data-path-to-node=\"2\"><em><strong><span style=\"font-size:24px;\">KHÓA ĐÀO TẠO NGHỀ DƯỠNG SINH CHUYÊN NGHIỆP TẠI MI HOUSE SPA</span></strong></em></h1>\n<p data-path-to-node=\"3\"><span style=\"font-size:20px;\">Chăm sóc sức khỏe và làm đẹp theo hướng thư giãn đang trở thành xu hướng thịnh hành với tiềm năng phát triển mạnh mẽ. Không chỉ là địa chỉ <b data-index-in-node=\"139\" data-path-to-node=\"3\">GỘI ĐẦU DƯỠNG SINH</b> uy tín được đông đảo khách hàng tin chọn, <b data-index-in-node=\"207\" data-path-to-node=\"3\">Mi House Spa</b> còn tự hào là cơ sở đào tạo nghề chuyên sâu, cầm tay chỉ việc, mở ra lộ trình nghề nghiệp vững chắc cho các bạn trẻ và những ai có đam mê với nghề làm đẹp dưỡng sinh.</span></p>\n<p data-path-to-node=\"4\"><span style=\"font-size:20px;\">Nếu bạn đang tìm kiếm nơi học nghề thực chiến để tự tin đi làm ngay hoặc có kế hoạch mở tiệm riêng, các khóa học tại <b data-index-in-node=\"117\" data-path-to-node=\"4\">Mi House Spa</b> sẽ là bệ phóng hoàn hảo dành cho bạn.</span></p>\n<h2 data-path-to-node=\"6\" id=\"mh-toc-1\"><span style=\"font-size:20px;\">TẠI SAO NÊN CHỌN HỌC NGHỀ TẠI MI HOUSE SPA?</span></h2>\n<p data-path-to-node=\"7\"><span style=\"font-size:20px;\">Nghề dưỡng sinh đòi hỏi sự am hiểu sâu về huyệt đạo, cảm nhận lực tay và phong thái phục vụ tận tâm. Khóa đào tạo tại <b data-index-in-node=\"118\" data-path-to-node=\"7\">Mi House Spa</b> mang đến môi trường rèn luyện toàn diện:</span></p>\n<ul data-path-to-node=\"8\">\n<li>\n<p data-path-to-node=\"8,0,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"8,0,0\">Mô hình kết hợp dịch vụ thực tế:</b> Bạn được đào tạo trọn vẹn mô hình dịch vụ gồm <b data-index-in-node=\"79\" data-path-to-node=\"8,0,0\">gội đầu dưỡng sinh, massage và nail</b> – bộ ba dịch vụ đang được ưa chuộng hàng đầu, giúp tối ưu nguồn doanh thu cho spa.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"8,1,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"8,1,0\">Thời lượng 80% thực hành:</b> Thực hành trực tiếp trên mẫu thật dưới sự kèm cặp sát sao của giảng viên. Từng thế đứng, góc bấm huyệt và độ êm ái của lực tay đều được chỉnh sửa tỉ mỉ.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"8,2,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"8,2,0\">Môi trường học chuẩn không gian dưỡng sinh:</b> Trải nghiệm học tập trong không gian ấm áp tông màu nâu – be nhẹ nhàng của <b data-index-in-node=\"119\" data-path-to-node=\"8,2,0\">Mi House Spa</b>, giúp bạn rèn luyện tác phong chuyên nghiệp, tinh tế đúng chuẩn dịch vụ cao cấp.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"8,3,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"8,3,0\">Truyền đạt bí quyết nghề:</b> Không chỉ dạy kỹ thuật, bạn còn được chia sẻ kỹ năng nắm bắt tâm lý khách hàng và quy trình vận hành dịch vụ bài bản.</span><br/>\n\t </p>\n</li>\n</ul>\n<p style=\"text-align:center\"><img alt=\"\" height=\"944\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-120015.png\" width=\"964\"/></p>\n<h2 data-path-to-node=\"10\" id=\"mh-toc-2\"><span style=\"font-size:20px;\">NỘI DUNG CÁC KHÓA ĐÀO TẠO TẠI MI HOUSE SPA</span></h2>\n<p data-path-to-node=\"11\"><span style=\"font-size:20px;\">Chương trình đào tạo tại <b data-index-in-node=\"25\" data-path-to-node=\"11\">Mi House Spa</b> được thiết kế linh hoạt, bao quát đầy đủ kỹ năng từ cơ bản đến nâng cao:</span></p>\n<h3 data-path-to-node=\"12\" id=\"mh-toc-3\"><span style=\"font-size:20px;\">1. Kỹ thuật gội đầu dưỡng sinh &amp; trị liệu chuyên sâu</span></h3>\n<ul data-path-to-node=\"13\">\n<li>\n<p data-path-to-node=\"13,0,0\"><span style=\"font-size:20px;\">Kỹ thuật gội sạch tóc, kết hợp nước gội thảo dược tự nhiên.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"13,1,0\"><span style=\"font-size:20px;\">Bài massage bấm huyệt đả thông kinh lạc vùng đầu, giải tỏa căng thẳng và đau đầu mất ngủ.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"13,2,0\"><span style=\"font-size:20px;\">Kỹ thuật massage chuyên sâu vùng cổ – vai – gáy, xoa dịu đau nhức do thói quen ngồi máy tính nhiều của dân văn phòng – kỹ thuật cốt lõi làm nên thương hiệu <b data-index-in-node=\"156\" data-path-to-node=\"13,2,0\">GỘI ĐẦU DƯỠNG SINH</b> tại <b data-index-in-node=\"186\" data-path-to-node=\"13,2,0\">Mi House Spa</b>.</span></p>\n</li>\n</ul>\n<h3 data-path-to-node=\"14\" id=\"mh-toc-4\"><span style=\"font-size:20px;\">2. Kỹ thuật massage body thư giãn</span></h3>\n<ul data-path-to-node=\"15\">\n<li>\n<p data-path-to-node=\"15,0,0\"><span style=\"font-size:20px;\">Nhận biết hệ thống kinh lạc và các huyệt đạo quan trọng trên cơ thể.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"15,1,0\"><span style=\"font-size:20px;\">Kỹ thuật ấn huyệt, miết cơ, kết hợp tinh dầu để hỗ trợ lưu thông khí huyết, giải tỏa căng cứng cơ bắp.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"15,2,0\"><span style=\"font-size:20px;\">Quy trình massage toàn thân mang lại cảm giác thư thái và phục hồi năng lượng tối đa cho khách hàng.</span></p>\n</li>\n</ul>\n<h3 data-path-to-node=\"16\" id=\"mh-toc-5\"><span style=\"font-size:20px;\">3. Kỹ thuật chăm sóc và làm đẹp móng (Nail)</span></h3>\n<ul data-path-to-node=\"17\">\n<li>\n<p data-path-to-node=\"17,0,0\"><span style=\"font-size:20px;\">Quy trình làm sạch móng, nhặt da đúng kỹ thuật và an toàn.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"17,1,0\"><span style=\"font-size:20px;\">Kỹ thuật sơn, tạo phom móng thanh lịch, nhẹ nhàng theo thị hiếu hiện đại.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"17,2,0\"><span style=\"font-size:20px;\">Cách bố trí thao tác khoa học để phối hợp linh hoạt mô hình <b data-index-in-node=\"60\" data-path-to-node=\"17,2,0\">gội đầu dưỡng sinh, massage và nail</b> trong cùng một buổi trải nghiệm của khách.</span></p>\n</li>\n</ul>\n<h2 data-path-to-node=\"19\" id=\"mh-toc-6\"><span style=\"font-size:20px;\">QUYỀN LỢI ĐẶC BIỆT DÀNH CHO HỌC VIÊN</span></h2>\n<ol data-path-to-node=\"20\" start=\"1\">\n<li>\n<p data-path-to-node=\"20,0,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"20,0,0\">Cam kết vững tay nghề:</b> Học viên được rèn luyện cho đến khi thuần thục tay nghề, không giới hạn thời gian học và được hỗ trợ ôn luyện nâng cao miễn phí.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"20,1,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"20,1,0\">Cơ hội việc làm:</b> Ưu tiên tuyển dụng làm việc trực tiếp tại <b data-index-in-node=\"59\" data-path-to-node=\"20,1,0\">Mi House Spa</b> với mức thu nhập cạnh tranh và chế độ đãi ngộ hấp dẫn.</span></p>\n</li>\n<li>\n<p data-path-to-node=\"20,2,0\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"20,2,0\">Tư vấn mở tiệm:</b> Học viên có định hướng khởi nghiệp sẽ được định hướng chọn máy móc dụng cụ, thiết kế không gian dưỡng sinh và kinh nghiệm thu hút khách hàng địa phương khi mở tiệm <b data-index-in-node=\"180\" data-path-to-node=\"20,2,0\">GỘI ĐẦU DƯỠNG SINH</b> hoặc tại các khu vực lân cận.</span><br/>\n\t </p>\n<p style=\"text-align:center\"><img alt=\"Massage body Gò Vấp\" height=\"962\" src=\"/upload/file/anh-chup-man-hinh-2026-09-10-luc-120004.png\" width=\"1110\"/></p>\n<p> </p>\n</li>\n</ol>\n<h2 data-path-to-node=\"22\" id=\"mh-toc-7\"><span style=\"font-size:20px;\">LIÊN HỆ ĐĂNG KÝ KHÓA HỌC</span></h2>\n<p data-path-to-node=\"23\"><span style=\"font-size:20px;\">Đầu tư vào một nghề nghiệp vững bền là bước đi thông minh cho tương lai. Liên hệ ngay với <b data-index-in-node=\"90\" data-path-to-node=\"23\">Mi House Spa</b> để nhận tư vấn lộ trình học phù hợp nhất với mục tiêu của bạn!</span></p>\n<p data-path-to-node=\"24\"><span style=\"font-size:20px;\"><b data-index-in-node=\"0\" data-path-to-node=\"24\">MI HOUSE SPA</b></span></p>\n<ul data-path-to-node=\"25\">\n<li>\n<p data-path-to-node=\"25,0,0\"><span style=\"font-size:20px;\">📍 <b data-index-in-node=\"3\" data-path-to-node=\"25,0,0\">Địa chỉ:</b> 43 đường Quang Trung, phường Gò Vấp, TP.HCM</span></p>\n</li>\n<li>\n<p data-path-to-node=\"25,1,0\"><span style=\"font-size:20px;\">☎️ <b data-index-in-node=\"3\" data-path-to-node=\"25,1,0\">Hotline / Zalo:</b> 0905 665 116</span></p>\n</li>\n<li>\n<p data-path-to-node=\"25,2,0\"><span style=\"font-size:20px;\">🕘 <b data-index-in-node=\"3\" data-path-to-node=\"25,2,0\">Giờ mở cửa:</b> 9:00 – 22:00 (Thứ 2 – Chủ Nhật)</span></p>\n</li>\n<li>\n<p data-path-to-node=\"25,3,0\"><span style=\"font-size:20px;\">🌐 <b data-index-in-node=\"3\" data-path-to-node=\"25,3,0\">Website:</b> mihousespa.com</span></p>\n</li>\n</ul>",
+      "image": "/upload/file/anh-chup-man-hinh-2026-09-10-luc-120015.png",
+      "alt": "",
+      "seoTitle": "",
+      "seoKeywords": "",
+      "seoDescription": "",
+      "updated": false,
+      "id": "original-training-1",
+      "sourceRoute": "/dao-tao-hoc-vien",
+      "slug": "dao-tao-hoc-vien",
+      "status": "published",
+      "featured": true,
+      "order": 1,
+      "publishedAt": "2026-09-10T09:00:00",
+      "focusKeyword": "",
+      "schemaJson": ""
+    }
+  ]
+}

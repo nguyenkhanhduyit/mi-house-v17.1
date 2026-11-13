@@ -1,0 +1,236 @@
+/* Reset */
+*,
+:before,
+:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-base);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  color: var(--text-primary);
+  background-color: #FFFCF6;
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.5;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+a,
+input,
+textarea,
+button {
+  border: none;
+  outline: none;
+  padding: 0;
+  margin: 0;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-style: none;
+  vertical-align: middle;
+}
+
+input[type=number]::-webkit-outer-spin-button, input[type=number]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+a:is([class*=photo], [class*=icon], [class*=inner]):not(.block-normal) {
+  display: block;
+}
+
+figure:is([class*=item], [class*=media], [class*=photo], [class*=icon], [class*=inner]) {
+  margin-bottom: 0;
+}
+
+.ck-editor h2 {
+  font-size: 1.75em;
+}
+.ck-editor h3 {
+  font-size: 1.375em;
+}
+.ck-editor a {
+  color: -webkit-link;
+  text-decoration: underline;
+}
+.ck-editor img {
+  height: auto !important;
+}
+.ck-editor table {
+  border-collapse: inherit !important;
+  all: revert-layer;
+}
+.ck-editor thead,
+.ck-editor tbody,
+.ck-editor tfoot,
+.ck-editor td,
+.ck-editor th,
+.ck-editor tr {
+  border-width: 1px;
+}
+.ck-editor > *:last-child {
+  margin-bottom: 0;
+}
+
+.a2a_kit .a2a_svg {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+[data-fancybox] {
+  cursor: pointer;
+}
+
+/* Main */
+.hidden {
+  display: none;
+}
+.hidden\:seo, .hidden\:figcaption {
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  border: 0;
+  padding: 0;
+  margin: -1px;
+  clip-path: inset(50%);
+}
+.hidden\:quote:before, .hidden\:quote:after {
+  content: unset;
+}
+
+.quote\:space:before {
+  padding-right: var(--gap-x, 0.5rem);
+}
+.quote\:space:after {
+  padding-left: var(--gap-x, 0.5rem);
+}
+
+.wrap-content {
+  width: min(100% - var(--wrap-space, 2rem), var(--wrap, 1200px));
+  margin: 0 auto;
+}
+
+.grab-container {
+  overflow-x: auto;
+  overflow-y: hidden;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  display: block;
+  width: 100%;
+  min-width: 0;
+  cursor: grab;
+}
+
+.grab-container [class*=item] {
+  position: relative;
+}
+
+.will\:aos {
+  overflow: hidden;
+}
+.will\:transform {
+  will-change: transform;
+}
+
+/* Flex Layout (Customed) */
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin: 0 calc(-1 * var(--gap-x, 0.5rem)) calc(-1 * var(--gap-y, 1rem));
+}
+.flex-container > [class*=item] {
+  width: calc(100% / var(--columns, 4) - var(--gap-x, 0.5rem) * 2);
+  margin: 0 var(--gap-x, 0.5rem) var(--gap-y, 1rem);
+}
+.flex-container > [class*=item] > :is([class*=inner], [class*=card]) {
+  height: 100%;
+}
+
+/* Grid Layout (Customed) */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(var(--columns, 4), 1fr);
+  grid-gap: var(--gap-y, 1rem) var(--gap-x, 1rem);
+  gap: var(--gap-y, 1rem) var(--gap-x, 1rem);
+}
+
+/* Text Truncate */
+.text-split {
+  overflow: hidden;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  white-space: normal;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: var(--line-clamp, 3);
+  line-clamp: var(--line-clamp, 3);
+}
+
+/* Swipper */
+.swiper .swiper-wrapper {
+  width: inherit;
+  height: inherit;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.swiper.swiper-initialized .swiper-wrapper {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+.swiper.swiper-initialized .swiper-slide {
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+/* Transition */
+.transition {
+  transition: all 0.3s ease-out;
+}
+
+/* Hidden Google Captcha */
+.grecaptcha-badge {
+  visibility: hidden !important;
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden;
+}
+
+/* Hidden Check Grammar Coccoc */
+coccocgrammar {
+  display: none;
+}
+
+/* Tiktok Embed */
+.tiktok-embed {
+  margin: 0 !important;
+}

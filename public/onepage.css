@@ -1,0 +1,41 @@
+/* Mi House Spa — SINGLE LANDING PAGE, source fidelity fixes (2026-11-11).
+   Based on uploaded _home.html structure and bundled assets/css/prettier.css. */
+:root{--mh-gallery-cream:#fef7ef}
+html{scroll-behavior:smooth}
+#top,#gioi-thieu,#dich-vu,#bang-gia,#dao-tao,#album-anh,#nail-hottrend,#khong-gian,#tiktok,#footer-primary{scroll-margin-top:clamp(70px,7vw,105px)}
+#top{scroll-margin-top:0}
+/* Public navigation is one level only and stays above slideshow. */
+.navigation .navigation__bar .navigation__list.level-0>.navigation__item:first-child{display:list-item!important}
+.navigation .navigation__bar .navigation__list.level-0{display:flex;align-items:center;justify-content:center;flex-wrap:nowrap}
+.navigation .navigation__bar .navigation__link{font-size:clamp(14px,1.04vw,18px);padding-inline:clamp(9px,.9vw,15px)}
+.navigation .navigation__bar .navigation__item{white-space:nowrap}
+.navigation .navigation__mobile .navigation__list.level-0>.navigation__item:first-child{display:block!important}
+.navigation .navigation__mobile .navigation__item.has-child{display:none!important}
+.navigation .navigation__mobile .navigation__list.level-1{display:none!important}
+/* Original Album appearance and motion now come from source-fidelity.css and Splide. */
+/* Video play icon must be centered relative to the cover itself. */
+#main-primary .video-featured .video__card{cursor:pointer}
+#main-primary .video-featured .video__media.play-icon{display:block!important;position:relative!important;margin:0!important;aspect-ratio:420/670!important;width:100%!important;height:auto!important;overflow:hidden}
+#main-primary .video-featured .video__media.play-icon .video__media-image{display:block!important;width:100%!important;height:100%!important;aspect-ratio:420/670!important;object-fit:cover!important}
+#main-primary .video-featured .video__media.play-icon::after{content:""!important;position:absolute!important;z-index:9!important;top:50%!important;left:50%!important;right:auto!important;bottom:auto!important;width:clamp(48px,5vw,72px)!important;height:clamp(48px,5vw,72px)!important;transform:translate(-50%,-50%)!important;opacity:1!important;background:url('/assets/images/icon-play.png') center center / contain no-repeat!important;pointer-events:none!important;transition:opacity .3s ease,scale .3s ease!important}
+#main-primary .video-featured .video__card:hover .play-icon::after{transform:translate(-50%,-50%)!important;scale:1.08!important}
+/* Only four logical footer blocks: brand, contact, sections, social. */
+.site-root .footer .footer__article-list{display:grid!important;grid-template-columns:minmax(160px,1.05fr) minmax(230px,1.55fr) minmax(135px,.8fr) minmax(150px,.85fr)!important;gap:clamp(20px,3vw,50px)!important;align-items:start!important;width:100%!important}
+.site-root .footer .footer__article-item{min-width:0!important;width:auto!important;flex:none!important}
+.site-root .footer .footer__article-item:nth-child(4){display:block!important}
+.site-root .footer .footer__article-item .footer__nav-list a{font-size:inherit}
+/* Avoid accidental detail-page pointers. Clicking cover opens existing lightbox. */
+#main-primary .service__media-link:not([href]){cursor:zoom-in!important;display:block}
+#main-primary .service__name a:not([href]){cursor:default!important}
+#main-primary .service__name a:not([href]):hover{color:inherit!important}
+@media(max-width:1100px){
+  .navigation .navigation__bar .navigation__link{padding-inline:7px;font-size:14px}
+  .site-root .footer .footer__article-list{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+}
+@media(max-width:767px){
+  .site-root .footer .footer__article-list{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:24px 20px!important}
+  .site-root .footer .footer__article-item:first-child,.site-root .footer .footer__article-item:nth-child(2){grid-column:span 2}
+}
+@media(max-width:400px){
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}

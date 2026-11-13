@@ -1,0 +1,42 @@
+/* Mi House Spa nested pages - scope corrections only. The original CSS is loaded before this file. */
+html.mh-internal-page {scroll-behavior:smooth}
+body.mh-internal-page {background:#fffcf6;color:#3c2a1d;overflow-x:hidden}
+body.mh-internal-page .navigation:not(.is-index){position:relative;z-index:1000;width:100%;}
+body.mh-internal-page .navigation.is-fixed{position:sticky;top:0}
+body.mh-internal-page .navigation__main .navigation__item.has-child{position:relative}
+body.mh-internal-page .mh-source-page {display:block;min-height:54vh}
+body.mh-internal-page .mh-source-page img {max-width:100%;height:auto}
+body.mh-internal-page .mh-source-page .service__media-image {height:100%;object-fit:cover}
+body.mh-internal-page .mh-source-page .album-item__media img{object-fit:cover}
+body.mh-internal-page .mh-source-page .wrap-main{min-height:30vh}
+body.mh-internal-page .page-not-found{padding:100px 20px;text-align:center}
+@media(min-width:1025px){
+ body.mh-internal-page .navigation__mobile,body.mh-internal-page .navigation__overlay,body.mh-internal-page .navigation__button.open-nav{display:none!important}
+ body.mh-internal-page .mh-desktop-nav{display:block!important}
+ body.mh-internal-page .navigation__item.has-child:hover>.level-1,
+ body.mh-internal-page .navigation__item.has-child:focus-within>.level-1{opacity:1;visibility:visible;transform:translateY(0);pointer-events:auto}
+ body.mh-internal-page .navigation__item.has-child>.show-child{background:transparent;border:0}
+}
+@media(max-width:1024px){
+ body.mh-internal-page .navigation__bar{display:flex;align-items:center;justify-content:space-between;padding:8px 12px}
+ body.mh-internal-page .navigation__logo img{max-width:80px;height:auto}
+ body.mh-internal-page .mh-desktop-nav{display:none!important}
+ body.mh-internal-page .navigation__button.open-nav{display:flex!important;flex-direction:column;justify-content:center;gap:5px;padding:10px;background:transparent;border:0;min-width:45px;min-height:45px}
+ body.mh-internal-page .navigation__button.open-nav span{display:block;width:24px;height:2px;background:#613b25}
+ body.mh-internal-page .navigation__mobile{display:block!important;position:fixed!important;top:0;left:0;bottom:0;width:min(340px,85vw);padding:22px 20px;background:#fff9f0;z-index:1204;transform:translateX(-110%);transition:transform .35s ease;overflow:auto;visibility:hidden}
+ body.mh-internal-page .navigation__mobile.is-open{transform:translateX(0);visibility:visible}
+ body.mh-internal-page .navigation__overlay{position:fixed;inset:0;background:rgba(20,10,6,.57);z-index:1203;opacity:0;visibility:hidden;transition:opacity .3s}
+ body.mh-internal-page .navigation__overlay.is-active{opacity:1;visibility:visible}
+ body.mh-internal-page .navigation__mobile .mh-mobile-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+ body.mh-internal-page .navigation__mobile .mh-mobile-close{background:transparent;border:0;color:#673b23;font-size:32px}
+ body.mh-internal-page .navigation__mobile .navigation__list.level-0{display:block}
+ body.mh-internal-page .navigation__mobile .navigation__item{position:relative;border-bottom:1px solid #e3d5ca;display:block}
+ body.mh-internal-page .navigation__mobile .navigation__link{display:block;padding:12px 3px;color:#623c25;font-size:16px;text-transform:uppercase}
+ body.mh-internal-page .navigation__mobile .navigation__item.has-child>.navigation__link{max-width:80%}
+ body.mh-internal-page .navigation__mobile .navigation__button.show-child{position:absolute;right:5px;top:7px;background:transparent;border:0;color:#623c25;font-size:23px}
+ body.mh-internal-page .navigation__mobile .level-1{display:none;position:static;transform:none;visibility:visible;opacity:1;pointer-events:auto;box-shadow:none;background:#f7eee1;padding:5px 12px}
+ body.mh-internal-page .navigation__mobile .level-1.show{display:block}
+ body.mh-internal-page .mh-source-page .wrap-main{padding-top:30px}
+ body.mh-internal-page .mh-source-page .wrap-content{width:min(100% - 32px,1200px)}
+}
+@media(max-width:480px){body.mh-internal-page .mh-source-page .wrap-content{width:calc(100% - 24px)}}

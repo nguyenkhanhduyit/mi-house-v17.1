@@ -1,0 +1,1207 @@
+:root {
+  --ai-primary: #f0544f;
+  --ai-primary-hover: #f0544f;
+  --ai-primary-glow: #cb4843;
+  --ai-gradient: linear-gradient(135deg, #f0544f 0%, #e4645f 100%);
+  --ai-gradient-active: linear-gradient(135deg, #e46864 0%, #f0544f 100%);
+  --ai-bg-dark: #12131a;
+  --ai-bg-panel: #1b1c26;
+  --ai-bg-card: #232533;
+  --ai-border: rgba(255, 255, 255, 0.08);
+  --ai-border-hover: #d8615d;
+  --ai-text-main: #f0f1f7;
+  --ai-text-muted: #9496a8;
+  --ai-radius-lg: 16px;
+  --ai-radius-md: 10px;
+  --ai-radius-sm: 6px;
+  --ai-shadow-modal: 0 25px 60px -15px rgba(0, 0, 0, 0.7), 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+/* Photo Actions Toolbar trên form sản phẩm */
+.photo-actions-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.photo-actions-toolbar .btn-ai-studio {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 36px;
+  padding: 0 14px;
+  background: linear-gradient(135deg, #fff 0%, #f0544f 100%);
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 1;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(105, 108, 255, 0.35);
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+  margin: 0 !important;
+}
+
+.photo-actions-toolbar .btn-ai-studio::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.25), transparent);
+  transition: 0.5s;
+}
+
+.photo-actions-toolbar .btn-ai-studio:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 5px 16px rgba(105, 108, 255, 0.5);
+  color: #fff !important;
+}
+
+.photo-actions-toolbar .btn-ai-studio:hover::before {
+  left: 100%;
+}
+
+.photo-actions-toolbar .btn-ai-studio i {
+  font-size: 15px;
+  animation: ai-pulse 2s infinite ease-in-out;
+}
+
+/* Nút Chỉnh sửa ảnh (Crop & Studio AI) */
+.photo-actions-toolbar .crop-popup {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  height: 38px;
+  padding: 0 16px;
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1;
+  border-radius: 8px;
+  border: none !important;
+  background: var(--bs-main) !important;
+  color: #fff !important;
+  cursor: pointer;
+  margin: 0 !important;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.photo-actions-toolbar .crop-popup::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.32), transparent);
+  transition: 0.5s;
+}
+
+.photo-actions-toolbar .crop-popup:hover {
+  transform: translateY(-2px);
+}
+
+.photo-actions-toolbar .crop-popup:hover::before {
+  left: 100%;
+}
+
+.photo-actions-toolbar .crop-popup:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 8px rgba(105, 108, 255, 0.4) !important;
+}
+
+.photo-actions-toolbar .crop-popup i {
+  font-size: 16px;
+  color: #fff !important;
+  transition: transform 0.25s ease;
+}
+
+.photo-actions-toolbar .crop-popup:hover i {
+  transform: scale(1.15) rotate(-8deg);
+}
+
+/* Nút Xóa ảnh */
+.photo-actions-toolbar .delete-photo {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 6px;
+  height: 36px;
+  padding: 0 13px !important;
+  font-size: 13px !important;
+  font-weight: 500;
+  line-height: 1;
+  border-radius: 6px !important;
+  border: 1px solid #ea5455 !important;
+  background: #ea5455 !important;
+  color: #fff !important;
+  cursor: pointer;
+  margin: 0 !important;
+  box-shadow: 0 2px 6px rgba(234, 84, 85, 0.25);
+  transition: all 0.2s ease;
+}
+
+.photo-actions-toolbar .delete-photo:hover {
+  background: #e6381a !important;
+  border-color: #e6381a !important;
+  color: #fff !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(234, 84, 85, 0.4);
+}
+
+.photo-actions-toolbar .delete-photo i {
+  font-size: 15px;
+}
+
+/* Nút Chọn hình từ upload */
+.photo-upload-extra {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.photo-upload-extra .js-choose-from-upload {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 32px;
+  padding: 0 14px;
+  font-size: 12.5px;
+  font-weight: 500;
+  border-radius: 6px;
+  border: 1px dashed var(--bs-main);
+  background: rgba(105, 108, 255, 0.05);
+  color: var(--bs-main);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.photo-upload-extra .js-choose-from-upload:hover {
+  background: rgba(105, 108, 255, 0.12);
+  border-style: solid;
+  color: #f0544f;
+  transform: translateY(-1px);
+}
+
+.photo-upload-extra .js-choose-from-upload i {
+  font-size: 14px;
+}
+
+@keyframes ai-pulse {
+
+  0%,
+  100% {
+    transform: scale(1);
+    filter: drop-shadow(0 0 2px rgba(255, 255, 255, 0.6));
+  }
+
+  50% {
+    transform: scale(1.2);
+    filter: drop-shadow(0 0 8px #fff);
+  }
+}
+
+/* Modal AI Studio Container */
+.ai-studio-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  background: rgba(8, 9, 14, 0.82);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.ai-studio-modal-overlay.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+.ai-studio-modal {
+  width: 95vw;
+  max-width: 1400px;
+  height: 90vh;
+  max-height: 860px;
+  background: var(--ai-bg-dark);
+  border-radius: var(--ai-radius-lg);
+  box-shadow: var(--ai-shadow-modal);
+  border: 1px solid var(--ai-border);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  color: var(--ai-text-main);
+  transform: scale(0.96) translateY(10px);
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.ai-studio-modal-overlay.active .ai-studio-modal {
+  transform: scale(1) translateY(0);
+}
+
+/* Header */
+.ai-studio-header {
+  height: 64px;
+  padding: 0 24px;
+  border-bottom: 1px solid var(--ai-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(27, 28, 38, 0.6);
+  flex-shrink: 0;
+}
+
+.ai-studio-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.ai-studio-badge-logo {
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
+  background: var(--ai-gradient);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 18px;
+  box-shadow: 0 4px 12px var(--ai-primary-glow);
+}
+
+.ai-studio-title {
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ai-studio-subtitle {
+  font-size: 12px;
+  color: var(--ai-text-muted);
+  font-weight: 400;
+}
+
+.ai-studio-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11.5px;
+  padding: 3px 10px;
+  border-radius: 20px;
+  background: rgba(113, 221, 55, 0.12);
+  color: #71dd37;
+  border: 1px solid rgba(113, 221, 55, 0.25);
+}
+
+.ai-studio-status .status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #71dd37;
+  box-shadow: 0 0 8px #71dd37;
+}
+
+.ai-studio-header-tools {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.ai-header-btn {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--ai-border);
+  color: var(--ai-text-main);
+  padding: 6px 12px;
+  border-radius: var(--ai-radius-sm);
+  font-size: 12.5px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.ai-header-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.ai-header-btn.btn-close-studio {
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  justify-content: center;
+  font-size: 18px;
+  border-radius: 50%;
+}
+
+.ai-header-btn.btn-close-studio:hover {
+  background: rgba(255, 62, 29, 0.15);
+  color: #ff3e1d;
+  border-color: rgba(255, 62, 29, 0.3);
+}
+
+/* Body: 2 Columns (Canvas Viewport + Tool Sidebar) */
+.ai-studio-body {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+  background: var(--ai-bg-dark);
+}
+
+/* Canvas Viewport */
+.ai-studio-viewport {
+  flex: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: #0f1015;
+  background-image:
+    linear-gradient(45deg, #161720 25%, transparent 25%),
+    linear-gradient(-45deg, #161720 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #161720 75%),
+    linear-gradient(-45deg, transparent 75%, #161720 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+  overflow: hidden;
+}
+
+.ai-canvas-wrapper {
+  max-width: 100%;
+  max-height: calc(100% - 60px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6);
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: #fff;
+}
+
+.ai-canvas-wrapper canvas {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* Bottom Quick Action Bar on Viewport */
+.ai-viewport-toolbar {
+  position: absolute;
+  bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(27, 28, 38, 0.85);
+  backdrop-filter: blur(10px);
+  padding: 6px 14px;
+  border-radius: 30px;
+  border: 1px solid var(--ai-border);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.ai-toolbar-btn {
+  background: transparent;
+  border: none;
+  color: var(--ai-text-muted);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 15px;
+  transition: all 0.2s;
+}
+
+.ai-toolbar-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+.ai-toolbar-btn.active {
+  background: var(--ai-primary);
+  color: #fff;
+}
+
+.ai-toolbar-divider {
+  width: 1px;
+  height: 18px;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* Sidebar Tools */
+.ai-studio-sidebar {
+  width: 380px;
+  background: var(--ai-bg-panel);
+  border-left: 1px solid var(--ai-border);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+/* Nav Tabs on Sidebar */
+.ai-studio-tabs {
+  display: flex;
+  padding: 12px 16px 0;
+  gap: 6px;
+  border-bottom: 1px solid var(--ai-border);
+  background: rgba(27, 28, 38, 0.4);
+}
+
+.ai-tab-btn {
+  flex: 1;
+  padding: 10px 8px;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  color: var(--ai-text-muted);
+  font-size: 13px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.ai-tab-btn:hover {
+  color: var(--ai-text-main);
+}
+
+.ai-tab-btn.active {
+  color: var(--ai-primary);
+  border-bottom-color: var(--ai-primary);
+}
+
+/* Tab Panels Scrollable Content */
+.ai-tab-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 18px 20px;
+}
+
+.ai-tab-pane {
+  display: none;
+}
+
+.ai-tab-pane.active {
+  display: block;
+}
+
+/* UI Cards & Controls */
+.ai-tool-card {
+  background: var(--ai-bg-card);
+  border: 1px solid var(--ai-border);
+  border-radius: var(--ai-radius-md);
+  padding: 16px;
+  margin-bottom: 16px;
+  transition: border-color 0.2s;
+}
+
+.ai-tool-card:hover {
+  border-color: rgba(255, 255, 255, 0.15);
+}
+
+.ai-tool-title {
+  font-size: 13.5px;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ai-tool-title i {
+  color: var(--ai-primary);
+  margin-right: 6px;
+}
+
+/* AI Action Buttons */
+.btn-ai-action {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: var(--ai-radius-sm);
+  font-size: 13px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-ai-magic {
+  background: var(--ai-gradient);
+  color: #fff;
+}
+
+.btn-ai-magic:hover {
+  transform: translateY(-1px);
+}
+
+.btn-ai-secondary {
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--ai-text-main);
+  border: 1px solid var(--ai-border);
+}
+
+.btn-ai-secondary:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: #fff;
+}
+
+/* Presets Grid */
+.ai-presets-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.ai-preset-item {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--ai-border);
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+}
+
+.ai-preset-item:hover {
+  background: rgba(255, 255, 255, 0.07);
+  border-color: var(--ai-border-hover);
+  transform: translateY(-2px);
+}
+
+.ai-preset-item.active {
+  border-color: var(--ai-primary);
+  background: rgba(115, 103, 240, 0.12);
+}
+
+.ai-preset-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.ai-preset-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+}
+
+.ai-preset-name {
+  font-size: 12px;
+  font-weight: 600;
+  color: #fff;
+  line-height: 1.2;
+}
+
+.ai-preset-desc {
+  font-size: 10.5px;
+  color: var(--ai-text-muted);
+  line-height: 1.3;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.ai-preset-tag-badge {
+  font-size: 10px;
+  font-weight: 500;
+  padding: 2px 7px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  color: var(--ai-text-muted);
+  white-space: nowrap;
+  letter-spacing: 0.2px;
+}
+
+.ai-suggestion-card {
+  animation: aiFadeSlideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+@keyframes aiFadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Color Options / Background Pickers */
+.ai-bg-options {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.ai-bg-opt {
+  flex: 1;
+  padding: 7px 4px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--ai-border);
+  color: var(--ai-text-muted);
+  font-size: 11.5px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.ai-bg-opt:hover {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.ai-bg-opt.active {
+  background: rgba(115, 103, 240, 0.15);
+  border-color: var(--ai-primary);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* Sliders & Controls */
+.ai-slider-group {
+  margin-bottom: 12px;
+}
+
+.ai-slider-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  color: var(--ai-text-muted);
+  margin-bottom: 6px;
+}
+
+.ai-slider-val {
+  color: #fff;
+  font-weight: 600;
+}
+
+.ai-slider-input {
+  width: 100%;
+  accent-color: var(--ai-primary);
+  cursor: pointer;
+}
+
+/* Aspect Ratio Selector */
+.ai-ratio-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.ai-ratio-btn {
+  padding: 8px 4px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--ai-border);
+  color: var(--ai-text-muted);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-align: center;
+}
+
+.ai-ratio-btn:hover {
+  color: #fff;
+  border-color: rgba(255, 255, 255, 0.2);
+}
+
+.ai-ratio-btn.active {
+  background: var(--ai-primary);
+  border-color: var(--ai-primary);
+  color: #fff;
+  font-weight: 600;
+}
+
+/* Footer Action Bar */
+.ai-studio-footer {
+  height: 68px;
+  padding: 0 24px;
+  border-top: 1px solid var(--ai-border);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(27, 28, 38, 0.8);
+  flex-shrink: 0;
+}
+
+.ai-footer-info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 12px;
+  color: var(--ai-text-muted);
+}
+
+.ai-footer-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.btn-ai-apply {
+  padding: 10px 24px;
+  background: linear-gradient(135deg, #28c76f 0%, #48da89 100%);
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 14px rgba(40, 199, 111, 0.35);
+  transition: all 0.2s;
+}
+
+.btn-ai-apply:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(40, 199, 111, 0.5);
+}
+
+/* Loading Overlay inside Studio */
+.ai-loading-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(18, 19, 26, 0.85);
+  backdrop-filter: blur(6px);
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  z-index: 10;
+}
+
+.ai-loading-overlay.active {
+  display: flex;
+}
+
+.ai-spinner {
+  width: 44px;
+  height: 44px;
+  border: 3px solid rgba(115, 103, 240, 0.2);
+  border-top-color: var(--ai-primary);
+  border-radius: 50%;
+  animation: ai-spin 0.8s linear infinite;
+}
+
+@keyframes ai-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.ai-loading-text {
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+}
+
+/* ==========================================================================
+   REDESIGNED CROP MODAL (CẮT ẢNH TRUYỀN THỐNG TRONG FANCYBOX)
+   ========================================================================== */
+
+/* 1. Fancybox Modal Container */
+.fancybox__content:has(.crop-view-popup),
+.crop-view-popup.fancybox__content {
+  width: 1040px !important;
+  max-width: 95vw !important;
+  max-height: 88vh !important;
+  border-radius: 16px !important;
+  background: #13141c !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  box-shadow: 0 25px 60px -15px rgba(0, 0, 0, 0.75), 0 0 0 1px rgba(255, 255, 255, 0.05) !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+/* Nút đóng Fancybox tròn hiện đại thay thế ô vuông đỏ cũ */
+.fancybox__content:has(.crop-view-popup)>.f-button.is-close-btn,
+.crop-view-popup.fancybox__content>.f-button.is-close-btn,
+.crop-view-popup .is-close-btn,
+.fancybox__slide .f-button.is-close-btn {
+  background: rgba(255, 255, 255, 0.15) !important;
+  color: #fff !important;
+  width: 34px !important;
+  height: 34px !important;
+  border-radius: 50% !important;
+  top: 14px !important;
+  right: 14px !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: all 0.2s ease !important;
+  backdrop-filter: blur(8px) !important;
+  opacity: 0.9 !important;
+  cursor: pointer !important;
+}
+
+.fancybox__content:has(.crop-view-popup)>.f-button.is-close-btn:hover,
+.crop-view-popup.fancybox__content>.f-button.is-close-btn:hover,
+.crop-view-popup .is-close-btn:hover,
+.fancybox__slide .f-button.is-close-btn:hover {
+  background: rgba(234, 84, 85, 0.8) !important;
+  border-color: rgba(234, 84, 85, 0.9) !important;
+  color: #fff !important;
+  transform: rotate(90deg) scale(1.05) !important;
+}
+
+/* Ẩn tuyệt đối các nút preview ngoài form khi đang ở trong modal crop */
+.crop-view-popup.fancybox__content .photo-actions-toolbar,
+.crop-view-popup.fancybox__content .photo-upload-extra,
+.crop-view-popup.active .photo-actions-toolbar,
+.crop-view-popup.active .photo-upload-extra,
+.crop-view-popup.fancybox__content .justify-content-center,
+.crop-view-popup.active .justify-content-center {
+  display: none !important;
+}
+
+/* 2. Cột trái: Bảng điều khiển (.setting-crop) */
+.crop-view-popup.fancybox__content .setting-crop {
+  width: 300px !important;
+  flex-shrink: 0 !important;
+  background: #12131a !important;
+  border-right: 1px solid rgba(255, 255, 255, 0.08) !important;
+  padding: 22px 18px !important;
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 14px !important;
+  border-radius: 0 !important;
+  color: #f0f1f7 !important;
+  text-align: left !important;
+  overflow-y: auto !important;
+}
+
+/* Tiêu đề bảng công cụ */
+.crop-header-title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #fff;
+  padding-bottom: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.crop-header-title i {
+  color: #fff;
+  font-size: 16px;
+}
+
+/* Nút Studio AI & Chỉnh sửa trên Popup Chỉnh sửa ảnh (Ảnh 2) */
+.crop-ai-wrapper {
+  margin-bottom: 10px;
+}
+
+.btn-crop-ai-studio {
+  width: 100% !important;
+  height: 40px !important;
+  background: #f0544f;
+  color: #fff !important;
+  font-weight: 600 !important;
+  font-size: 13.5px !important;
+  border: none !important;
+  border-radius: 8px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 7px !important;
+  cursor: pointer !important;
+  transition: all 0.25s ease !important;
+  position: relative !important;
+  overflow: hidden !important;
+  text-decoration: none !important;
+}
+
+.btn-crop-ai-studio::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.28), transparent);
+  transition: 0.5s;
+}
+
+.btn-crop-ai-studio:hover {
+  transform: translateY(-1px);
+  color: #fff !important;
+}
+
+.btn-crop-ai-studio:hover::before {
+  left: 100%;
+}
+
+.btn-crop-ai-studio i {
+  font-size: 16px !important;
+  animation: ai-pulse 2s infinite ease-in-out;
+}
+
+/* Nút Bắt đầu Cắt ảnh */
+.cropButton.btn-crop-primary {
+  width: 100% !important;
+  height: 38px !important;
+  background: #f00;
+  color: #fff !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  border: none !important;
+  border-radius: 8px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 6px !important;
+  box-shadow: 0 4px 12px rgba(105, 108, 255, 0.35) !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.cropButton.btn-crop-primary:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 16px rgba(105, 108, 255, 0.5) !important;
+}
+
+.cropButton.btn-crop-primary:disabled {
+  opacity: 0.5 !important;
+  cursor: not-allowed !important;
+  box-shadow: none !important;
+}
+
+/* Nhóm nút Xoay & Phóng to */
+.crop-toolbar-group {
+  display: flex !important;
+  background: rgba(255, 255, 255, 0.04) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: 8px !important;
+  padding: 4px !important;
+  gap: 4px !important;
+}
+
+.crop-toolbar-group .btn-crop-tool {
+  flex: 1 !important;
+  height: 34px !important;
+  background: transparent !important;
+  border: none !important;
+  border-radius: 6px !important;
+  color: #fff !important;
+  font-size: 16px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.crop-toolbar-group .btn-crop-tool:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+  color: #fff !important;
+}
+
+/* Nhóm nhập Width & Height */
+.crop-dimension-inputs {
+  display: grid !important;
+  grid-template-columns: 1fr 1fr !important;
+  gap: 10px !important;
+}
+
+.crop-input-wrapper {
+  display: flex !important;
+  align-items: center !important;
+  background: rgba(255, 255, 255, 0.05) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  transition: border-color 0.2s ease !important;
+}
+
+.crop-input-wrapper:focus-within {
+  border-color: #fff !important;
+  box-shadow: 0 0 0 2px rgba(105, 108, 255, 0.2) !important;
+}
+
+.crop-input-label {
+  padding: 0 8px !important;
+  font-size: 11px !important;
+  font-weight: 700 !important;
+  color: #fff !important;
+  background: rgba(105, 108, 255, 0.1) !important;
+  height: 100% !important;
+  display: flex !important;
+  align-items: center !important;
+}
+
+.crop-input-wrapper input {
+  width: 100% !important;
+  height: 34px !important;
+  background: transparent !important;
+  border: none !important;
+  color: #fff !important;
+  font-size: 13px !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  padding: 0 4px !important;
+  outline: none !important;
+}
+
+.crop-input-unit {
+  padding: 0 8px !important;
+  font-size: 11px !important;
+  color: #fff !important;
+  font-weight: 500 !important;
+}
+
+/* Nút Làm lại (Reset) */
+.crop-reset.btn-crop-secondary {
+  width: 100% !important;
+  height: 36px !important;
+  background: rgba(255, 255, 255, 0.06) !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  border-radius: 8px !important;
+  color: #fff !important;
+  font-weight: 500 !important;
+  font-size: 13px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 6px !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.crop-reset.btn-crop-secondary:hover {
+  background: rgba(255, 255, 255, 0.12) !important;
+  color: #fff !important;
+  border-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Nút Áp dụng (Save) */
+.saveButton.btn-crop-apply {
+  width: 100% !important;
+  height: 40px !important;
+  background: linear-gradient(135deg, #28c76f 0%, #48da89 100%) !important;
+  border: none !important;
+  border-radius: 8px !important;
+  color: #fff !important;
+  font-weight: 700 !important;
+  font-size: 13.5px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  gap: 6px !important;
+  box-shadow: 0 4px 14px rgba(40, 199, 111, 0.35) !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.saveButton.btn-crop-apply:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 18px rgba(40, 199, 111, 0.5) !important;
+}
+
+/* Huy hiệu kích thước chuẩn */
+.crop-view-popup.fancybox__content .view-size {
+  margin: auto 0 0 0 !important;
+  padding: 10px 12px !important;
+  background: rgba(105, 108, 255, 0.08) !important;
+  border: 1px dashed #ffffffd3 !important;
+  border-radius: 8px !important;
+  color: #fff !important;
+  font-size: 11.5px !important;
+  font-weight: 500 !important;
+  line-height: 1.4 !important;
+  text-align: center !important;
+}
+
+/* 3. Cột phải: Khung ảnh Cropper (.view-cropper) */
+.crop-view-popup.fancybox__content .view-cropper {
+  width: calc(100% - 300px) !important;
+  min-height: 520px !important;
+  max-height: 88vh !important;
+  padding: 24px !important;
+  background: #0f1015 !important;
+  background-image:
+    linear-gradient(45deg, #161720 25%, transparent 25%),
+    linear-gradient(-45deg, #161720 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, #161720 75%),
+    linear-gradient(-45deg, transparent 75%, #161720 75%) !important;
+  background-size: 20px 20px !important;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Tinh chỉnh khung CropperJS */
+.crop-view-popup .cropper-container {
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.6) !important;
+  border-radius: 4px !important;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+}
+
+.crop-view-popup .cropper-view-box {
+  outline: 2px solid #fff !important;
+  outline-color: rgba(105, 108, 255, 0.9) !important;
+}
+
+.crop-view-popup .cropper-line,
+.crop-view-popup .cropper-point {
+  background-color: #fff !important;
+}

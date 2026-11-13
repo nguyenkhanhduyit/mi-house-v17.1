@@ -1,0 +1,28 @@
+{
+  "css": [
+    "https://mihousespa.com/assets/bootstrap/bootstrap-purged.css?v=1794248450",
+    "https://mihousespa.com/assets/css/animate.min.css?v=1794248450",
+    "https://mihousespa.com/assets/fontawesome640/all.css?v=1794248450",
+    "https://mihousespa.com/assets/fancybox5/fancybox.min.css?v=1794248450",
+    "https://mihousespa.com/assets/splide/splide.min.css?v=1794248450",
+    "https://mihousespa.com/assets/swiper/swiper-bundle.min.css?v=1794248450",
+    "https://mihousespa.com/assets/css/google/map.css?v=1794248450",
+    "https://mihousespa.com/assets/css/effect.css?v=1794248450",
+    "https://mihousespa.com/assets/css/lazy-embed.css?v=1794248450",
+    "https://mihousespa.com/assets/css/scroll-animate.css?v=1794248450",
+    "https://mihousespa.com/assets/css/fonts.css?v=1794248450",
+    "https://mihousespa.com/assets/css/reset.css?v=1794248450",
+    "https://mihousespa.com/assets/css/utility.css?v=1794248450",
+    "https://mihousespa.com/assets/css/hvr-animation.css?v=1794248450",
+    "https://mihousespa.com/assets/css/simply-animation.css?v=1794248450",
+    "https://mihousespa.com/assets/css/navigation.css?v=1794248450",
+    "https://mihousespa.com/assets/css/style.css?v=1794248450",
+    "https://mihousespa.com/assets/css/prettier.css?v=1794248450",
+    "https://mihousespa.com/assets/css/media.css?v=1794248450",
+    "https://mihousespa.com/assets/css/responsive.css?v=1794248450",
+    "https://mihousespa.com/assets/sweetalert2/sweetalert2.min.css?v=1794248450",
+    "https://mihousespa.com/assets/css/fonts.css"
+  ],
+  "origin": "https://mihousespa.com",
+  "missing_archive_assets": true
+}

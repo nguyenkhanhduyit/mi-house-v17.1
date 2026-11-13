@@ -1,0 +1,235 @@
+.modal-product-qr .modal-content {
+	border-radius: 18px !important;
+	border: 1px solid rgba(0, 0, 0, 0.08) !important;
+	overflow: hidden !important;
+	box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.18), 0 10px 20px -5px rgba(0, 0, 0, 0.08) !important;
+}
+
+html.dark-style .modal-product-qr .modal-content {
+	background: #2b2c40 !important;
+	border-color: #383b54 !important;
+	box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.5) !important;
+}
+
+.qr-info-box {
+	background: #f8fafc;
+	border: 1px solid #e2e8f0;
+	border-radius: 14px;
+	padding: 16px;
+	transition: all 0.2s ease;
+}
+
+html.dark-style .qr-info-box {
+	background: #232333;
+	border-color: #383b54;
+}
+
+.qr-product-thumb {
+	width: 62px;
+	height: 62px;
+	object-fit: cover;
+	border-radius: 10px;
+	border: 1px solid #e2e8f0;
+	flex-shrink: 0;
+	background: #ffffff;
+}
+
+html.dark-style .qr-product-thumb {
+	border-color: #383b54;
+	background: #2b2c40;
+}
+
+.qr-product-name-title {
+	font-size: 15px;
+	font-weight: 700;
+	color: #1e293b;
+	line-height: 1.35;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	margin-bottom: 6px;
+}
+
+html.dark-style .qr-product-name-title {
+	color: #e2e8f0;
+}
+
+.qr-color-options {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.qr-color-btn {
+	width: 28px;
+	height: 28px;
+	border-radius: 50%;
+	border: 2px solid #ffffff;
+	cursor: pointer;
+	box-shadow: 0 0 0 1px #cbd5e1;
+	transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+	position: relative;
+	padding: 0;
+}
+
+.qr-color-btn:hover {
+	transform: scale(1.15);
+}
+
+.qr-color-btn.active {
+	box-shadow: 0 0 0 2px var(--bs-primary, #7367f0);
+	transform: scale(1.12);
+}
+
+.qr-color-btn.active::after {
+	content: "✓";
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #ffffff;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.qr-preview-wrapper {
+	background: #f1f5f9;
+	border: 1px solid #cbd5e1;
+	border-radius: 16px;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 380px;
+	position: relative;
+}
+
+html.dark-style .qr-preview-wrapper {
+	background: #1e1f2f;
+	border-color: #383b54;
+}
+
+.qr-sticker-label {
+	background: #ffffff;
+	border: 1.5px dashed #94a3b8;
+	border-radius: 12px;
+	padding: 16px 18px;
+	width: 100%;
+	max-width: 280px;
+	text-align: center;
+	box-shadow: 0 8px 20px -4px rgba(0, 0, 0, 0.08);
+	transition: all 0.25s ease;
+	position: relative;
+	box-sizing: border-box;
+}
+
+.qr-sticker-brand {
+	font-size: 11px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.6px;
+	color: #64748b;
+	margin-bottom: 4px;
+	display: block;
+}
+
+.qr-sticker-title {
+	font-size: 13px;
+	font-weight: 700;
+	color: #0f172a;
+	line-height: 1.3;
+	margin-bottom: 12px;
+	display: -webkit-box;
+	-webkit-line-clamp: 2;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+.qr-sticker-code-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	background: #ffffff;
+	border-radius: 8px;
+	margin: 0 auto 10px;
+}
+
+.qr-sticker-code-wrap canvas,
+.qr-sticker-code-wrap img {
+	display: block;
+	max-width: 100%;
+	height: auto !important;
+	margin: 0 auto;
+}
+
+.qr-sticker-footer {
+	border-top: 1px dashed #cbd5e1;
+	padding-top: 8px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	font-size: 12px;
+	gap: 8px;
+}
+
+.qr-sticker-sku {
+	font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+	font-weight: 600;
+	color: #475569;
+	font-size: 11px;
+}
+
+.qr-sticker-price {
+	font-weight: 700;
+	color: #c02026;
+	font-size: 13px;
+}
+
+.product-qr-sidebar-card {
+	border-radius: 12px !important;
+	overflow: hidden;
+}
+
+.product-qr-sidebar-wrap {
+	background: #ffffff;
+	border: 1px solid #e2e8f0;
+	border-radius: 12px;
+	padding: 14px;
+	display: inline-block;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+	margin-bottom: 14px;
+}
+
+html.dark-style .product-qr-sidebar-wrap {
+	background: #232333;
+	border-color: #383b54;
+}
+
+.product-qr-sidebar-wrap canvas,
+.product-qr-sidebar-wrap img {
+	display: block;
+	margin: 0 auto;
+}
+
+.product-qr-url-badge {
+	word-break: break-all;
+	font-size: 11px;
+	line-height: 1.4;
+	color: #64748b;
+	background: #f1f5f9;
+	padding: 6px 10px;
+	border-radius: 6px;
+	display: block;
+	margin-bottom: 12px;
+	max-height: 48px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+html.dark-style .product-qr-url-badge {
+	background: #232333;
+	color: #94a3b8;
+}

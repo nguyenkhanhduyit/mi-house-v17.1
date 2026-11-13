@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="mi-house-build" content="v13-admin-content-sync" />
+  <meta name="theme-color" content="#6d523b" />
+  <meta name="description" content="Mi House Spa – Gội đầu dưỡng sinh, massage, nail tại Gò Vấp." />
+  <title>Mi House Spa</title>
+  <script>
+    // Ảnh hưởng CSS giữa website và CMS phải được cách ly ở cấp độ link stylesheet.
+    window.__MI_ADMIN = /^\/admin(?:\/|$)/.test(location.pathname);
+    if (window.__MI_ADMIN) {
+      document.documentElement.classList.add('mi-admin-scope');
+      // Màu thanh trình duyệt /admin phải đồng bộ nền UI trong RAR gốc.
+      document.querySelector('meta[name="theme-color"]').content = '#f8f7fa';
+    }
+  </script>
+  <!-- Local fallback is deliberately the only render-blocking stylesheet.
+       Original site CSS is loaded AFTER React mounts, without blocking the page. -->
+  <link rel="stylesheet" href="/fallback.css" data-website-style />
+  <link rel="stylesheet" href="/site.css" data-website-style />
+  <link rel="stylesheet" href="/fidelity.css" data-website-style />
+  <link rel="stylesheet" href="/landing.css" data-website-style />
+  <link rel="stylesheet" href="/onepage.css" data-website-style />
+  <link rel="stylesheet" href="/source-fidelity.css" data-website-style />
+  <link rel="stylesheet" href="/interaction-fixes.css" data-website-style />
+  <link rel="stylesheet" href="/app-ui.css" data-website-style />
+  <link rel="stylesheet" href="/route-repairs-v7.css" data-website-style />
+  <script>
+    if (window.__MI_ADMIN) document.querySelectorAll('link[data-website-style]').forEach(function(el){ el.media='not all'; });
+  </script>
+  <script>
+    (function () {
+      window.addEventListener('error', function (event) {
+        var boot = document.getElementById('app-boot-status');
+        if (boot && !document.documentElement.classList.contains('react-ready')) {
+          var detail = event.message || 'Không nạp được JavaScript.';
+          boot.style.display='block';
+          boot.innerHTML = '<strong>Không khởi chạy được giao diện.</strong><p>Kiểm tra Terminal và trình duyệt (F12 → Console). Lỗi: ' +
+            detail.replace(/[&<>]/g, function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;'}[c]}) + '</p>';
+        }
+      });
+      setTimeout(function () {
+        var boot = document.getElementById('app-boot-status');
+        if (boot && !document.documentElement.classList.contains('react-ready')) {
+          boot.style.display='block';
+          boot.innerHTML = '<strong>Trang chưa tải xong.</strong><p>Hãy chạy <code>npm install</code> rồi <code>npm run dev</code>, mở URL hiện trong Terminal. Nếu vẫn lỗi, nhấn F12 → Console để xem nguyên nhân.</p>';
+        }
+      }, 10000);
+    })();
+  </script>
+</head>
+<body>
+  <div id="app-boot-status" role="status" aria-live="polite" aria-atomic="true" style="display:none;text-align:center;padding:24px;font:16px/1.65 system-ui;color:#57402f"></div>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

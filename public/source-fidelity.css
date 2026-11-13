@@ -1,0 +1,189 @@
+/* Source fidelity for PRICE / NAIL HOT TREND / SPACE.
+ * The actual JS engines and options are copied from the supplied site's
+ * /assets/js/apps.js and _home.html; both libraries are bundled locally.
+ * This stylesheet intentionally supersedes previous approximation rules.
+ */
+:root { --mh-source-cream: #FEF7EF; --mh-rest-vw: max(16px, calc((100vw - 1200px) / 2)); }
+
+/* 1 — ORIGINAL PRICE SERVICE SECTION: 1040px center white frame and
+   the vertical MENU/MI HOUSE SPA label absolutely to its left. */
+#main-primary section.service-price {
+  isolation:isolate; position:relative; padding:100px 0 105px!important;
+  background-color:#432313;
+  background-image:linear-gradient(90deg,rgba(33,15,7,.76),rgba(38,19,10,.56)),url('/assets/images/service-price-bg.png')!important;
+  background-position:center top!important;background-size:cover!important;background-repeat:no-repeat!important;
+}
+#main-primary section.service-price > .wrap-content {
+  --wrap:1040px!important;width:min(1040px,calc(100% - 46px))!important;
+  max-width:1040px!important;margin:0 auto!important;padding:0!important;
+}
+#main-primary .service-price .home__header { text-align:center!important;margin:0 auto 2.5rem!important; }
+#main-primary .service-price .home__subtitle { font-weight:600!important;line-height:1!important;letter-spacing:0!important;color:rgba(255,255,255,.35)!important; }
+#main-primary .service-price .home__title { margin:-22px 0 0!important;font-weight:600!important;color:#fff!important; }
+#main-primary .service-price .service-price__list {
+  position:relative!important;display:block!important;grid-template-columns:none!important;align-items:initial!important;
+  width:100%!important;min-width:0!important;background:#fff!important;
+  padding:10px!important;margin:3rem 0 1rem!important;overflow:visible!important;
+  border:0!important;border-radius:0!important;box-shadow:none!important;
+}
+#main-primary .service-price .service-price__list::before {
+  content:''!important;position:absolute!important;inset:-1rem 25%!important;z-index:-1!important;
+  border-radius:1.25rem!important;background-image:linear-gradient(-56deg,#EABD54 9%,#F7E281 33%,#EABD54 95%)!important;
+  -webkit-mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0)!important;
+  mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0)!important;
+  -webkit-mask-composite:xor!important;mask-composite:exclude!important;
+  padding:1px!important;pointer-events:none!important;
+}
+#main-primary .service-price .service-price__list > .swiper {
+  position:relative!important;display:block!important;overflow:hidden!important;
+  width:100%!important;max-width:100%!important;min-width:0!important;height:auto!important;
+}
+#main-primary .service-price .service-price__list > .swiper > .swiper-wrapper {
+  position:relative!important;display:flex!important;align-items:stretch!important;
+  flex-wrap:nowrap!important;gap:0!important;width:100%!important;
+  max-width:none!important;padding:0!important;height:auto!important;
+  overflow:visible!important;overflow-x:visible!important;overflow-y:visible!important;
+  scroll-behavior:auto!important;scroll-snap-type:none!important;
+  touch-action:pan-y!important;overscroll-behavior:auto!important;
+  transition-timing-function:ease!important;
+}
+#main-primary .service-price .service-price__list .swiper-slide {
+  display:block!important;height:auto!important;min-width:0!important;
+  flex-grow:0!important;flex-shrink:0!important;flex-basis:auto!important;
+  scroll-snap-align:none!important;margin-block:0!important;
+}
+#main-primary .service-price .service-price__item {
+  box-sizing:border-box!important;display:block!important;width:100%!important;height:100%!important;
+  aspect-ratio:auto!important;height:auto!important;overflow:hidden!important;margin:0!important;
+  padding:10px!important;border:0!important;box-shadow:none!important;
+  background-image:linear-gradient(90deg,#A46B1C 8%,#ECC061 30%,#EFB538 61%,#B0772A 87%)!important;
+}
+#main-primary .service-price .service-price__image {
+  display:block!important;width:100%!important;height:auto!important;aspect-ratio:480/710!important;object-fit:contain!important;
+}
+#main-primary .service-price .service-price__aside {
+  position:absolute!important;top:0!important;bottom:0!important;left:auto!important;
+  right:calc(100% + clamp(16px,-104px + 10vw,48px))!important;
+  display:flex!important;flex-direction:column!important;justify-content:space-between!important;
+  align-items:flex-start!important;align-self:auto!important;
+  order:unset!important;width:120px!important;max-width:120px!important;
+  gap:10rem!important;padding:0!important;transform:none!important;
+  text-align:initial!important;color:white!important;
+}
+#main-primary .service-price .service-price__aside-title {
+  position:relative!important;display:block!important;font-family:var(--font-title,Georgia,serif)!important;
+  font-weight:400!important;font-size:clamp(36px,1.94vw + 27.75px,65px)!important;
+  line-height:1!important;letter-spacing:0!important;text-align:center!important;
+  text-transform:uppercase!important;word-break:break-all!important;
+  color:white!important;max-width:none!important;margin:0!important;
+}
+#main-primary .service-price .service-price__aside-title::after {
+  content:''!important;position:absolute!important;top:calc(100% + 1rem)!important;left:calc(50% - 1px)!important;
+  width:2px!important;height:120px!important;margin:0!important;background:#fff!important;
+}
+#main-primary .service-price .service-price__aside-group {
+  display:block!important;position:static!important;text-align:center!important;
+  writing-mode:sideways-lr!important;align-self:auto!important;transform:none!important;
+}
+#main-primary .service-price .service-price__aside-name {
+  display:block!important;font-family:var(--font-title,Georgia,serif)!important;
+  font-weight:700!important;font-size:clamp(30px,1.2vw + 24.88px,48px)!important;
+  line-height:1.15!important;text-transform:uppercase!important;
+  color:transparent!important;-webkit-text-fill-color:transparent!important;
+  background-image:linear-gradient(-176deg,#EABD54 9%,#F7E281 33%,#EABD54 95%)!important;
+  -webkit-background-clip:text!important;background-clip:text!important;
+  writing-mode:inherit!important;transform:none!important;margin:0!important;
+}
+#main-primary .service-price .service-price__aside-btn {
+  display:inline-block!important;padding:0!important;background:none!important;border:0!important;
+  color:#fff!important;font-weight:400!important;font-size:clamp(18px,.14vw + 17.43px,20px)!important;
+  letter-spacing:.15em!important;text-decoration:underline!important;text-underline-offset:4px!important;
+  text-transform:uppercase!important;writing-mode:inherit!important;transform:none!important;
+  margin:8px 0 0!important;cursor:pointer;
+}
+#main-primary .service-price .service-price__aside-btn:hover {letter-spacing:.25em!important;}
+#main-primary .service-price .mh-price-arrow {display:none!important;}
+
+/* 2 — ORIGINAL ALBUM STRIPS: 8 Nail photos leftwards, 12 Spa photos
+   rightwards. Splide free-drag, 7 per view, 2px gap, AutoScroll speed ±2. */
+#main-primary section.album-featured {
+  display:block!important;background-color:var(--mh-source-cream)!important;
+  overflow:hidden!important;padding:80px 0!important;margin:0!important;
+}
+#main-primary section.album-featured > .album-featured__list {
+  display:block!important;position:relative!important;grid-template-columns:none!important;
+  min-height:0!important;width:100%!important;margin:0!important;background:transparent!important;
+}
+#main-primary section.album-featured > .album-featured__list:not(:last-child) {margin-bottom:2px!important;}
+#main-primary section.album-featured .album-featured__title {
+  display:block!important;position:static!important;order:unset!important;min-height:0!important;
+  padding:0!important;margin:0!important;max-width:none!important;
+  font-family:var(--font-base,"SVN-Gilroy")!important;font-weight:700!important;
+  font-size:clamp(42px,3.88vw + 25.51px,100px)!important;
+  line-height:1.25!important;letter-spacing:0!important;text-transform:uppercase!important;
+  text-align:left!important;color:var(--mh-source-cream)!important;
+  -webkit-text-fill-color:var(--mh-source-cream)!important;
+  background-image:linear-gradient(180deg,#B6602B 35%,#502A13 100%)!important;
+  -webkit-background-clip:text!important;background-clip:text!important;
+  -webkit-text-stroke:3px transparent!important;
+}
+#main-primary section.album-featured #nail-hottrend .album-featured__title {margin-left:var(--mh-rest-vw)!important;}
+#main-primary section.album-featured #khong-gian .album-featured__title {
+  text-align:right!important;margin-right:var(--mh-rest-vw)!important;
+}
+#main-primary section.album-featured .album-featured__splide {
+  display:block!important;width:100%!important;height:auto!important;aspect-ratio:auto!important;
+  position:relative!important;overflow:hidden!important;margin:0!important;
+}
+#main-primary section.album-featured .album-featured__splide > .splide__track {
+  display:block!important;position:relative!important;width:100%!important;height:auto!important;
+  overflow:hidden!important;overflow-x:hidden!important;overflow-y:hidden!important;
+  scroll-behavior:auto!important;scroll-snap-type:none!important;
+  touch-action:pan-y!important;cursor:grab;
+}
+#main-primary section.album-featured .album-featured__splide > .splide__track:active {cursor:grabbing;}
+#main-primary section.album-featured .album-featured__splide .splide__list {
+  display:flex!important;flex-wrap:nowrap!important;align-items:stretch!important;
+  width:auto!important;min-width:0!important;max-width:none!important;
+  height:auto!important;gap:0!important;
+  scroll-behavior:auto!important;scroll-snap-type:none!important;
+  transition:none!important;
+  /* Splide supplies an inline transform; never override it here. */
+}
+#main-primary section.album-featured .album-featured__splide .splide__slide {
+  display:block!important;flex-grow:0!important;flex-shrink:0!important;
+  flex-basis:auto!important;min-width:0!important;max-width:none!important;
+  height:auto!important;overflow:hidden!important;scroll-snap-align:none!important;
+  /* Splide supplies the exact computed width as an inline declaration. */
+}
+#main-primary section.album-featured .album-featured__item {
+  display:block!important;position:relative!important;aspect-ratio:1!important;
+  width:100%!important;height:auto!important;overflow:hidden!important;
+  margin:0!important;cursor:zoom-in!important;
+}
+#main-primary section.album-featured .album-featured__image {
+  display:block!important;width:100%!important;height:100%!important;
+  aspect-ratio:1!important;object-fit:cover!important;
+  transition:transform .5s ease!important;
+}
+#main-primary section.album-featured .album-featured__item:hover .album-featured__image {transform:scale(1.05)!important;}
+#main-primary section.album-featured .react-slider-arrow,
+#main-primary section.album-featured .react-slider-dots {display:none!important;}
+@media(max-width:1200px){
+  #main-primary .service-price .service-price__aside {display:none!important;}
+}
+@media(max-width:767px){
+  #main-primary section.service-price {padding:58px 0 65px!important;}
+  #main-primary section.service-price > .wrap-content {width:calc(100% - 32px)!important;}
+  #main-primary .service-price .service-price__list {margin:2rem 0 1rem!important;padding:10px!important;}
+  #main-primary .service-price .service-price__item {padding:10px!important;}
+  #main-primary section.album-featured {padding:38px 0!important;}
+  #main-primary section.album-featured .album-featured__title {
+    font-size:clamp(42px,10vw,70px)!important;line-height:1.2!important;-webkit-text-stroke:2px transparent!important;
+  }
+  #main-primary section.album-featured #nail-hottrend .album-featured__title {margin-left:16px!important;}
+  #main-primary section.album-featured #khong-gian .album-featured__title {margin-right:16px!important;}
+}
+@media(prefers-reduced-motion:reduce){
+  #main-primary section.album-featured .album-featured__image {transition:none!important;}
+}

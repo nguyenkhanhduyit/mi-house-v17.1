@@ -1,0 +1,53 @@
+/* Mi House V5: consistent footer and article interactions for original source pages */
+html {scrollbar-gutter:stable;}
+.site-root .footer,.site-root .footer__group {color:#fff!important;}
+.site-root .footer__group {background:linear-gradient(105deg,rgba(103,39,10,.93),rgba(129,58,17,.88)),url('/assets/images/footer-bg.jpg') center/cover no-repeat!important;}
+.site-root .footer__article {padding:65px 0 44px;}
+.site-root .footer__article-list {display:grid!important;grid-template-columns:1.12fr 1.65fr 1.1fr 1.1fr;gap:35px;align-items:start;}
+.site-root .footer__article-item {width:auto!important;max-width:none!important;min-width:0;}
+.site-root .footer__title,.site-root .footer__name,.site-root .footer__desc,.site-root .footer__content,.site-root .footer__nav-name,.site-root .social__item-inner {color:#fff!important;}
+.site-root .footer__powered,.site-root .footer__copyright {background:transparent!important;color:#fff!important;margin:0!important;}
+.site-root .footer__powered .wrap-content {border-top:1px solid rgba(255,255,255,.7);padding:20px 0!important;}
+.site-root .footer__copyright {padding:0!important;text-align:center;line-height:1.7;}
+.site-root .footer__copyright a {color:inherit!important;}
+.site-root .footer__logo img {max-width:125px;}
+.site-root .footer__map {background:#763e20;}
+.site-root .footer__map-iframe iframe {display:block;width:100%;min-height:300px;border:0;}
+.site-root .share {display:none!important;}
+.site-root .mh-source-page .content-main img {cursor:zoom-in;}
+.site-root .mh-source-page .content-main img:hover {transform:none!important;}
+.site-root .mh-source-page .content-main img,.site-root .mh-source-page .content-main a img {transition:none!important;}
+.site-root .box-toc.js-content-toc {display:block;max-width:100%;}
+.site-root .box-toc__body {overflow:hidden;}
+.site-root .box-toc--open .box-toc__body {max-height:1600px;opacity:1;}
+.site-root .box-toc__item {list-style:none;}
+.site-root .box-toc__link {display:block;cursor:pointer;}
+.site-root .content-main h2,.site-root .content-main h3,.site-root .content-main h4 {scroll-margin-top:115px;}
+.site-root .navigation.nav-open .navigation__bar>.navigation__button.open-nav {visibility:hidden!important;pointer-events:none!important;}
+.site-root .mh-slide-coverage {position:absolute;inset:0;z-index:2;display:block;cursor:pointer;}
+.site-root .slideshow__item {position:relative;}
+.site-root .slideshow__info {z-index:3;pointer-events:none;}
+.site-root .react-slider-arrow {z-index:6;}
+.site-root .slideshow__info a,.site-root .slideshow__info button {pointer-events:auto;}
+.site-root .intro__btn {display:inline-flex;align-items:center;gap:12px;margin-top:24px;}
+.site-root .training-landing__image-button {display:block;overflow:hidden;cursor:pointer;}
+.site-root .training-landing__image-button img {width:100%;height:100%;object-fit:cover;}
+@media(max-width:1024px){
+ .site-root .footer__article-list {grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 36px;}
+ .site-root .navigation__mobile .mh-mobile-close {position:relative;z-index:1;}
+}
+@media(max-width:640px){
+ .site-root .footer__article-list {grid-template-columns:1fr 1fr;gap:26px 20px;}
+ .site-root .footer__article-item:nth-child(2){grid-column:span 2;}
+ .site-root .footer__content,.site-root .footer__nav-name {font-size:13px;}
+ .site-root .footer__article {padding:45px 0 28px;}
+ .site-root .footer__powered .wrap-content {padding:16px 8px!important;}
+}
+@media(max-width:350px){.site-root .footer__article-list{grid-template-columns:1fr}.site-root .footer__article-item:nth-child(2){grid-column:auto}}
+
+/* Giữ nút xem thêm nguyên gốc, kể cả khi các lớp landing cũ được tải. */
+.site-root #main-primary .intro .intro__btn{display:inline-flex!important;visibility:visible!important;opacity:1!important;align-items:center;position:relative!important;pointer-events:auto!important}
+
+/* CMS-linked source intro action: preserve button class and visible focus state on all viewports. */
+.site-root #main-primary .intro .intro__btn:not([hidden]){display:inline-flex!important;visibility:visible!important;opacity:1!important;pointer-events:auto!important;align-items:center;gap:12px;margin-top:1rem;z-index:2}
+.site-root #main-primary .intro .intro__btn:focus-visible{outline:2px solid #8d5a3c;outline-offset:4px}

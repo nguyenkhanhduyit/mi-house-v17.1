@@ -1,0 +1,12 @@
+import { readFileSync, readdirSync, existsSync } from 'node:fs';
+import { resolve } from 'node:path';
+const root=resolve(import.meta.dirname,'..');
+const manifest=JSON.parse(readFileSync(resolve(root,'src/routeManifest.json'),'utf8'));
+const pages=readdirSync(resolve(root,'src/pages')).filter(p=>p.endsWith('.jsx'));
+const album=JSON.parse(readFileSync(resolve(root,'album-source-map.json'),'utf8'));
+const missingPages=Object.entries(manifest).filter(([route,entry])=>!existsSync(resolve(root,'src/pages',entry.file+'.jsx'))).map(([route])=>route);
+const invalidRoutes=Object.keys(manifest).filter(route=>!route.startsWith('/')); 
+const missingCss=['assets/css/prettier.css','assets/css/style.css','assets/css/navigation.css','assets/css/responsive.css','subpages.css'].filter(n=>!existsSync(resolve(root,'public',n)));
+const ok=Object.keys(manifest).length===26&&pages.length===26&&missingPages.length===0&&invalidRoutes.length===0&&missingCss.length===0&&album[0]?.images?.length===8&&album[1]?.images?.length===12;
+console.log(JSON.stringify({routes:Object.keys(manifest).length,jsxPages:pages.length,missingPages,invalidRoutes,missingCss,homeAlbumImages:album.map(x=>({name:x.title,count:x.images.length})),ok},null,2));
+if(!ok)process.exitCode=1;

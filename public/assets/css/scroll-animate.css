@@ -1,0 +1,146 @@
+/* ═══════════════════════════════════════════════════════════════
+   scroll-animate.css — Custom Scroll Animation Styles
+   Thay thế aos.css / aos.min.css (~25KB → ~2KB)
+   ═══════════════════════════════════════════════════════════════ */
+
+/* ───────────────────────────────────────────
+   Base: trạng thái TRƯỚC khi animate (ẩn)
+   Áp dụng cho mọi element có data-sa
+   ─────────────────────────────────────────── */
+[data-sa] {
+  transition-property: opacity, transform;
+  transition-duration: 600ms;
+  transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  will-change: opacity, transform;
+}
+
+/* Reduce motion: tắt animation cho người dùng đã bật setting */
+@media (prefers-reduced-motion: reduce) {
+  [data-sa] {
+    transition: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+/* ───────────────────────────────────────────
+   Trạng thái ban đầu (TRƯỚC animate)
+   ─────────────────────────────────────────── */
+[data-sa="fade-up"] {
+  opacity: 0;
+  transform: translateY(40px);
+}
+
+[data-sa="fade-down"] {
+  opacity: 0;
+  transform: translateY(-40px);
+}
+
+[data-sa="fade-left"] {
+  opacity: 0;
+  transform: translateX(40px);
+}
+
+[data-sa="fade-right"] {
+  opacity: 0;
+  transform: translateX(-40px);
+}
+
+[data-sa="fade-in"],
+[data-sa="fade"] {
+  opacity: 0;
+  transform: none;
+}
+
+[data-sa="zoom-in"] {
+  opacity: 0;
+  transform: scale(0.88);
+}
+
+[data-sa="zoom-out"] {
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+[data-sa="flip-up"] {
+  opacity: 0;
+  transform: perspective(600px) rotateX(20deg) translateY(30px);
+  transform-origin: center bottom;
+}
+
+[data-sa="flip-left"] {
+  opacity: 0;
+  transform: perspective(600px) rotateY(-20deg) translateX(30px);
+  transform-origin: right center;
+}
+
+[data-sa="flip-right"] {
+  opacity: 0;
+  transform: perspective(600px) rotateY(20deg) translateX(-30px);
+  transform-origin: left center;
+}
+
+[data-sa="slide-up"] {
+  opacity: 0;
+  transform: translateY(60px);
+}
+
+[data-sa="slide-left"] {
+  opacity: 0;
+  transform: translateX(60px);
+}
+
+[data-sa="slide-right"] {
+  opacity: 0;
+  transform: translateX(-60px);
+}
+
+[data-sa="none"] {
+  /* Không ẩn, nhưng vẫn nhận class sa-animate */
+}
+
+/* ───────────────────────────────────────────
+   Trạng thái SAU animate (.sa-animate)
+   ─────────────────────────────────────────── */
+[data-sa].sa-animate {
+  opacity: 1;
+  transform: none;
+}
+
+/* ───────────────────────────────────────────
+   Easing presets (dùng qua data-sa-easing)
+   ─────────────────────────────────────────── */
+/* ease-spring  → cubic-bezier(0.34, 1.56, 0.64, 1)  — bouncy  */
+/* ease-smooth  → cubic-bezier(0.25, 0.46, 0.45, 0.94) — mặc định */
+/* ease-sharp   → cubic-bezier(0.4, 0, 0.2, 1)        — Material */
+
+/* ───────────────────────────────────────────
+   Responsive: trên mobile dùng animation nhẹ hơn
+   ─────────────────────────────────────────── */
+@media (max-width: 768px) {
+  [data-sa="fade-up"],
+  [data-sa="slide-up"] {
+    transform: translateY(24px);
+  }
+
+  [data-sa="fade-left"],
+  [data-sa="slide-left"] {
+    transform: translateX(24px);
+  }
+
+  [data-sa="fade-right"],
+  [data-sa="slide-right"] {
+    transform: translateX(-24px);
+  }
+
+  [data-sa="flip-up"],
+  [data-sa="flip-left"],
+  [data-sa="flip-right"] {
+    /* Đơn giản hóa flip trên mobile */
+    transform: translateY(24px);
+  }
+
+  [data-sa] {
+    transition-duration: 450ms;
+  }
+}

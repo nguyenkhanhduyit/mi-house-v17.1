@@ -1,0 +1,32 @@
+/* V16 controls inside the isolated source Admin iframe */
+#cms-seo-card .seo-checklist{list-style:none;margin:10px 0;padding:0}
+#cms-seo-card .seo-checklist li{display:flex;gap:10px;align-items:flex-start;border-bottom:1px solid #eee;padding:7px 0;font-size:13px;line-height:1.4}
+#cms-seo-card .seo-checklist li.test-pass .icon{color:#168253}
+#cms-seo-card .seo-checklist li.test-warn .icon{color:#b8780a}
+#cms-seo-card .seo-checklist li.test-fail .icon{color:#c72d30}
+#cms-seo-card .is-over-limit{border-color:#c62828!important}
+.cms-rich-host{border:1px solid #d9dce4;border-radius:8px;overflow:hidden;background:#fff;margin-top:6px}
+.cms-rich-toolbar{display:flex;align-items:center;flex-wrap:wrap;gap:5px;padding:10px;background:#f7f7fb;border-bottom:1px solid #dedee5}
+.cms-rich-toolbar button{font-size:12px;min-height:32px}
+.cms-rich-toolbar select{width:auto;min-width:72px;max-width:145px}
+.cms-color-control{display:flex;align-items:center;gap:4px;font-size:12px}
+.cms-color-control input{height:28px;width:32px;padding:0;border:1px solid #ddd}
+.cms-rich-editable{outline:none;min-height:300px;max-height:650px;overflow-y:auto;padding:15px;font-size:15px;line-height:1.65;white-space:normal}
+.cms-rich-editable:focus{box-shadow:inset 0 0 0 2px #b28d6e}
+.cms-rich-editable img{max-width:100%;height:auto}
+.cms-rich-editable table{border-collapse:collapse;width:100%}
+.cms-rich-editable td,.cms-rich-editable th{border:1px solid #ddd;padding:7px}
+.cms-rich-source{display:none!important;width:100%;min-height:380px;padding:14px;font:13px/1.6 ui-monospace,Consolas,monospace;resize:vertical;border:0;background:#fff}
+.cms-html-mode .cms-rich-editable{display:none}
+.cms-html-mode .cms-rich-source{display:block!important}
+.cms-legacy-tree-hidden{display:none!important}
+.cms-media-main{width:100%!important;max-width:100%!important;flex:1 1 100%!important}
+.cms-media-main .source-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(175px,1fr));gap:14px;padding:12px!important}
+.cms-media-main .source-grid article{min-width:0;border:1px solid #e7e2de;border-radius:10px}
+.cms-media-main .source-grid article h6{font-size:13px;line-height:1.4;overflow-wrap:anywhere;color:#2f2b2b}
+.cms-media-main .source-grid article small{display:block;overflow-wrap:anywhere;color:#676767!important}
+.cms-media-main .source-grid-media{aspect-ratio:1/1;width:100%;overflow:hidden;border-radius:6px;background:#f4f0eb}
+.cms-media-main .source-grid-media img,.cms-media-main .source-grid-media video{width:100%;height:100%;object-fit:contain}
+.cms-media-main .source-grid button{font-size:12px;color:#312b27}
+.cms-media-main .source-grid button.btn-outline-danger{color:#a41f1f}
+@media(max-width:600px){.cms-media-main .source-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.cms-rich-toolbar{padding:6px}.cms-rich-editable{min-height:210px}}

@@ -1,0 +1,249 @@
+{
+  "/": {
+    "title": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp",
+    "description": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp là địa chỉ thư giãn được yêu thích tại Gò Vấp, chuyên gội đầu dưỡng sinh, massage thư giãn và chăm sóc cơ thể. Không gian nhẹ nhàng, ấm cúng cùng liệu trình chăm sóc tận tâm giúp bạn giảm căng thẳng, thư giãn tinh thần và tái tạo năng lượng sau những ngày bận rộn. Ghé Mi House Spa Quang Trung để tận hưởng những phút giây chăm sóc bản thân trọn vẹn.",
+    "keywords": "Gội Đầu Dưỡng Sinh Gò Vấp, Spa Quang Trung",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "_home"
+  },
+  "/album-anh": {
+    "title": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp",
+    "description": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp là địa chỉ thư giãn được yêu thích tại Gò Vấp, chuyên gội đầu dưỡng sinh, massage thư giãn và chăm sóc cơ thể. Không gian nhẹ nhàng, ấm cúng cùng liệu trình chăm sóc tận tâm giúp bạn giảm căng thẳng, thư giãn tinh thần và tái tạo năng lượng sau những ngày bận rộn. Ghé Mi House Spa Quang Trung để tận hưởng những phút giây chăm sóc bản thân trọn vẹn.",
+    "keywords": "Gội Đầu Dưỡng Sinh Gò Vấp, Spa Quang Trung",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "album-anh"
+  },
+  "/album-anh?page=1": {
+    "title": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp",
+    "description": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp là địa chỉ thư giãn được yêu thích tại Gò Vấp, chuyên gội đầu dưỡng sinh, massage thư giãn và chăm sóc cơ thể. Không gian nhẹ nhàng, ấm cúng cùng liệu trình chăm sóc tận tâm giúp bạn giảm căng thẳng, thư giãn tinh thần và tái tạo năng lượng sau những ngày bận rộn. Ghé Mi House Spa Quang Trung để tận hưởng những phút giây chăm sóc bản thân trọn vẹn.",
+    "keywords": "Gội Đầu Dưỡng Sinh Gò Vấp, Spa Quang Trung",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "album-anh_page_1"
+  },
+  "/album-anh?page=2": {
+    "title": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp",
+    "description": "Mi House Spa | Spa Quang Trung | Gội Đầu Dưỡng Sinh Gò Vấp là địa chỉ thư giãn được yêu thích tại Gò Vấp, chuyên gội đầu dưỡng sinh, massage thư giãn và chăm sóc cơ thể. Không gian nhẹ nhàng, ấm cúng cùng liệu trình chăm sóc tận tâm giúp bạn giảm căng thẳng, thư giãn tinh thần và tái tạo năng lượng sau những ngày bận rộn. Ghé Mi House Spa Quang Trung để tận hưởng những phút giây chăm sóc bản thân trọn vẹn.",
+    "keywords": "Gội Đầu Dưỡng Sinh Gò Vấp, Spa Quang Trung",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "album-anh_page_2"
+  },
+  "/bang-gia": {
+    "title": "Bảng Giá Mi House Spa – Gội Đầu Dưỡng Sinh Gò Vấp, Massage & Nail",
+    "description": "Tham khảo bảng giá Mi House Spa tại Gò Vấp với các dịch vụ gội đầu dưỡng sinh, massage và nail. Khám phá lựa chọn chăm sóc sắc đẹp, thư giãn trong không gian nâu – be ấm cúng tại 43 đường Quang Trung.",
+    "keywords": "bảng giá Mi House Spa, giá gội đầu dưỡng sinh Gò Vấp, gội đầu dưỡng sinh Gò Vấp, giá massage Gò Vấp, giá nail Gò Vấp, spa dưỡng sinh Gò Vấp",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "bang-gia"
+  },
+  "/dao-tao-hoc-vien": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "dao-tao-hoc-vien"
+  },
+  "/dao-tao": {
+    "title": "Đào tạo",
+    "description": "",
+    "keywords": "",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "dao-tao"
+  },
+  "/dich-vu": {
+    "title": "Dịch Vụ Mi House Spa – Gội Đầu Dưỡng Sinh Gò Vấp, Massage & Nail",
+    "description": "Khám phá dịch vụ tại Mi House Spa – địa chỉ gội đầu dưỡng sinh Gò Vấp với không gian nâu be ấm cúng. Trải nghiệm massage, nail và chăm sóc thư giãn tại 43 đường Quang Trung. Mở cửa 9:00 – 22:00.",
+    "keywords": "gội đầu dưỡng sinh Gò Vấp, dịch vụ Mi House Spa, massage Gò Vấp, nail Gò Vấp, spa dưỡng sinh Gò Vấp, gội đầu thư giãn Gò Vấp",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "dich-vu"
+  },
+  "/gioi-thieu": {
+    "title": "GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG",
+    "description": "Nếu bạn đang tìm kiếm GỘI ĐẦU DƯỠNG SINH, massage hoặc nail trong một không gian ấm áp, nhẹ nhàng, hãy ghé Mi House Spa để dành cho bản thân những phút giây thư giãn và chăm sóc trọn vẹn hơn. GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"NewsArticle\",\n \"mainEntityOfPage\": {\n \"@type\": \"WebPage\",\n \"@id\": \"https://google.com/article\"\n },\n \"headline\": \"MI HOUSE SPA\",\n \"image\": [\n \"/home/nn01622226/domains/mihousespa.com/public_html/upload/news\"\n ],\n \"datePublished\": \"2026-08-03\",\n \"dateModified\": \"2026-09-20\",\n \"author\": {\n \"@type\": \"Person\",\n \"name\": \"Mi House Spa Beauty\"\n },\n \"publisher\": {\n \"@type\": \"Organization\",\n \"name\": \"Google\",\n \"logo\": {\n \"@type\": \"ImageObject\",\n \"url\": \"https://mihousespa.com/upload/photo\"\n }\n },\n \"description\": \"Nếu bạn đang tìm kiếm GỘI ĐẦU DƯỠNG SINH, massage hoặc nail trong một không gian ấm áp, nhẹ nhàng, hãy ghé Mi House Spa để dành cho bản thân những phút giây thư giãn và chăm sóc trọn vẹn hơn. GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG\"\n }",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "gioi-thieu"
+  },
+  "/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa": {
+    "title": "Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp | Mi House Spa",
+    "description": "Tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp? Khám phá Mi House Spa với dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian ấm cúng.",
+    "keywords": "gội đầu dưỡng sinh đường Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, massage Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa.",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\"\n    },\n    \"headline\": \"Gội Đầu Dưỡng Sinh & Massage Gò Vấp – Thư Giãn Cơ Thể Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"\",\n        \"url\": \"\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\",\n        \"creditText\": \"Gội Đầu Dưỡng Sinh & Massage Gò Vấp – Thư Giãn Cơ Thể Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-10-15T23:15:35+07:00\",\n    \"dateModified\": \"2026-10-15T23:30:02+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh-amp-massage-go-vap-thu-gian-co-the-tai-mi-house-spa"
+  },
+  "/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa": {
+    "title": "Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp | Mi House Spa",
+    "description": "Tìm kiếm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp? Khám phá Mi House Spa với dịch vụ gội đầu dưỡng sinh, massage và nail trong không gian ấm cúng.",
+    "keywords": "gội đầu dưỡng sinh đường Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, Mi House Spa, massage Quang Trung Gò Vấp, spa dưỡng sinh Gò Vấp.",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\"\n    },\n    \"headline\": \"Gội Đầu Dưỡng Sinh & Massage Thư Giãn – Tận Hưởng Khoảng Lặng Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"\",\n        \"url\": \"\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\",\n        \"creditText\": \"Gội Đầu Dưỡng Sinh & Massage Thư Giãn – Tận Hưởng Khoảng Lặng Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-10-15T23:21:35+07:00\",\n    \"dateModified\": \"2026-10-15T23:21:35+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh-amp-massage-thu-gian-tan-huong-khoang-lang-tai-mi-house-spa"
+  },
+  "/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa": {
+    "title": "Gội Đầu Dưỡng Sinh Có Gì Đặc Biệt? Trải Nghiệm Thư Giãn Tại Mi House Spa",
+    "description": "Nếu bạn đang tìm một địa chỉ GỘI ĐẦU DƯỠNG SINH để thư giãn, chăm sóc tóc và dành cho bản thân một khoảng lặng giữa ngày bận rộn, hãy ghé Mi House Spa tại 43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh.",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"\n    },\n    \"headline\": \"Gội Đầu Dưỡng Sinh Có Gì Đặc Biệt? Trải Nghiệm Thư Giãn Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.png\",\n        \"url\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115914-1789019151.png\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\",\n        \"creditText\": \"Gội Đầu Dưỡng Sinh Có Gì Đặc Biệt? Trải Nghiệm Thư Giãn Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-09-10T11:37:35+07:00\",\n    \"dateModified\": \"2026-09-20T14:15:31+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh-co-gi-dac-biet-trai-nghiem-thu-gian-tai-mi-house-spa"
+  },
+  "/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa": {
+    "title": "Gội Đầu Dưỡng Sinh Gò Vấp: Tận Hưởng Khoảng Lặng Bình Yên Tại Mi House Spa",
+    "description": "Mi House Spa luôn sẵn sàng chào đón bạn đến tận hưởng một khoảng lặng bình yên, thư giãn cơ thể và dành thêm thời gian yêu thương chính mình.",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"\n    },\n    \"headline\": \"Gội Đầu Dưỡng Sinh Gò Vấp: Tận Hưởng Khoảng Lặng Bình Yên Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.png\",\n        \"url\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115922-1789019176.png\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\",\n        \"creditText\": \"Gội Đầu Dưỡng Sinh Gò Vấp: Tận Hưởng Khoảng Lặng Bình Yên Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-09-10T11:39:51+07:00\",\n    \"dateModified\": \"2026-09-20T14:04:09+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh-go-vap-tan-huong-khoang-lang-binh-yen-tai-mi-house-spa"
+  },
+  "/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa": {
+    "title": "Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp | Mi House Spa",
+    "description": "Khám phá dịch vụ gội đầu dưỡng sinh kết hợp massage tại Mi House Spa, 43 đường Quang Trung, Gò Vấp. Không gian nâu be ấm cúng, mở cửa 9:00–22:00.",
+    "keywords": "gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, gội đầu dưỡng sinh Gò Vấp, massage Quang Trung, Mi House Spa, spa dưỡng sinh Gò Vấp.",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\"\n    },\n    \"headline\": \"Gội Đầu Dưỡng Sinh Kết Hợp Massage Có Gì Đặc Biệt? Trải Nghiệm Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"\",\n        \"url\": \"\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\",\n        \"creditText\": \"Gội Đầu Dưỡng Sinh Kết Hợp Massage Có Gì Đặc Biệt? Trải Nghiệm Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-10-15T23:19:30+07:00\",\n    \"dateModified\": \"2026-10-15T23:19:30+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh-ket-hop-massage-co-gi-dac-biet-trai-nghiem-tai-mi-house-spa"
+  },
+  "/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa": {
+    "title": "GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG – Thư Giãn Cơ Thể, Chăm Sóc Tinh Thần Tại Mi House Spa",
+    "description": "Mi House Spa mở cửa từ 9:00 – 22:00, Thứ 2 đến Chủ Nhật. Hãy dành cho bản thân một khoảng thời gian thật nhẹ nhàng với gội đầu dưỡng sinh, massage hoặc chăm sóc nail tại Mi House Spa – nơi mỗi lần ghé thăm là một dịp để bạn chậm lại, thư giãn và nạp thêm năng lượng.",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"\n    },\n    \"headline\": \"Gội Đầu Dưỡng Sinh – Thư Giãn Cơ Thể, Chăm Sóc Tinh Thần Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.png\",\n        \"url\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115853-1789019129.png\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\",\n        \"creditText\": \"Gội Đầu Dưỡng Sinh – Thư Giãn Cơ Thể, Chăm Sóc Tinh Thần Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-09-10T11:34:08+07:00\",\n    \"dateModified\": \"2026-09-20T14:08:25+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh-thu-gian-co-the-cham-soc-tinh-than-tai-mi-house-spa"
+  },
+  "/goi-dau-duong-sinh": {
+    "title": "Gội Đầu Dưỡng Sinh Gò Vấp Tại Mi House Spa – Thư Giãn, Chăm Sóc Tóc Và Tái Tạo Năng Lượng",
+    "description": "Nếu bạn đang cần một khoảng thời gian để nghỉ ngơi, chăm sóc tóc và thư giãn tinh thần, hãy ghé Mi House Spa. Một buổi gội đầu dưỡng sinh không chỉ là chăm sóc mái tóc mà còn là cách bạn dành thêm thời gian yêu thương và chăm sóc chính mình. GỘI ĐẦU DƯỠNG SINH GÒ VẤP | GỘI ĐẦU DƯỠNG SINH QUANG TRUNG",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/goi-dau-duong-sinh\"\n    },\n    \"headline\": \"GỘI ĐẦU DƯỠNG SINH\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.png\",\n        \"url\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-124429-1789019075.png\",\n        \"license\": \"https://mihousespa.com/goi-dau-duong-sinh\",\n        \"acquireLicensePage\": \"https://mihousespa.com/goi-dau-duong-sinh\",\n        \"creditText\": \"GỘI ĐẦU DƯỠNG SINH\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-09-10T11:44:33+07:00\",\n    \"dateModified\": \"2026-09-20T14:20:12+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/goi-dau-duong-sinh\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "goi-dau-duong-sinh"
+  },
+  "/khong-gian": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "khong-gian"
+  },
+  "/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa": {
+    "title": "Massage Kết Hợp Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp | Mi House Spa",
+    "description": "Trải nghiệm gội đầu dưỡng sinh đường Quang Trung, Gò Vấp tại Mi House Spa. Kết hợp massage, chăm sóc tóc và thư giãn trong không gian nâu – be ấm cúng.",
+    "keywords": "gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, gội đầu dưỡng sinh Gò Vấp, massage Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa.",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\"\n    },\n    \"headline\": \"Massage Kết Hợp Gội Đầu Dưỡng Sinh – Chăm Sóc Cơ Thể Trọn Vẹn Tại Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"\",\n        \"url\": \"\",\n        \"license\": \"https://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\",\n        \"creditText\": \"Massage Kết Hợp Gội Đầu Dưỡng Sinh – Chăm Sóc Cơ Thể Trọn Vẹn Tại Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-10-15T23:25:43+07:00\",\n    \"dateModified\": \"2026-10-15T23:25:43+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "massage-ket-hop-goi-dau-duong-sinh-cham-soc-co-the-tron-ven-tai-mi-house-spa"
+  },
+  "/massage": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "massage"
+  },
+  "/mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian": {
+    "title": "Mi House Spa – Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Cho Những Ngày Cần Thư Giãn",
+    "description": "Mi House Spa tọa lạc tại 43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh. Spa mở cửa từ 9:00 – 22:00, Thứ 2 đến Chủ Nhật, thuận tiện để khách hàng ghé trải nghiệm vào nhiều khung giờ trong ngày.",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian\"\n    },\n    \"headline\": \"Mi House Spa – Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Cho Những Ngày Cần Thư Giãn\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.png\",\n        \"url\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115943-1789019165.png\",\n        \"license\": \"https://mihousespa.com/mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian\",\n        \"acquireLicensePage\": \"https://mihousespa.com/mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian\",\n        \"creditText\": \"Mi House Spa – Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Cho Những Ngày Cần Thư Giãn\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-09-10T11:38:33+07:00\",\n    \"dateModified\": \"2026-09-20T14:17:20+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "mi-house-spa-dia-chi-goi-dau-duong-sinh-go-vap-cho-nhung-ngay-can-thu-gian"
+  },
+  "/mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap": {
+    "title": "Mi House Spa – Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp",
+    "description": "Tìm địa chỉ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp? Khám phá Mi House Spa với không gian nâu be ấm cúng, dịch vụ gội đầu dưỡng sinh, massage và nail.",
+    "keywords": "gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, gội đầu dưỡng sinh Gò Vấp, massage Quang Trung, spa dưỡng sinh Gò Vấp, Mi House Spa, nail Gò Vấp.",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap\"\n    },\n    \"headline\": \"Mi House Spa – Không Gian Gội Đầu Dưỡng Sinh & Massage Ấm Cúng Tại Quang Trung, Gò Vấp\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"\",\n        \"url\": \"\",\n        \"license\": \"https://mihousespa.com/mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap\",\n        \"acquireLicensePage\": \"https://mihousespa.com/mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap\",\n        \"creditText\": \"Mi House Spa – Không Gian Gội Đầu Dưỡng Sinh & Massage Ấm Cúng Tại Quang Trung, Gò Vấp\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-10-15T23:27:32+07:00\",\n    \"dateModified\": \"2026-10-15T23:27:32+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "mi-house-spa-khong-gian-goi-dau-duong-sinh-amp-massage-am-cung-tai-quang-trung-go-vap"
+  },
+  "/nail-hottrend": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "nail-hottrend"
+  },
+  "/nail": {
+    "title": "",
+    "description": "",
+    "keywords": "",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "nail"
+  },
+  "/tin-tuc": {
+    "title": "Tin Tức Mi House Spa – Gội Đầu Dưỡng Sinh Gò Vấp & Làm Đẹp",
+    "description": "Khám phá tin tức Mi House Spa về gội đầu dưỡng sinh Gò Vấp, massage, nail và bí quyết chăm sóc sức khỏe, sắc đẹp. Cập nhật kiến thức làm đẹp, thư giãn và trải nghiệm dưỡng sinh tại Mi House Spa.",
+    "keywords": "gội đầu dưỡng sinh Gò Vấp, tin tức Mi House Spa, chăm sóc tóc Gò Vấp, massage Gò Vấp, nail Gò Vấp, chăm sóc sức khỏe và sắc đẹp",
+    "schemas": [
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "tin-tuc"
+  },
+  "/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa": {
+    "title": "Gội Đầu Dưỡng Sinh Đường Quang Trung, Gò Vấp – Mi House Spa",
+    "description": "- Tìm hiểu dịch vụ gội đầu dưỡng sinh đường Quang Trung, Gò Vấp tại Mi House Spa. Trải nghiệm gội đầu dưỡng sinh, massage và nail tại 43 đường Quang Trung, mở cửa 9:00–22:00 mỗi ngày.",
+    "keywords": "gội đầu dưỡng sinh đường Quang Trung, Gò Vấp, gội đầu dưỡng sinh Gò Vấp, massage Quang Trung Gò Vấp, Mi House Spa, spa dưỡng sinh Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\"\n    },\n    \"headline\": \"Top Địa Chỉ Gội Đầu Dưỡng Sinh & Massage Quang Trung Gò Vấp – Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"\",\n        \"url\": \"\",\n        \"license\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\",\n        \"creditText\": \"Top Địa Chỉ Gội Đầu Dưỡng Sinh & Massage Quang Trung Gò Vấp – Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-10-15T23:17:32+07:00\",\n    \"dateModified\": \"2026-10-15T23:17:32+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "top-dia-chi-goi-dau-duong-sinh-amp-massage-quang-trung-go-vap-mi-house-spa"
+  },
+  "/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa": {
+    "title": "Top Địa Chỉ Gội Đầu Dưỡng Sinh Ở Gò Vấp Được Yêu Thích – Mi House Spa",
+    "description": "Nếu bạn đang tìm kiếm GỘI ĐẦU DƯỠNG SINH, hãy ghé Mi House Spa để trải nghiệm không gian dưỡng sinh ấm áp cùng các dịch vụ chăm sóc đa dạng.",
+    "keywords": "gội đầu dưỡng sinh Quang Trung Gò Vấp, gội đầu dưỡng sinh Gò Vấp, spa dưỡng sinh Quang Trung, Mi House Spa Quang Trung, gội đầu thư giãn Gò Vấp, massage Quang Trung Gò Vấp, nail Gò Vấp",
+    "schemas": [
+      "{\n    \"@context\": \"https://schema.org\",\n    \"@type\": \"NewsArticle\",\n    \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"\n    },\n    \"headline\": \"Top Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Được Yêu Thích – Mi House Spa\",\n    \"image\": {\n        \"@context\": \"https://schema.org/\",\n        \"@type\": \"ImageObject\",\n        \"contentUrl\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.png\",\n        \"url\": \"https://mihousespa.com/upload/news/2026/09/10/anh-chup-man-hinh-2026-09-10-luc-115903-1789019139.png\",\n        \"license\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\",\n        \"acquireLicensePage\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\",\n        \"creditText\": \"Top Địa Chỉ Gội Đầu Dưỡng Sinh Gò Vấp Được Yêu Thích – Mi House Spa\",\n        \"copyrightNotice\": \"Mi House Spa Beauty\",\n        \"creator\": {\n            \"@type\": \"Organization\",\n            \"name\": \"Mi House Spa Beauty\"\n        }\n    },\n    \"datePublished\": \"2026-09-10T11:35:25+07:00\",\n    \"dateModified\": \"2026-09-20T14:13:25+07:00\",\n    \"author\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"url\": \"https://mihousespa.com/top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa\"\n    },\n    \"publisher\": {\n        \"@type\": \"Organization\",\n        \"name\": \"Mi House Spa Beauty\",\n        \"logo\": {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://mihousespa.com/upload/photo/2026/09/18/99cc7455-142a-44ff-8b8d-2e4b90c81c10-removebg-preview-1789700965.png\"\n        }\n    }\n}",
+      "{\n \"@context\": \"https://schema.org\",\n \"@type\": \"Organization\",\n \"name\": \"Mi House Spa Beauty\",\n \"url\": \"https://mihousespa.com/\",\n \"sameAs\": [\n  ],\n \"address\": {\n \"@type\": \"PostalAddress\",\n \"streetAddress\": \"43 đường Quang Trung, phường Gò Vấp, Thành Phố Hồ Chí Minh\",\n \"addressLocality\": \"Ho Chi Minh\",\n \"addressRegion\": \"Ho Chi Minh\",\n \"postalCode\": \"70000\",\n \"addressCountry\": \"vi\"\n }\n }"
+    ],
+    "file": "top-dia-chi-goi-dau-duong-sinh-go-vap-duoc-yeu-thich-mi-house-spa"
+  }
+}

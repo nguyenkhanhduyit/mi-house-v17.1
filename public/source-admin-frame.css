@@ -1,0 +1,18 @@
+/* Compatibility rules only for React-backed data in original Nasani HTML pages. */
+html,body{min-height:100%;margin:0}
+.ti{display:inline-flex;vertical-align:middle;align-items:center;justify-content:center}
+.ti::before{content:none!important}
+.ti svg{display:block;flex:0 0 auto}
+.source-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:15px;padding:12px}
+.source-grid .card{min-width:0}
+.source-grid-media{aspect-ratio:1.2;display:flex;align-items:center;justify-content:center;background:#f7f7f9;overflow:hidden;margin-bottom:10px;border:1px solid #eee;border-radius:5px}
+.source-grid-media img,.source-grid-media video{max-width:100%;max-height:100%;object-fit:contain}
+.source-grid h5,.source-grid h6{font-size:13px;overflow-wrap:anywhere}
+.source-picker-item{min-width:0;display:block;white-space:normal;text-align:center;color:#4b465c!important}
+.source-picker-item small{display:block;overflow:hidden;text-overflow:ellipsis;max-height:2.9em}
+#source-admin-picker .modal-body{max-height:65vh;overflow-y:auto}
+#source-cloudinary-library{background:white;border-radius:6px;border:1px solid #ebe9ed;padding:18px;margin-top:18px}
+#source-admin-body .source-current-media{width:100%;max-width:100%;margin-top:18px}
+#source-admin-body input[data-cms-key="image"]{font-size:12px}
+#source-admin-body .source-current-preview img{max-width:100%}
+@media(max-width:767px){.source-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.source-grid .card{padding:10px!important}}

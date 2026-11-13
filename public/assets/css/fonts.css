@@ -1,0 +1,333 @@
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyHeavy.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyHeavy.woff") format("woff");
+   font-weight: 950;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyHeavyItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyHeavyItalic.woff") format("woff");
+   font-weight: 950;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyBlack.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyBlack.woff") format("woff");
+   font-weight: 900;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyBlackItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyBlackItalic.woff") format("woff");
+   font-weight: 900;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyXBold.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyXBold.woff") format("woff");
+   font-weight: 750;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyXBoldItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyXBoldItalic.woff") format("woff");
+   font-weight: 750;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyBold.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyBold.woff") format("woff");
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyBoldItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyBoldItalic.woff") format("woff");
+   font-weight: 700;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroySemiBold.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroySemiBold.woff") format("woff");
+   font-weight: 600;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroySemiBoldItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroySemiBoldItalic.woff") format("woff");
+   font-weight: 600;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyMedium.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyMedium.woff") format("woff");
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyMediumItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyMediumItalic.woff") format("woff");
+   font-weight: 500;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-Gilroy.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-Gilroy.woff") format("woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyItalic.woff") format("woff");
+   font-weight: 400;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyXLight.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyXLight.woff") format("woff");
+   font-weight: 350;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyXLightItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyXLightItalic.woff") format("woff");
+   font-weight: 350;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyLight.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyLight.woff") format("woff");
+   font-weight: 300;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyLightItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyLightItalic.woff") format("woff");
+   font-weight: 300;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyThin.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyThin.woff") format("woff");
+   font-weight: 100;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SVN-Gilroy";
+   src:
+      url("../fonts/SVNGilroy/SVN-GilroyThinItalic.woff2") format("woff2"),
+      url("../fonts/SVNGilroy/SVN-GilroyThinItalic.woff") format("woff");
+   font-weight: 100;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Black.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Black.woff") format("woff");
+   font-weight: 900;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.woff") format("woff");
+   font-weight: 900;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-ExtraBold.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-ExtraBold.woff") format("woff");
+   font-weight: 800;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-ExtraBoldItalic.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-ExtraBoldItalic.woff") format("woff");
+   font-weight: 800;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Bold.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Bold.woff") format("woff");
+   font-weight: bolder;
+   font-weight: bold;
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-BoldItalic.woff") format("woff");
+   font-weight: bolder;
+   font-weight: bold;
+   font-weight: 700;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-SemiBold.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-SemiBold.woff") format("woff");
+   font-weight: 600;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-SemiBoldItalic.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-SemiBoldItalic.woff") format("woff");
+   font-weight: 600;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Medium.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Medium.woff") format("woff");
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-MediumItalic.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-MediumItalic.woff") format("woff");
+   font-weight: 500;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Regular.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Regular.woff") format("woff");
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "PlayfairDisplay";
+   src:
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Italic.woff2") format("woff2"),
+      url("../fonts/PlayfairDisplay/PlayfairDisplay-Italic.woff") format("woff");
+   font-weight: normal;
+   font-style: italic;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "1FTVVIPLuneaSans";
+   src:
+      url("../fonts/1FTVVIPLuneaSans-Regular.woff2") format("woff2"),
+      url("../fonts/1FTVVIPLuneaSans-Regular.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}

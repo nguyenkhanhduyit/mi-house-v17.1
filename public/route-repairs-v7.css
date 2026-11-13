@@ -1,0 +1,52 @@
+/* V7 final repair layer. Loaded AFTER the source CSS on EVERY route. */
+html {scrollbar-gutter:stable!important;scroll-behavior:smooth}
+body.mh-gallery-active{overflow:hidden!important}
+/* Prevent fixed modal from becoming relative to the site-root when any section transforms. */
+body > .mh-lightbox{position:fixed!important;inset:0!important;z-index:2147483000!important;isolation:isolate;display:flex!important;align-items:center;justify-content:center;background:rgba(12,10,9,.94)!important;color:white!important;touch-action:none}
+body > .mh-lightbox,body > .mh-lightbox *{box-sizing:border-box}
+body > .mh-lightbox .mh-lightbox__stage{position:absolute;inset:70px 56px 70px;display:flex;justify-content:center;align-items:center;overflow:hidden;touch-action:none;user-select:none}
+body > .mh-lightbox .mh-lightbox__stage img{display:block;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;transition:transform .15s ease;touch-action:none;cursor:zoom-in}
+body > .mh-lightbox .mh-lightbox__toolbar{position:absolute;top:10px;left:10px;right:10px;display:flex;justify-content:center;gap:8px;align-items:center;z-index:5;color:white}
+body > .mh-lightbox :is(.mh-lightbox__toolbar button,.mh-lightbox__arrow){border:1px solid #ffffff55;background:#302925;color:#fff;border-radius:5px;cursor:pointer;padding:8px 12px;min-width:34px;min-height:36px;font-size:21px}
+body > .mh-lightbox .mh-lightbox__toolbar .mh-lightbox__close{margin-left:auto;font-size:26px}
+body > .mh-lightbox .mh-lightbox__arrow{position:absolute;top:50%;transform:translateY(-50%);z-index:5;min-width:42px;height:52px;font-size:36px}
+body > .mh-lightbox .mh-lightbox__prev{left:5px}
+body > .mh-lightbox .mh-lightbox__next{right:5px}
+body > .mh-lightbox .mh-lightbox__caption{position:absolute;bottom:24px;left:10%;right:10%;text-align:center;color:#fff;font-size:14px;pointer-events:none}
+body > .mh-lightbox .mh-lightbox__hint{position:absolute;bottom:5px;left:10%;right:10%;text-align:center;font-size:11px;color:#ddd;pointer-events:none}
+body > .mh-lightbox button:disabled{opacity:.4}
+/* Footer: all columns and copyright inherit exactly the same background layer. */
+.site-root footer.mh-footer{position:relative!important;background:#773d1e!important;color:#fff!important;display:block!important}
+.site-root footer.mh-footer>.footer__group{background:linear-gradient(105deg,rgba(92,37,12,.88),rgba(124,52,18,.86)),url('/assets/images/footer-bg.jpg') center/cover no-repeat!important;background-color:#773d1e!important;overflow:visible!important}
+.site-root footer.mh-footer .footer__article-list{display:grid!important;grid-template-columns:minmax(0,1fr) minmax(0,1.6fr) minmax(0,1fr) minmax(0,1fr)!important;gap:28px!important;align-items:start!important;width:100%!important}
+.site-root footer.mh-footer .footer__article-item{width:auto!important;max-width:none!important;flex:initial!important;float:none!important;min-width:0!important;margin:0!important}
+.site-root footer.mh-footer .footer__article{background:none!important;padding:54px 0 24px!important}
+.site-root footer.mh-footer :is(.footer__powered,.footer__powered .wrap-content,.footer__copyright){background:transparent!important;background-color:transparent!important;background-image:none!important;color:#fff!important;box-shadow:none!important}
+.site-root footer.mh-footer .footer__powered{padding:0 0 18px!important;border:0!important}
+.site-root footer.mh-footer .footer__powered .wrap-content{border-top:1px solid #ffffffa3!important;padding:18px 8px 0!important}
+.site-root footer.mh-footer .footer__copyright{text-align:center!important;font-size:12px!important;font-weight:400!important;line-height:1.7!important;margin:0!important;padding:0!important}
+.site-root footer.mh-footer .footer__copyright a{color:inherit!important}
+.site-root footer.mh-footer :is(.footer__title,.footer__name,.footer__desc,.footer__content,.footer__nav-name){color:#fff!important}
+.site-root footer.mh-footer .footer__map{background:#773d1e!important}
+.site-root footer.mh-footer .footer__map iframe{display:block;width:100%;border:0}
+/* Article images must never translate or scale when a lightbox opens. */
+.site-root .mh-source-page :is(.content-main,.news-detail-gallery) img{transition:none!important;transform:none!important;cursor:zoom-in}
+.site-root .mh-source-page :is(.content-main,.news-detail-gallery) img:hover{transition:none!important;transform:none!important}
+/* TOC may not depend on lazy scripts or stylesheet order to remain usable. */
+.site-root .mh-source-page .js-content-toc:not([hidden]){display:block!important}
+.site-root .mh-source-page .box-toc__header{cursor:pointer;user-select:none}
+.site-root .mh-source-page .box-toc__body{overflow:hidden;max-height:0;opacity:0;transition:max-height .28s ease,opacity .2s ease}
+.site-root .mh-source-page .box-toc--open .box-toc__body{max-height:12000px;opacity:1}
+.site-root .mh-source-page .box-toc__link{cursor:pointer}
+.site-root .mh-source-page .content-main :is(h2,h3,h4){scroll-margin-top:120px}
+.site-root .mh-source-page :is(.share,.news-detail-share){display:none!important}
+.site-root .mh-source-page .news-side-list{display:flex;flex-direction:column;gap:12px;min-width:0}
+/* Guaranteed exactly one mobile close button; launcher is removed from React DOM while open. */
+.site-root .navigation__mobile .mh-mobile-head{display:flex;justify-content:space-between;align-items:center}
+.site-root .navigation__mobile .mh-mobile-close{cursor:pointer;display:flex;justify-content:center;align-items:center}
+@media(max-width:1024px){.site-root footer.mh-footer .footer__article-list{grid-template-columns:repeat(2,minmax(0,1fr))!important}.site-root footer.mh-footer .footer__article-item:nth-child(2){grid-column:auto}body > .mh-lightbox .mh-lightbox__stage{inset:78px 34px 73px}body > .mh-lightbox .mh-lightbox__arrow{min-width:28px;padding:4px}}
+@media(max-width:640px){.site-root footer.mh-footer .footer__article-list{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:22px!important}.site-root footer.mh-footer .footer__article-item:nth-child(2){grid-column:span 2}.site-root footer.mh-footer .footer__copyright{font-size:11px!important}body > .mh-lightbox .mh-lightbox__stage{inset:83px 18px 88px}body > .mh-lightbox .mh-lightbox__toolbar{gap:4px;justify-content:flex-start}body > .mh-lightbox .mh-lightbox__toolbar button{padding:5px;min-width:30px}body > .mh-lightbox .mh-lightbox__caption{bottom:37px}}
+@media(max-width:350px){.site-root footer.mh-footer .footer__article-list{grid-template-columns:1fr!important}.site-root footer.mh-footer .footer__article-item:nth-child(2){grid-column:auto}}
+
+/* Mobile browsers overlay their scrollbars; never reserve desktop gutter width. */
+@media (max-width:767px) {html {scrollbar-gutter:auto!important}}
