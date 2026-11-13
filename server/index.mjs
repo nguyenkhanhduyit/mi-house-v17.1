@@ -6,7 +6,7 @@ import {AsyncLocalStorage} from 'node:async_hooks';
 import {createPersistence,StorageConflict,StorageUnavailable} from './redis.mjs';
 import { fileURLToPath } from 'node:url';
 const ROOT=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
-function loadDotEnv(){const p=path.join(ROOT,'.env');if(!fs.existsSync(p))return;for(const line of fs.readFileSync(p,'utf8').split(/\r?\n/)){const m=line.match(/^\s*([A-Z_][A-Z_0-9]*)\s*=\s*(.*)\s*$/);if(m&&!process.env[m[1]])process.env[m[1]]=m[2].replace(/^['"]|['"]$/g,'');}}
+function loadDotEnv(){if(process.env.VERCEL)return;const p=path.join(ROOT,'.env');if(!fs.existsSync(p))return;for(const line of fs.readFileSync(p,'utf8').split(/\r?\n/)){const m=line.match(/^\s*([A-Z_][A-Z_0-9]*)\s*=\s*(.*)\s*$/);if(m&&!process.env[m[1]])process.env[m[1]]=m[2].replace(/^['"]|['"]$/g,'');}}
 loadDotEnv();
 // Cloudinary also documents CLOUDINARY_URL=cloudinary://KEY:SECRET@CLOUD_NAME.
 // Parse exclusively on the server. Never return these values from an API.

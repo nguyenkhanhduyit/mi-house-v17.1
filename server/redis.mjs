@@ -10,12 +10,58 @@ export class StorageUnavailable extends Error {
   constructor(message){super(message);this.status=503;}
 }
 
+// Resolve Vercel Marketplace and Upstash Console variable pairs safely.
+// A stale placeholder must not override a valid KV_REST_API_* integration.
+const readEnv = value => {
+ const text = typeof value === 'string' ? value.trim() : '';
+ return ((text.startsWith('"') && text.endsWith('"')) || (text.startsWith("'") && text.endsWith("'")))
+  ? text.slice(1, -1).trim() : text;
+};
+const isPlaceholder = value => /YOUR[_-]?DATABASE|REPLACE[_-]?WITH|PASTE[_-]?HERE|YOUR[_-]?TOKEN|<[^>]+>|\.\.\./i.test(value);
+function normalizeRedisUrl(value){
+ if (!value || isPlaceholder(value)) return '';
+ try {
+  const parsed = new URL(value);
+  // REST is HTTPS, not the rediss:// TCP endpoint; disallow embedded credentials.
+  if (parsed.protocol !== 'https:' || !parsed.hostname || parsed.username || parsed.password || parsed.search || parsed.hash || parsed.pathname !== '/') return '';
+  return parsed.origin;
+ } catch { return ''; }
+}
+export function resolveRedisEnvironment(env = process.env){
+ const pairs = [
+  {label:'UPSTASH_REDIS_REST_*', url:readEnv(env.UPSTASH_REDIS_REST_URL), token:readEnv(env.UPSTASH_REDIS_REST_TOKEN)},
+  {label:'KV_REST_API_*', url:readEnv(env.KV_REST_API_URL), token:readEnv(env.KV_REST_API_TOKEN)}
+ ];
+ const ready = pairs.map(p => ({...p,url:normalizeRedisUrl(p.url),validToken:Boolean(p.token && !isPlaceholder(p.token))})).filter(p=>p.url && p.validToken);
+ if(ready.length === 2 && ready[0].url !== ready[1].url){
+  return {url:'',token:'',source:'',error:'UPSTASH_REDIS_REST_* và KV_REST_API_* đang trỏ tới hai Redis khác nhau. Xóa cặp cũ trên Vercel để tránh ghi nhầm dữ liệu.'};
+ }
+ if(ready.length){
+  return {url:ready[0].url,token:ready[0].token,source:ready[0].label,error:null,
+   fallback:pairs[0].url && ready[0].label === 'KV_REST_API_*'};
+ }
+ const present=pairs.some(p=>p.url||p.token);
+ return {url:'',token:'',source:'',error:present
+  ? 'URL/token Upstash REST chưa hợp lệ. Không dùng URL mẫu, rediss://, token read-only hoặc giá trị thiếu; kiểm tra Environment Variables trên Vercel.'
+  : 'Chưa cấu hình Redis REST trên Vercel. Cần một cặp UPSTASH_REDIS_REST_URL/TOKEN hoặc KV_REST_API_URL/TOKEN.'};
+}
+function networkErrorCode(error){
+ const queue=[error,error?.cause];
+ if(error?.cause?.errors && Array.isArray(error.cause.errors))queue.push(...error.cause.errors);
+ for(const item of queue){
+  const code=String(item?.code||'');
+  if(/^[A-Z_]{3,32}$/.test(code))return code;
+ }
+ if(error?.name==='TimeoutError'||error?.name==='AbortError')return 'TIMEOUT';
+ return 'NETWORK';
+}
 export function createPersistence({dbPath,statsPath,seed}){
- const url=process.env.UPSTASH_REDIS_REST_URL||process.env.KV_REST_API_URL;
- const token=process.env.UPSTASH_REDIS_REST_TOKEN||process.env.KV_REST_API_TOKEN;
+ const selected=resolveRedisEnvironment();
+ const {url,token}=selected;
  const remote=Boolean(url&&token);
  // Never silently downgrade to local filesystem in a deployment.
- const configError=((process.env.VERCEL||process.env.CMS_REQUIRE_REDIS==='true')&&!remote)?'Chưa cấu hình UPSTASH_REDIS_REST_URL và UPSTASH_REDIS_REST_TOKEN trên Vercel.':((url&&!token)||(!url&&token))?'Cấu hình Upstash Redis chưa đầy đủ.':null;
+ const configError=(!remote && (process.env.VERCEL || process.env.CMS_REQUIRE_REDIS==='true' || process.env.UPSTASH_REDIS_REST_URL || process.env.UPSTASH_REDIS_REST_TOKEN || process.env.KV_REST_API_URL || process.env.KV_REST_API_TOKEN)) ? selected.error : null;
+ if(selected.fallback)console.warn('[cms redis] Bỏ qua cặp UPSTASH_REDIS_REST_* chưa hợp lệ; dùng KV_REST_API_* đã cấu hình.');
  // Even with the same Upstash database, production and preview never share state.
  const prefix=(process.env.CMS_REDIS_PREFIX||'mi-house')+':'+(process.env.VERCEL_ENV||'local');
  if(!/^[\w:.-]{1,90}$/.test(prefix))throw new Error('CMS_REDIS_PREFIX không hợp lệ');
@@ -26,7 +72,9 @@ export function createPersistence({dbPath,statsPath,seed}){
  let localVersion=0;
  async function command(...parts){
   if(!remote)throw new StorageUnavailable('Redis chưa được cấu hình');
-  const r=await fetch(url.replace(/\/$/,'') ,{method:'POST',headers:{Authorization:'Bearer '+token,'Content-Type':'application/json'},body:JSON.stringify(parts),signal:AbortSignal.timeout(12000)}).catch(e=>{throw new StorageUnavailable('Không kết nối được Redis: '+e.message)});
+  const r=await fetch(url ,{method:'POST',headers:{Authorization:'Bearer '+token,'Content-Type':'application/json'},body:JSON.stringify(parts),signal:AbortSignal.timeout(12000)}).catch(e=>{
+   throw new StorageUnavailable(`Không kết nối được Redis REST (${networkErrorCode(e)}, ${selected.source}). Kiểm tra endpoint HTTPS, DNS, region và kết nối Upstash trên Vercel.`);
+  });
   const obj=await r.json().catch(()=>null);
   if(!r.ok||!obj||obj.error)throw new StorageUnavailable('Redis trả lỗi: '+(obj?.error||r.status));
   return obj.result;
