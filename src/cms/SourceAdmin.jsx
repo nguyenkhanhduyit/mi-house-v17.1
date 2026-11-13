@@ -961,8 +961,10 @@ export default function SourceAdmin(){
  };
  const docHtml=useMemo(()=>makeDoc(authorized,screen.tab,screen.mode),[authorized,screen.tab,screen.mode,screen.editId,screen.route,screen.newId]);
  if(loading)return <div className="source-admin-loading" role="status">Đang kiểm tra phiên quản trị…</div>;
- return <div className="source-admin-host">
-  <iframe ref={frame} key={`${authorized}-${screen.tab}-${screen.mode}-${screen.editId||screen.newId||''}-${screen.route}`} title="Mi House Spa - Nasani Admin" srcDoc={docHtml} onLoad={onFrameLoad} className="source-admin-iframe" sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-downloads" />
+ // Critical viewport sizing must not depend on async CSS loading. The
+ // source UI still keeps its own styles in the iframe's isolated document.
+ return <div className="source-admin-host" style={{position:'fixed',inset:0,width:'100vw',height:'100dvh',maxWidth:'none',overflow:'hidden',margin:0,padding:0,background:'#f8f7fa'}}>
+  <iframe ref={frame} key={`${authorized}-${screen.tab}-${screen.mode}-${screen.editId||screen.newId||''}-${screen.route}`} title="Mi House Spa - Nasani Admin" srcDoc={docHtml} onLoad={onFrameLoad} className="source-admin-iframe" style={{position:'absolute',inset:0,display:'block',width:'100%',height:'100%',maxWidth:'none',border:0,margin:0,padding:0,background:'#f8f7fa'}} sandbox="allow-scripts allow-same-origin allow-forms allow-popups allow-downloads" />
   {message&&<div className="source-admin-notice" role="status"><span>{message}</span><button type="button" onClick={()=>setMessage('')} aria-label="Đóng">×</button></div>}
  </div>;
 }

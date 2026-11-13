@@ -16,6 +16,60 @@
       document.querySelector('meta[name="theme-color"]').content = '#f8f7fa';
     }
   </script>
+  <!-- Critical Admin shell. Do not rely on a CSS chunk loaded by the async
+       React Admin module: a failed/delayed chunk once produced a tiny iframe. -->
+  <style id="mi-admin-critical-layout">
+    html.mi-admin-scope,
+    html.mi-admin-scope body,
+    html.mi-admin-scope #root {
+      box-sizing: border-box !important;
+      width: 100% !important;
+      height: 100% !important;
+      min-height: 100% !important;
+      max-width: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      overflow: hidden !important;
+      background: #f8f7fa !important;
+    }
+    html.mi-admin-scope #root > .source-admin-host {
+      position: fixed !important;
+      inset: 0 !important;
+      box-sizing: border-box !important;
+      display: block !important;
+      width: 100vw !important;
+      height: 100vh !important;
+      height: 100dvh !important;
+      max-width: none !important;
+      max-height: none !important;
+      overflow: hidden !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      background: #f8f7fa !important;
+    }
+    html.mi-admin-scope #root > .source-admin-host > iframe.source-admin-iframe {
+      position: absolute !important;
+      display: block !important;
+      inset: 0 !important;
+      box-sizing: border-box !important;
+      width: 100% !important;
+      height: 100% !important;
+      max-width: none !important;
+      max-height: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      border: 0 !important;
+      background: #f8f7fa !important;
+    }
+    html.mi-admin-scope #root > .source-admin-loading {
+      position: fixed;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      background: #f8f7fa;
+      font: 15px/1.5 system-ui, sans-serif;
+    }
+  </style>
   <!-- Local fallback is deliberately the only render-blocking stylesheet.
        Original site CSS is loaded AFTER React mounts, without blocking the page. -->
   <link rel="stylesheet" href="/fallback.css" data-website-style />
